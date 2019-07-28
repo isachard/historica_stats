@@ -60,5 +60,5 @@ dictionaryUnders = dict.fromkeys(dictionaryUnders, 0)
 startOvers()
 startUnders()
 
-print(dictionaryOvers)
-print(dictionaryUnders)
+print(dictionaryOvers.values())
+# print(dictionaryUnders)

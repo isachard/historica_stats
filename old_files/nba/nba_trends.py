@@ -63,5 +63,8 @@ startLosers()
 for i in sorted(dictionaryWinners.keys()):
     print(i)
 
-print(dictionaryWinners)
-print(dictionaryLosers)
+print(dictionaryWinners.values())
+print(dictionaryLosers.values())
+
+
+print(dict(sorted(dictionaryWinners.items())))
