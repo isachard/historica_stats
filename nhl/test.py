@@ -64,17 +64,26 @@ class Simulation:
                         self.enterUnder(count)
                         count = 0
 
+    def distribution_over(self):
+        total = 0
+        for key, value in self.over.items():
+            total = total + value
+        print(total)
+
 
 a = Simulation()
 a.win_format()
 a.lose_format()
 print("\nOvers-Spread Trends for NHL :")
 
-a.totals_over()
 
+a.totals_over()
 print("\nUnders-Spread Trends for NHL :")
 
 a.totals_under()
+
+a.distribution_over()
+
 
 print("\nHow many games in 2017 regular season:?\n")
 
