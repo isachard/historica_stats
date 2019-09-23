@@ -1,12 +1,14 @@
 class Simulation:
     def __init__(self):
         self.teams = []
-        self.totals = []
+        self.games = []
         self.file = open('nba_results.txt', 'r')
         self.file = self.file.readlines()
         self.parse()
-        self.over = dict()
-        self.under = dict()
+        self.win = dict()
+        self.lost = dict()
+        self.sendWin = 0
+        self.sendLost = 0
 
     def parse(self):
         for i in range(60):
@@ -14,70 +16,125 @@ class Simulation:
                 self.teams.append(self.file[i])
 
             else:
-                self.totals.append(self.file[i])
+                self.games.append(self.file[i])
 
-    def enterOver(self, c):
-        if c in self.over:
-            self.over[c] += 1
+    def enterWin(self, c):
+        if c in self.win:
+            self.win[c] += 1
         else:
-            self.over[c] = 1
+            self.win[c] = 1
 
-    def enterUnder(self, c):
-        if c in self.under:
-            self.under[c] += 1
+    def enterLost(self, c):
+        if c in self.lost:
+            self.lost[c] += 1
         else:
-            self.under[c] = 1
+            self.lost[c] = 1
 
-    def totals_over(self):
-        print(dict(sorted(self.over.items())))
+    def totals_win_dict(self):
+        print(dict(sorted(self.win.items())))
 
-    def _over(self):
-        return self.over.values()
+    def percentage_distribution_win(self):
+        counter = 0
+        for keys in self.win.keys():
+            counter += 1
+            if counter > 9:
+                break
+            value = int(self.win[keys])
+            formula = float((100*value)/self.total_games_win())
+            formula = round(formula, 2)
+            print(str(counter) + " -> " + str(formula) + "%")
 
-    def _under(self):
-        return self.under.values()
+    def percentage_distribution_lost(self):
+        counter = 0
+        for keys in self.lost.keys():
+            counter += 1
+            if counter > 9:
+                break
 
-    def totals_under(self):
-        print(dict(sorted(self.under.items())))
+            value = int(self.lost[keys])
+            formula = float((100*value)/self.total_games_lost())
+            formula = round(formula, 2)
+            print(str(counter) + " -> " + str(formula) + "%")
+
+    def totals_win(self):
+        return self.win
+
+    def _win(self):
+        return self.win.values()
+
+    def _lost(self):
+        return self.lost.values()
+
+    def totals_lost_dict(self):
+        print(dict(sorted(self.lost.items())))
+
+    def _win_dict(self):
+        for key in self.win.items():
+            print(key, end='')
+
+    def totals_lost(self):
+        return self.lost
 
     def win_format(self):
         count = 0
         first = True
-        for t in self.totals:
+        for t in self.games:
             for i in t:
+                self.sendWin += 1
                 if (i == 'W'):
                     count += 1
                 else:
                     if (count > 0):
-                        self.enterOver(count)
+                        self.enterWin(count)
                         count = 0
 
     def lose_format(self):
         count = 0
+        send = 0
         first = True
-        for t in self.totals:
+        for t in self.games:
             for i in t:
+                self.sendLost += 1
                 if (i == 'L'):
                     count += 1
                 else:
                     if (count > 0):
-                        self.enterUnder(count)
+                        self.enterLost(count)
                         count = 0
+
+    def total_games_lost(self):
+        return(self.sendLost/4)
+
+    def total_games_win(self):
+        return(self.sendWin/4)
 
 
 a = Simulation()
 a.win_format()
 a.lose_format()
 print("\nWinners-Spread Trends for NBA :")
+a.totals_win_dict()
+c = a.percentage_distribution_win()
 
-a.totals_over()
+# a._win_dict()
 
 print("\nLosers-Spread Trends for NBA :")
 
-a.totals_under()
+a.totals_lost_dict()
+
+b = a.totals_win()
+
+c = a.percentage_distribution_lost()
+
+print(c)
+
 
 print("\nHow many games in 2017 regular season:?\n")
+a.total_games_win()
 
 
-# print(a._over())
-# print(a._under())
+a.totals_win()
+
+
+# print(a._win())
+# print(a._lost())
