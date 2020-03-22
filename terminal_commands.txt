@@ -1,0 +1,9 @@
+This are some commands that I used to formatfor data cleaning the dataset of each indiviual leagues.
+# sed is the Stream EDitor. It can do a whole pile of really cool things, but the most common is text replacement.
+#The s,%,$,g part of the command line is the sed command to execute. The s stands for substitute, the , characters are delimiters (other characters can be used; /, : and @ are popular).
+
+$sed -E "s/[[:space:]]+/,/g" file > output_file
+$sed -i 's/@ /@/g' file > output_file
+
+# Caution  GNU sed won't have -E. From the BSD sed man page: "The -E, -a and -i options are non-standard FreeBSD extensions and may not be available on other operating systems."
+# You can also use awk with a flag to know if the replacement was already done but sed works already 

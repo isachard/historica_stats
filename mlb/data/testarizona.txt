@@ -1,0 +1,162 @@
+10/01/17	@ KC	W 14-2	Robbie Ray (L)	Jason Vargas (L)	W -127	O 9 -103
+09/30/17	@ KC	L 3-4	Taijuan Walker (R)	Jakob Junis (R)	L 106	U 9 -105
+09/29/17	@ KC	L 1-2	Zack Greinke (R)	Ian Kennedy (R)	L -152	U 9 -110
+09/27/17	SF	W 4-3	Jeff Samardzija (R)	Braden Shipley (R)	W -131	U 10 106
+09/26/17	SF	W 11-4	Matt Moore (L)	Robbie Ray (L)	W -240	O 9.5 -110
+09/25/17	SF	L 2-9	Johnny Cueto (R)	Zack Godley (R)	L -115	O 9 109
+09/24/17	MIA	W 3-2	Dan Straily (R)	Patrick Corbin (L)	W -178	U 10.5 106
+09/23/17	MIA	L 6-12	Dillon Peters (L)	Taijuan Walker (R)	L -148	O 11 -123
+09/22/17	MIA	W 13-11	Adam Conley (L)	Zack Greinke (R)	W -223	O 10 -102
+09/20/17	@ SD	W 13-7	Robbie Ray (L)	Dinelson Lamet (R)	W -158	O 7 -123
+09/19/17	@ SD	L 2-6	Zack Godley (R)	Travis Wood (L)	L -180	U 8.5 -110
+09/18/17	@ SD	L 2-4	Patrick Corbin (L)	Luis Perdomo (R)	L -139	U 8.5 -102
+09/17/17	@ SF	L 2-7	Taijuan Walker (R)	Chris Stratton (R)	L -144	O 8.5 -113
+09/16/17	@ SF	W 2-0	Zack Greinke (R)	Madison Bumgarner (L)	W -138	U 7.5 -123
+09/15/17	@ SF	W 3-2	Robbie Ray (L)	Jeff Samardzija (R)	W -150	U 7.5 -110
+09/14/17	COL	W 7-0	Chad Bettis (R)	Zack Godley (R)	W -175	U 9.5 -101
+09/13/17	COL	W 8-2	German Marquez (R)	Patrick Corbin (L)	W -137	O 9.5 100
+09/12/17	COL	L 2-4	Jon Gray (R)	Taijuan Walker (R)	L -117	U 9 114
+09/11/17	COL	L 4-5	Kyle Freeland (L)	Zack Greinke (R)	L -188	P 9 -
+09/10/17	SD	W 3-2	Luis Perdomo (R)	Robbie Ray (L)	W -226	U 9 112
+09/09/17	SD	L 7-8	Jhoulys Chacin (R)	Zack Godley (R)	L -181	O 9.5 -106
+09/08/17	SD	L 6-10	Jordan Lyles (R)	Patrick Corbin (L)	L -220	O 9.5 -105
+09/06/17	@ LAD	W 3-1	Taijuan Walker (R)	Kenta Maeda (R)	W 171	U 8 108
+09/05/17	@ LAD	W 3-1	Zack Greinke (R)	Hyun-Jin Ryu (L)	W 134	U 7.5 -100
+09/04/17	@ LAD	W 13-0	Robbie Ray (L)	Rich Hill (L)	W 154	O 8.5 111
+09/03/17	@ COL	W 5-1	Zack Godley (R)	German Marquez (R)	W 124	U 10.5 112
+09/02/17	@ COL	W 6-2	Patrick Corbin (L)	Jon Gray (R)	W 118	U 11.5 -119
+09/01/17	@ COL	W 9-5	Taijuan Walker (R)	Kyle Freeland (L)	W 101	O 12 -113
+08/31/17	LAD	W 8-1	Kenta Maeda (R)	Zack Greinke (R)	W 102	O 8.5 -120
+08/30/17	LAD	W 6-4	Hyun-Jin Ryu (L)	Robbie Ray (L)	W 115	O 9.5 115
+08/29/17	LAD	W 7-6	Rich Hill (L)	Zack Godley (R)	W 103	O 9 102
+08/27/17	SF	W 11-0	Chris Stratton (R)	Patrick Corbin (L)	W -184	O 9.5 -102
+08/26/17	SF	W 2-1	Madison Bumgarner (L)	Taijuan Walker (R)	W -119	U 9 -102
+08/25/17	SF	W 4-3	Ty Blach (L)	Zack Greinke (R)	W -244	U 9.5 102
+08/24/17	@ NYM	W 3-2	Robbie Ray (L)	Rafael Montero (R)	W -140	U 8.5 -100
+08/23/17	@ NYM	L 2-4	Zack Godley (R)	Chris Flexen (R)	L -180	U 9 -105
+08/22/17	@ NYM	W 7-4	Patrick Corbin (L)	Tommy Milone (L)	W -162	O 9 -108
+08/21/17	@ NYM	W 3-2	Taijuan Walker (R)	Robert Gsellman (R)	W -128	U 9 -110
+08/20/17	@ MIN	L 5-12	T.J. McFarland (L)	Bartolo Colon (R)	L -104	O 10.5 -107
+08/19/17	@ MIN	L 0-5	Zack Greinke (R)	Jose Berrios (R)	L -137	U 9 -104
+08/18/17	@ MIN	L 3-10	Zack Godley (R)	Ervin Santana (R)	L -107	O 9 -120
+08/17/17	@ HOU	W 4-0	Patrick Corbin (L)	Mike Fiers (R)	W 112	U 9.5 -102
+08/16/17	@ HOU	L 5-9	Taijuan Walker (R)	Charlie Morton (R)	L 150	O 9 -117
+08/15/17	HOU	L 4-9	Brad Peacock (R)	Anthony Banda (L)	L -102	O 9.5 -113
+08/14/17	HOU	W 2-0	Collin McHugh (R)	Zack Greinke (R)	W -160	U 9 113
+08/13/17	CHC	L 2-7	Jake Arrieta (R)	Zack Godley (R)	L -109	P 9 -
+08/12/17	CHC	W 6-2	Jon Lester (L)	Patrick Corbin (L)	W -113	U 9.5 -115
+08/11/17	CHC	L 3-8	John Lackey (R)	Taijuan Walker (R)	L -114	O 10.5 102
+08/10/17	LAD	L 6-8	Yu Darvish (R)	Anthony Banda (L)	L 156	O 9 -126
+08/09/17	LAD	L 2-3	Alex Wood (L)	Zack Greinke (R)	L -106	U 9 103
+08/08/17	LAD	W 6-3	Kenta Maeda (R)	Zack Godley (R)	W 111	U 9.5 -100
+08/06/17	@ SF	L 3-6	Patrick Corbin (L)	Jeff Samardzija (R)	L -107	O 8 106
+08/05/17	@ SF	L 4-5	Taijuan Walker (R)	Chris Stratton (R)	L -150	O 8.5 -108
+08/04/17	@ SF	W 2-1	Anthony Banda (L)	Madison Bumgarner (L)	W 126	U 8 -104
+08/03/17	@ CHC	W 10-8	Zack Greinke (R)	Jose Quintana (L)	W 136	O 8.5 -129
+08/02/17	@ CHC	W 3-0	Zack Godley (R)	Jake Arrieta (R)	W 136	U 8 -105
+08/01/17	@ CHC	L 4-16	Patrick Corbin (L)	Jon Lester (L)	L 170	O 8.5 -120
+07/30/17	@ STL	L 2-3	Taijuan Walker (R)	Lance Lynn (R)	L 110	U 8.5 101
+07/29/17	@ STL	W 7-1	Zack Greinke (R)	Mike Leake (R)	W -113	P 8 -
+07/28/17	@ STL	L 0-1	Robbie Ray (L)	Michael Wacha (R)	L 121	U 8 100
+07/27/17	@ STL	W 4-0	Zack Godley (R)	Luke Weaver (R)	W -113	U 8.5 -100
+07/26/17	ATL	W 10-3	Aaron Blair (R)	Patrick Corbin (L)	W -208	O 10.5 -103
+07/25/17	ATL	L 3-8	Mike Foltynewicz (R)	Taijuan Walker (R)	L -150	O 10.5 104
+07/24/17	ATL	W 10-2	R.A. Dickey (R)	Zack Greinke (R)	W -212	O 9.5 100
+07/23/17	WAS	L 2-6	Stephen Strasburg (R)	Robbie Ray (L)	L 104	U 8.5 -111
+07/22/17	WAS	L 3-4	Tanner Roark (R)	Anthony Banda (L)	L 107	U 10 -106
+07/21/17	WAS	W 6-5	Max Scherzer (R)	Zack Godley (R)	W 138	O 8.5 -105
+07/20/17	@ CIN	W 12-2	Patrick Corbin (L)	Luis Castillo (R)	W 123	O 9.5 -103
+07/19/17	@ CIN	L 3-4	Zack Greinke (R)	Tim Adleman (R)	L -158	U 9.5 -108
+07/18/17	@ CIN	W 11-2	Robbie Ray (L)	Sal Romano (R)	W -155	O 9.5 104
+07/16/17	@ ATL	L 1-7	Zack Godley (R)	Jaime Garcia (L)	L -101	U 9 -101
+07/15/17	@ ATL	L 5-8	Patrick Corbin (L)	Mike Foltynewicz (R)	L -130	O 9.5 107
+07/14/17	@ ATL	L 3-4	Taijuan Walker (R)	R.A. Dickey (R)	L -102	U 9.5 -102
+07/09/17	CIN	L 1-2	Homer Bailey (R)	Patrick Corbin (L)	L -152	U 10 -118
+07/08/17	CIN	L 0-7	Luis Castillo (R)	Taijuan Walker (R)	L -121	U 9.5 -100
+07/07/17	CIN	W 6-3	Tim Adleman (R)	Zack Greinke (R)	W -192	P 9 -
+07/06/17	@ LAD	L 4-5	Robbie Ray (L)	Rich Hill (L)	L 132	O 7.5 -114
+07/05/17	@ LAD	L 0-1	Zack Godley (R)	Alex Wood (L)	L 219	U 7.5 -105
+07/04/17	@ LAD	L 3-4	Patrick Corbin (L)	Clayton Kershaw (L)	L 284	U 7.5 -113
+07/02/17	COL	W 4-3	German Marquez (R)	Taijuan Walker (R)	W -117	U 9.5 -108
+07/01/17	COL	W 6-2	Tyler Chatwood (R)	Zack Greinke (R)	W -175	U 8.5 104
+06/30/17	COL	L 3-6	Jon Gray (R)	Robbie Ray (L)	L -153	P 9 -
+06/29/17	STL	L 4-10	Lance Lynn (R)	Patrick Corbin (L)	L -126	O 10.5 -105
+06/28/17	STL	L 3-4	Adam Wainwright (R)	Zack Godley (R)	L -131	U 9.5 -100
+06/27/17	STL	W 6-5	Carlos Martinez (R)	Taijuan Walker (R)	W 112	O 9 -105
+06/26/17	PHI	W 6-1	Nick Pivetta (R)	Zack Greinke (R)	W -210	U 8.5 -116
+06/25/17	PHI	W 2-1	Jeremy Hellickson (R)	Randall Delgado (R)	W -170	U 10 -120
+06/24/17	PHI	W 9-2	Ben Lively (R)	Robbie Ray (L)	W -220	O 9.5 -115
+06/23/17	PHI	L 1-6	Mark Leiter (R)	Patrick Corbin (L)	L -175	U 10.5 108
+06/22/17	@ COL	W 10-3	Zack Godley (R)	Antonio Senzatela (R)	W 126	O 12 102
+06/21/17	@ COL	W 16-5	Taijuan Walker (R)	Jeff Hoffman (R)	W 132	O 12 -103
+06/20/17	@ COL	L 3-4	Zack Greinke (R)	German Marquez (R)	L 107	U 11 -105
+06/18/17	@ PHI	W 5-4	Robbie Ray (L)	Ben Lively (R)	W -172	P 9 -
+06/17/17	@ PHI	W 5-1	Zack Godley (R)	Jerad Eickhoff (R)	W -122	U 9 -102
+06/16/17	@ PHI	W 5-4	Patrick Corbin (L)	Aaron Nola (R)	W 115	O 8.5 -113
+06/14/17	@ DET	W 2-1	Taijuan Walker (R)	Jordan Zimmermann (R)	W 111	U 10 -105
+06/13/17	@ DET	W 7-6	Zack Greinke (R)	Buck Farmer (R)	W -109	O 9 -111
+06/11/17	MIL	W 11-1	Chase Anderson (R)	Robbie Ray (L)	W -145	O 8.5 -125
+06/10/17	MIL	W 3-2	Junior Guerra (R)	Zack Godley (R)	W -144	U 10.5 102
+06/09/17	MIL	L 6-8	Zach Davies (R)	Randall Delgado (R)	L -140	O 10 102
+06/08/17	SD	W 15-3	Clayton Richard (L)	Patrick Corbin (L)	W -134	O 9.5 110
+06/07/17	SD	W 7-4	Luis Perdomo (R)	Zack Greinke (R)	W -208	O 8.5 -107
+06/06/17	SD	W 10-2	Dinelson Lamet (R)	Robbie Ray (L)	W -153	O 8.5 -119
+06/04/17	@ MIA	L 5-6	Braden Shipley (R)	Vance Worley (R)	L 126	O 9 -105
+06/03/17	@ MIA	L 0-3	Randall Delgado (R)	Edinson Volquez (R)	L 129	U 8.5 -111
+06/02/17	@ MIA	L 5-7	Patrick Corbin (L)	Jose Urena (R)	L 106	O 8.5 -105
+06/01/17	@ MIA	W 3-2	Zack Greinke (R)	Jeff Locke (L)	W -116	U 8 -106
+05/31/17	@ PIT	W 6-5	Zack Godley (R)	Chad Kuhl (R)	W -101	O 9 -100
+05/30/17	@ PIT	W 3-0	Robbie Ray (L)	Ivan Nova (R)	W 112	U 8.5 -106
+05/29/17	@ PIT	L 3-4	Randall Delgado (R)	Trevor Williams (R)	L -108	U 9.5 -111
+05/28/17	@ MIL	L 5-9	Patrick Corbin (L)	Jimmy Nelson (R)	L 115	O 8.5 -112
+05/27/17	@ MIL	L 1-6	Zack Greinke (R)	Chase Anderson (R)	L -125	U 8.5 -114
+05/26/17	@ MIL	W 4-2	Zack Godley (R)	Junior Guerra (R)	W 102	U 8.5 110
+05/25/17	@ MIL	W 4-0	Robbie Ray (L)	Zach Davies (R)	W 102	U 8.5 115
+05/24/17	CHW	W 8-6	Jose Quintana (L)	Randall Delgado (R)	W -117	O 9 -103
+05/23/17	CHW	W 5-4	Dylan Covey (R)	Patrick Corbin (L)	W -160	U 11 -105
+05/22/17	CHW	W 5-1	Miguel Gonzalez (R)	Zack Greinke (R)	W -199	U 9.5 -123
+05/21/17	@ SD	L 1-5	Zack Godley (R)	Clayton Richard (L)	L -114	U 8 103
+05/20/17	@ SD	W 9-1	Robbie Ray (L)	Luis Perdomo (R)	W -110	O 7.5 -100
+05/19/17	@ SD	W 10-1	Taijuan Walker (R)	Jered Weaver (R)	W -147	O 8.5 -103
+05/17/17	NYM	W 5-4	Matt Harvey (R)	Patrick Corbin (L)	W -123	U 9.5 -105
+05/16/17	NYM	W 5-4	Tommy Milone (L)	Zack Greinke (R)	W -161	P 9 -
+05/15/17	NYM	W 7-3	Zack Wheeler (R)	Zack Godley (R)	W -108	O 9.5 -100
+05/14/17	PIT	L 4-6	Ivan Nova (R)	Robbie Ray (L)	L -147	O 9 104
+05/13/17	PIT	L 3-4	Trevor Williams (R)	Taijuan Walker (R)	L -160	U 10.5 104
+05/12/17	PIT	W 11-4	Tyler Glasnow (R)	Patrick Corbin (L)	W -145	O 10.5 -113
+05/11/17	PIT	W 2-1	Gerrit Cole (R)	Zack Greinke (R)	W -129	U 8.5 -116
+05/10/17	DET	W 7-1	Matthew Boyd (L)	Zack Godley (R)	W -137	U 10.5 -110
+05/09/17	DET	L 3-7	Justin Verlander (R)	Robbie Ray (L)	L -108	O 8.5 104
+05/07/17	@ COL	L 2-5	Taijuan Walker (R)	Tyler Chatwood (R)	L 105	U 11.5 106
+05/06/17	@ COL	L 1-9	Patrick Corbin (L)	Tyler Anderson (L)	L 118	U 11.5 -123
+05/05/17	@ COL	W 6-3	Zack Greinke (R)	German Marquez (R)	W -101	U 11 -103
+05/04/17	@ WAS	L 2-4	Braden Shipley (R)	Max Scherzer (R)	L 245	U 8 -110
+05/03/17	@ WAS	L 1-2	Robbie Ray (L)	Gio Gonzalez (L)	L 132	U 8 -102
+05/02/17	@ WAS	W 6-3	Taijuan Walker (R)	Tanner Roark (R)	W 130	O 8.5 110
+04/30/17	COL	W 2-0	German Marquez (R)	Patrick Corbin (L)	W -119	U 10.5 -113
+04/29/17	COL	L 6-7	Tyler Anderson (L)	Zack Greinke (R)	L -138	O 8.5 -123
+04/28/17	COL	L 1-3	Kyle Freeland (L)	Robbie Ray (L)	L -164	U 9 104
+04/27/17	SD	W 6-2	Jered Weaver (R)	Taijuan Walker (R)	W -199	U 10.5 -118
+04/26/17	SD	L 5-8	Trevor Cahill (R)	Zack Godley (R)	L -125	O 10 -105
+04/25/17	SD	W 9-3	Clayton Richard (L)	Patrick Corbin (L)	W -133	O 10 -118
+04/24/17	SD	W 7-6	Jhoulys Chacin (R)	Zack Greinke (R)	W -144	O 9 -113
+04/23/17	LAD	L 2-6	Brandon McCarthy (R)	Shelby Miller (R)	L 138	U 9 114
+04/22/17	LAD	W 11-5	Kenta Maeda (R)	Robbie Ray (L)	W 105	O 9 -123
+04/21/17	LAD	W 13-5	Alex Wood (L)	Taijuan Walker (R)	W 128	O 9.5 -101
+04/20/17	@ SD	L 1-4	Patrick Corbin (L)	Clayton Richard (L)	L -106	U 7.5 122
+04/19/17	@ SD	L 0-1	Zack Greinke (R)	Jhoulys Chacin (R)	L -131	U 7 -105
+04/18/17	@ SD	W 11-2	Shelby Miller (R)	Jarred Cosart (R)	W -121	O 8 -115
+04/17/17	@ LAD	W 4-2	Robbie Ray (L)	Brandon McCarthy (R)	W 146	U 7.5 -121
+04/16/17	@ LAD	W 3-1	Taijuan Walker (R)	Rich Hill (L)	W 174	U 7.5 108
+04/15/17	@ LAD	L 4-8	Patrick Corbin (L)	Kenta Maeda (R)	L 160	O 7.5 -102
+04/14/17	@ LAD	L 1-7	Zack Greinke (R)	Clayton Kershaw (L)	L 219	O 6 -117
+04/12/17	@ SF	L 2-6	Shelby Miller (R)	Matt Cain (R)	L 103	U 8.5 -103
+04/11/17	@ SF	W 4-3	Robbie Ray (L)	Jeff Samardzija (R)	W 104	U 7.5 106
+04/10/17	@ SF	L 1-4	Taijuan Walker (R)	Matt Moore (L)	L 118	U 8 -110
+04/09/17	CLE	W 3-2	Corey Kluber (R)	Patrick Corbin (L)	W 160	U 9.5 -111
+04/08/17	CLE	W 11-2	Trevor Bauer (R)	Zack Greinke (R)	W 101	O 9.5 102
+04/07/17	CLE	W 7-3	Josh Tomlin (R)	Shelby Miller (R)	W 124	P 10 -
+04/06/17	SF	W 9-3	Jeff Samardzija (R)	Robbie Ray (L)	W -110	O 9 -117
+04/05/17	SF	W 8-6	Matt Moore (L)	Taijuan Walker (R)	W -104	O 9.5 -110
+04/04/17	SF	L 4-8	Johnny Cueto (R)	Patrick Corbin (L)	L 128	O 9 -103
+04/02/17	SF	W 6-5	Madison Bumgarner (L)	Zack Greinke (R)	W 133	O 8.5 -119
