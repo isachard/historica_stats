@@ -1,0 +1,162 @@
+10/01/17	TOR	L 1-2	Brett Anderson (L)	Jordan Montgomery (L)	L -187	U 8.5 -105
+09/30/17	TOR	W 2-1	Marcus Stroman (R)	CC Sabathia (L)	W -154	U 8.5 -103
+09/29/17	TOR	W 4-0	Joe Biagini (R)	Masahiro Tanaka (R)	W -235	U 9 -108
+09/28/17	TB	L 6-9	Jake Faria (R)	Sonny Gray (R)	L -187	O 8.5 -110
+09/27/17	TB	W 6-1	Matt Andriese (R)	Luis Severino (R)	W -260	U 8.5 -101
+09/26/17	TB	W 6-1	Blake Snell (L)	Jordan Montgomery (L)	W -170	U 8.5 102
+09/25/17	KC	W 11-3	Jakob Junis (R)	CC Sabathia (L)	W -205	O 9 -115
+09/24/17	@ TOR	L 5-9	Jaime Garcia (L)	Marcus Stroman (R)	L 107	O 8.5 -102
+09/23/17	@ TOR	W 5-1	Sonny Gray (R)	Joe Biagini (R)	W -185	U 9 -108
+09/22/17	@ TOR	L 1-8	Masahiro Tanaka (R)	Marco Estrada (R)	L -174	O 8.5 -118
+09/20/17	MIN	W 11-3	Bartolo Colon (R)	Luis Severino (R)	W -300	O 8.5 -113
+09/19/17	MIN	W 5-2	Jose Berrios (R)	CC Sabathia (L)	W -165	U 8.5 103
+09/18/17	MIN	W 2-1	Ervin Santana (R)	Jaime Garcia (L)	W -166	U 8.5 -110
+09/17/17	BAL	L 4-6	Ubaldo Jimenez (R)	Sonny Gray (R)	L -230	O 9.5 103
+09/16/17	BAL	W 9-3	Jeremy Hellickson (R)	Jordan Montgomery (L)	W -185	O 9.5 -101
+09/15/17	BAL	W 8-2	Gabriel Ynoa (R)	Luis Severino (R)	W -282	O 9.5 111
+09/14/17	BAL	W 13-5	Wade Miley (L)	Masahiro Tanaka (R)	W -192	O 9.5 -117
+09/13/17	@ TB	W 3-2	Jaime Garcia (L)	Chris Archer (R)	W 118	U 7.5 -107
+09/12/17	@ TB	L 1-2	Sonny Gray (R)	Blake Snell (L)	L -133	U 8 -110
+09/11/17	@ TB	W 5-1	CC Sabathia (L)	Jake Odorizzi (R)	W -138	U 8.5 104
+09/10/17	@ TEX	W 16-7	Jordan Montgomery (L)	A.J. Griffin (R)	W -120	O 10.5 -103
+09/09/17	@ TEX	W 3-1	Luis Severino (R)	Andrew Cashner (R)	W -190	U 9 -102
+09/08/17	@ TEX	L 5-11	Masahiro Tanaka (R)	Martin Perez (L)	L -152	O 9.5 -110
+09/07/17	@ BAL	W 9-1	Sonny Gray (R)	Kevin Gausman (R)	W 104	O 8.5 -130
+09/05/17	@ BAL	L 6-7	CC Sabathia (L)	Jeremy Hellickson (R)	L -110	O 9.5 -118
+09/04/17	@ BAL	W 7-4	Jordan Montgomery (L)	Dylan Bundy (R)	W 126	O 9.5 -102
+09/03/17	BOS	W 9-2	Chris Sale (L)	Luis Severino (R)	W -101	O 7 116
+09/02/17	BOS	W 5-1	Drew Pomeranz (L)	Masahiro Tanaka (R)	W -147	U 8 -118
+09/01/17	BOS	L 1-4	Doug Fister (R)	Sonny Gray (R)	L -175	U 9 -130
+08/31/17	BOS	W 6-2	Eduardo Rodriguez (L)	CC Sabathia (L)	W -142	U 9 -102
+08/30/17	CLE	L 4-9	Ryan Merritt (L)	Jordan Montgomery (L)	L -170	O 9 102
+08/30/17	CLE	L 1-2	Trevor Bauer (R)	Jaime Garcia (L)	L -127	U 8.5 111
+08/28/17	CLE	L 2-6	Corey Kluber (R)	Luis Severino (R)	L -103	O 6.5 103
+08/27/17	SEA	W 10-1	Andrew Albers (L)	Masahiro Tanaka (R)	W -173	O 9.5 104
+08/26/17	SEA	W 6-3	Yovani Gallardo (R)	Sonny Gray (R)	W -203	U 9.5 -115
+08/25/17	SEA	L 1-2	Ariel Miranda (L)	CC Sabathia (L)	L -170	U 9.5 -117
+08/24/17	@ DET	L 6-10	Jaime Garcia (L)	Michael Fulmer (R)	L 101	O 9.5 105
+08/23/17	@ DET	W 10-2	Luis Severino (R)	Jordan Zimmermann (R)	W -250	O 9 103
+08/22/17	@ DET	W 13-4	Masahiro Tanaka (R)	Matthew Boyd (L)	W -181	O 9.5 -117
+08/20/17	@ BOS	L 1-5	Sonny Gray (R)	Rick Porcello (R)	L -103	U 9.5 -116
+08/19/17	@ BOS	W 4-3	CC Sabathia (L)	Chris Sale (L)	W 236	U 8.5 -111
+08/18/17	@ BOS	L 6-9	Jordan Montgomery (L)	Drew Pomeranz (L)	L 109	O 9 -115
+08/17/17	@ NYM	W 7-5	Luis Severino (R)	Steven Matz (L)	W -202	O 7 -110
+08/16/17	@ NYM	W 5-3	Jaime Garcia (L)	Robert Gsellman (R)	W -153	U 9 -125
+08/15/17	NYM	W 5-4	Jacob deGrom (R)	Sonny Gray (R)	W -138	O 8 -105
+08/14/17	NYM	W 4-2	Rafael Montero (R)	Luis Cessa (R)	W -180	U 10 -108
+08/13/17	BOS	L 2-3	Chris Sale (L)	Jordan Montgomery (L)	L 140	U 7.5 -115
+08/12/17	BOS	L 5-10	Drew Pomeranz (L)	Luis Severino (R)	L -164	O 8 104
+08/11/17	BOS	W 5-4	Eduardo Rodriguez (L)	Jaime Garcia (L)	W -127	O 8.5 -116
+08/10/17	@ TOR	L 0-4	Sonny Gray (R)	Marco Estrada (R)	L -167	U 8.5 111
+08/09/17	@ TOR	W 11-5	Masahiro Tanaka (R)	Nick Tepesch (R)	W -186	O 9 -107
+08/08/17	@ TOR	L 2-4	CC Sabathia (L)	J.A. Happ (L)	L 125	U 9 106
+08/06/17	@ CLE	W 8-1	Luis Severino (R)	Carlos Carrasco (R)	W 106	O 7.5 101
+08/05/17	@ CLE	W 2-1	Jordan Montgomery (L)	Danny Salazar (R)	W 116	U 8.5 -109
+08/04/17	@ CLE	L 2-7	Jaime Garcia (L)	Trevor Bauer (R)	L 104	P 9 -
+08/03/17	@ CLE	L 1-5	Sonny Gray (R)	Corey Kluber (R)	L 170	U 8 -124
+08/02/17	DET	L 0-2	Jordan Zimmermann (R)	Masahiro Tanaka (R)	L -250	U 10 -119
+08/01/17	DET	L 3-4	Anibal Sanchez (R)	CC Sabathia (L)	L -170	U 10 109
+07/31/17	DET	W 7-3	Michael Fulmer (R)	Luis Severino (R)	W -219	O 8 -113
+07/30/17	TB	L 3-5	Jake Faria (R)	Jordan Montgomery (L)	L -155	U 9 105
+07/29/17	TB	W 5-4	Blake Snell (L)	Caleb Smith (L)	W -157	P 9 -
+07/28/17	TB	W 6-1	Austin Pruitt (R)	Masahiro Tanaka (R)	W -190	U 9 102
+07/27/17	TB	W 6-5	Chris Archer (R)	CC Sabathia (L)	W -130	O 9 104
+07/26/17	CIN	W 9-5	Homer Bailey (R)	Luis Severino (R)	W -233	O 9 -105
+07/25/17	CIN	W 4-2	Luis Castillo (R)	Jordan Montgomery (L)	W -160	U 9 -115
+07/23/17	@ SEA	W 6-4	Caleb Smith (L)	Yovani Gallardo (R)	W -111	O 9.5 -104
+07/22/17	@ SEA	L 5-6	Masahiro Tanaka (R)	Ariel Miranda (L)	L -134	O 8.5 -116
+07/21/17	@ SEA	W 5-1	CC Sabathia (L)	Andrew Moore (R)	W -113	U 9 104
+07/20/17	@ SEA	W 4-1	Luis Severino (R)	Felix Hernandez (R)	W -142	U 8 -113
+07/19/17	@ MIN	L 1-6	Jordan Montgomery (L)	Jose Berrios (R)	L -107	U 9 -105
+07/18/17	@ MIN	W 6-3	Luis Cessa (R)	Bartolo Colon (R)	W -125	U 10.5 -115
+07/17/17	@ MIN	L 2-4	Bryan Mitchell (R)	Adalberto Mejia (L)	L 101	U 10 111
+07/16/17	@ BOS	L 0-3	Masahiro Tanaka (R)	David Price (L)	L 125	U 9 -105
+07/16/17	@ BOS	W 3-0	CC Sabathia (L)	Rick Porcello (R)	W 126	U 9.5 -101
+07/15/17	@ BOS	W 4-1	Luis Severino (R)	Chris Sale (L)	W 152	U 7.5 -103
+07/14/17	@ BOS	L 4-5	Jordan Montgomery (L)	Drew Pomeranz (L)	L 125	O 8.5 -101
+07/09/17	MIL	L 3-5	Jimmy Nelson (R)	Masahiro Tanaka (R)	L -161	U 9.5 -108
+07/08/17	MIL	W 5-3	Brent Suter (L)	Luis Severino (R)	W -191	U 9.5 111
+07/07/17	MIL	L 4-9	Junior Guerra (R)	Jordan Montgomery (L)	L -210	O 10.5 -119
+07/05/17	TOR	L 6-7	Marco Estrada (R)	Michael Pineda (R)	L -177	O 9 -106
+07/04/17	TOR	L 1-4	J.A. Happ (L)	CC Sabathia (L)	L 103	U 10 -103
+07/03/17	TOR	W 6-3	Marcus Stroman (R)	Masahiro Tanaka (R)	W -138	P 9 -
+07/02/17	@ HOU	L 1-8	Luis Severino (R)	Mike Fiers (R)	L -109	O 8.5 -103
+07/01/17	@ HOU	L 6-7	Jordan Montgomery (L)	Francis Martes (R)	L 115	O 9 -120
+06/30/17	@ HOU	W 13-4	Michael Pineda (R)	Lance McCullers Jr. (R)	W 159	O 8 -100
+06/29/17	@ CHW	L 3-4	Luis Cessa (R)	James Shields (R)	L -165	U 10 -110
+06/28/17	@ CHW	W 12-3	Masahiro Tanaka (R)	Carlos Rodon (L)	W -117	O 9 101
+06/27/17	@ CHW	L 3-4	Luis Severino (R)	Jose Quintana (L)	L -138	U 8 -116
+06/26/17	@ CHW	W 6-5	Jordan Montgomery (L)	David Holmberg (L)	W -156	O 10 105
+06/25/17	TEX	L 6-7	Nick Martinez (R)	Michael Pineda (R)	L -235	O 10.5 108
+06/24/17	TEX	L 1-8	Austin Bibens-Dirkx (R)	Luis Cessa (R)	L -154	U 11 -101
+06/23/17	TEX	W 2-1	Yu Darvish (R)	Masahiro Tanaka (R)	W -126	U 10 -117
+06/22/17	LAA	L 5-10	Jesse Chavez (R)	Luis Severino (R)	L -250	O 9 -111
+06/21/17	LAA	W 8-4	Ricky Nolasco (R)	Jordan Montgomery (L)	W -205	O 10.5 114
+06/20/17	LAA	L 3-8	Parker Bridwell (R)	Michael Pineda (R)	L -282	O 10.5 103
+06/18/17	@ OAK	L 3-4	Luis Cessa (R)	Jharel Cotton (R)	L -140	U 11 -104
+06/17/17	@ OAK	L 2-5	Masahiro Tanaka (R)	Jesse Hahn (R)	L -114	U 10 -115
+06/16/17	@ OAK	L 6-7	Luis Severino (R)	Sean Manaea (L)	L -126	O 8 -118
+06/15/17	@ OAK	L 7-8	Jordan Montgomery (L)	Sonny Gray (R)	L -106	O 9 116
+06/14/17	@ LAA	L 5-7	Michael Pineda (R)	Matt Shoemaker (R)	L -144	O 8 -111
+06/13/17	@ LAA	L 2-3	CC Sabathia (L)	JC Ramirez (R)	L -121	U 8.5 109
+06/12/17	@ LAA	W 5-3	Masahiro Tanaka (R)	Alex Meyer (R)	W -133	U 8.5 -123
+06/11/17	BAL	W 14-3	Kevin Gausman (R)	Chad Green (R)	W -170	O 10.5 -114
+06/10/17	BAL	W 16-3	Chris Tillman (R)	Luis Severino (R)	W -240	O 9.5 -128
+06/09/17	BAL	W 8-2	Dylan Bundy (R)	Jordan Montgomery (L)	W -170	O 9.5 -100
+06/08/17	BOS	W 9-1	David Price (L)	Michael Pineda (R)	W -125	O 8 -103
+06/07/17	BOS	W 8-0	Rick Porcello (R)	CC Sabathia (L)	W -108	U 9 -100
+06/06/17	BOS	L 4-5	Drew Pomeranz (L)	Masahiro Tanaka (R)	L -125	O 8.5 -103
+06/04/17	@ TOR	L 2-3	Luis Severino (R)	Marcus Stroman (R)	L 111	U 8 111
+06/03/17	@ TOR	W 7-0	Jordan Montgomery (L)	Joe Biagini (R)	W 135	U 9 -108
+06/02/17	@ TOR	L 5-7	Michael Pineda (R)	Francisco Liriano (L)	L -119	O 8.5 -117
+06/01/17	@ TOR	W 12-2	CC Sabathia (L)	Marco Estrada (R)	W 135	O 9 104
+05/31/17	@ BAL	L 4-10	Masahiro Tanaka (R)	Kevin Gausman (R)	L 104	O 8.5 -115
+05/30/17	@ BAL	W 8-3	Luis Severino (R)	Chris Tillman (R)	W -150	O 8.5 -105
+05/29/17	@ BAL	L 2-3	Jordan Montgomery (L)	Dylan Bundy (R)	L -103	U 9.5 -102
+05/28/17	OAK	W 9-5	Andrew Triggs (R)	Michael Pineda (R)	W -164	O 8.5 101
+05/27/17	OAK	W 3-2	Jharel Cotton (R)	CC Sabathia (L)	W -146	U 9.5 105
+05/26/17	OAK	L 1-4	Sean Manaea (L)	Masahiro Tanaka (R)	L -157	U 9.5 -104
+05/24/17	KC	W 3-0	Jason Hammel (R)	Luis Severino (R)	W -210	U 8.5 107
+05/23/17	KC	L 2-6	Danny Duffy (L)	Jordan Montgomery (L)	L -133	U 8.5 115
+05/22/17	KC	W 4-2	Jason Vargas (L)	Michael Pineda (R)	W -190	U 8 -100
+05/21/17	@ TB	W 3-2	CC Sabathia (L)	Chris Archer (R)	W 126	U 8 -104
+05/20/17	@ TB	L 5-9	Masahiro Tanaka (R)	Matt Andriese (R)	L -113	O 8 -113
+05/19/17	@ TB	L 4-5	Luis Severino (R)	Erasmo Ramirez (R)	L -126	O 8 -114
+05/18/17	@ KC	L 1-5	Jordan Montgomery (L)	Danny Duffy (L)	L -118	U 8.5 113
+05/17/17	@ KC	W 11-7	Michael Pineda (R)	Jason Vargas (L)	W -132	O 8.5 -115
+05/16/17	@ KC	W 7-1	CC Sabathia (L)	Jason Hammel (R)	W -115	U 9.5 -102
+05/14/17	HOU	L 7-10	Charlie Morton (R)	Masahiro Tanaka (R)	L -122	O 8.5 -101
+05/14/17	HOU	W 11-6	Mike Fiers (R)	Luis Severino (R)	W -145	O 9 109
+05/12/17	HOU	L 1-5	Lance McCullers Jr. (R)	Jordan Montgomery (L)	L 109	U 8 -102
+05/11/17	HOU	L 2-3	Dallas Keuchel (L)	Michael Pineda (R)	L -123	U 7.5 -101
+05/09/17	@ CIN	L 3-5	CC Sabathia (L)	Tim Adleman (R)	L -106	U 9 -118
+05/08/17	@ CIN	W 10-4	Masahiro Tanaka (R)	Rookie Davis (R)	W -125	O 8.5 -100
+05/07/17	@ CHC	W 5-4	Luis Severino (R)	Jon Lester (L)	W 117	O 7 106
+05/06/17	@ CHC	W 11-6	Jordan Montgomery (L)	Brett Anderson (L)	W 115	O 7.5 -115
+05/05/17	@ CHC	W 3-2	Michael Pineda (R)	Kyle Hendricks (R)	W 121	U 6.5 109
+05/03/17	TOR	W 8-6	Marcus Stroman (R)	CC Sabathia (L)	W 105	O 8.5 106
+05/02/17	TOR	W 11-5	Mat Latos (R)	Masahiro Tanaka (R)	W -199	O 9 111
+05/01/17	TOR	L 1-7	Marco Estrada (R)	Luis Severino (R)	L -181	O 7.5 111
+04/30/17	BAL	L 4-7	Wade Miley (L)	Jordan Montgomery (L)	L -120	O 8 -105
+04/29/17	BAL	W 12-4	Ubaldo Jimenez (R)	Michael Pineda (R)	W -173	O 9 -110
+04/28/17	BAL	W 14-11	Kevin Gausman (R)	CC Sabathia (L)	W -108	O 9 -104
+04/27/17	@ BOS	W 3-0	Masahiro Tanaka (R)	Chris Sale (L)	W 161	U 7 -100
+04/26/17	@ BOS	W 3-1	Luis Severino (R)	Rick Porcello (R)	W 106	U 7.5 106
+04/23/17	@ PIT	L 1-2	Jordan Montgomery (L)	Ivan Nova (R)	L 104	U 7.5 105
+04/22/17	@ PIT	W 11-5	Michael Pineda (R)	Jameson Taillon (R)	W -115	O 7 104
+04/21/17	@ PIT	L 3-6	CC Sabathia (L)	Tyler Glasnow (R)	L -104	O 7.5 -110
+04/19/17	CHW	W 9-1	Dylan Covey (R)	Masahiro Tanaka (R)	W -231	O 7.5 -104
+04/18/17	CHW	L 1-4	Miguel Gonzalez (R)	Luis Severino (R)	L -185	U 7 -113
+04/17/17	CHW	W 7-4	Derek Holland (L)	Jordan Montgomery (L)	W -164	O 8.5 -121
+04/16/17	STL	W 9-3	Adam Wainwright (R)	Michael Pineda (R)	W -136	O 8 -140
+04/15/17	STL	W 3-2	Carlos Martinez (R)	CC Sabathia (L)	W 111	U 8.5 -100
+04/14/17	STL	W 4-3	Michael Wacha (R)	Masahiro Tanaka (R)	W -128	U 7.5 -102
+04/13/17	TB	W 3-2	Matt Andriese (R)	Luis Severino (R)	W -136	U 8 -102
+04/12/17	TB	W 8-4	Blake Snell (L)	Jordan Montgomery (L)	W -125	O 8.5 -104
+04/10/17	TB	W 8-1	Alex Cobb (R)	Michael Pineda (R)	W -129	O 8 -117
+04/09/17	@ BAL	W 7-3	CC Sabathia (L)	Wade Miley (L)	W 105	O 8.5 -121
+04/08/17	@ BAL	L 4-5	Masahiro Tanaka (R)	Kevin Gausman (R)	L 107	O 7.5 -106
+04/07/17	@ BAL	L 5-6	Luis Severino (R)	Ubaldo Jimenez (R)	L -104	O 8.5 101
+04/05/17	@ TB	L 1-4	Michael Pineda (R)	Alex Cobb (R)	L -127	U 7.5 -120
+04/04/17	@ TB	W 5-0	CC Sabathia (L)	Jake Odorizzi (R)	W -104	U 7.5 102
+04/02/17	@ TB	L 3-7	Masahiro Tanaka (R)	Chris Archer (R)	L -114	O 7 -110

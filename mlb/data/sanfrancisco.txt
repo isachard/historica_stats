@@ -1,0 +1,162 @@
+10/01/17	SD	W 5-4	Luis Perdomo (R)	Johnny Cueto (R)	W -140	O 8 100
+09/30/17	SD	L 2-3	Jhoulys Chacin (R)	Matt Cain (R)	L 102	U 8.5 -110
+09/29/17	SD	W 8-0	Jordan Lyles (R)	Chris Stratton (R)	W -121	U 8.5 -108
+09/27/17	@ ARI	L 3-4	Jeff Samardzija (R)	Braden Shipley (R)	L 121	U 10 106
+09/26/17	@ ARI	L 4-11	Matt Moore (L)	Robbie Ray (L)	L 219	O 9.5 -110
+09/25/17	@ ARI	W 9-2	Johnny Cueto (R)	Zack Godley (R)	W 106	O 9 109
+09/24/17	@ LAD	L 1-3	Chris Stratton (R)	Clayton Kershaw (L)	L 305	U 7.5 100
+09/23/17	@ LAD	W 2-1	Madison Bumgarner (L)	Hyun-Jin Ryu (L)	W 127	U 7.5 -117
+09/22/17	@ LAD	L 2-4	Jeff Samardzija (R)	Rich Hill (L)	L 206	U 7.5 -113
+09/20/17	COL	W 4-0	Tyler Chatwood (R)	Matt Moore (L)	W 115	U 8.5 -108
+09/19/17	COL	W 4-3	German Marquez (R)	Johnny Cueto (R)	W 101	U 7.5 -101
+09/17/17	ARI	W 7-2	Taijuan Walker (R)	Chris Stratton (R)	W 133	O 8.5 -113
+09/16/17	ARI	L 0-2	Zack Greinke (R)	Madison Bumgarner (L)	L 127	U 7.5 -123
+09/15/17	ARI	L 2-3	Robbie Ray (L)	Jeff Samardzija (R)	L 138	U 7.5 -110
+09/13/17	LAD	L 1-4	Yu Darvish (R)	Matt Moore (L)	L 213	U 8.5 101
+09/12/17	LAD	L 3-5	Clayton Kershaw (L)	Johnny Cueto (R)	L 236	O 7 -108
+09/11/17	LAD	W 8-6	Kenta Maeda (R)	Chris Stratton (R)	W 183	O 8.5 -104
+09/10/17	@ CHW	L 1-8	Madison Bumgarner (L)	Carson Fulmer (R)	L -155	P 9 -
+09/09/17	@ CHW	L 1-13	Jeff Samardzija (R)	James Shields (R)	L -132	O 9 -106
+09/08/17	@ CHW	W 9-2	Matt Moore (L)	Lucas Giolito (R)	W 111	O 9 -110
+09/06/17	@ COL	W 11-3	Johnny Cueto (R)	Kyle Freeland (L)	W 182	O 11.5 111
+09/05/17	@ COL	L 6-9	Ty Blach (L)	Tyler Chatwood (R)	L 170	O 12 -105
+09/04/17	@ COL	L 3-4	Chris Stratton (R)	Chad Bettis (R)	L 156	U 12 122
+09/03/17	STL	L 3-7	Luke Weaver (R)	Madison Bumgarner (L)	L 106	O 8 115
+09/02/17	STL	W 2-1	Lance Lynn (R)	Jeff Samardzija (R)	W -100	U 9 108
+09/01/17	STL	L 6-11	Jack Flaherty (R)	Johnny Cueto (R)	L 102	O 9 -114
+08/31/17	STL	L 2-5	Michael Wacha (R)	Matt Cain (R)	L 165	U 8.5 102
+08/30/17	@ SD	L 0-5	Ty Blach (L)	Travis Wood (L)	L 137	U 8.5 109
+08/29/17	@ SD	L 3-6	Matt Moore (L)	Luis Perdomo (R)	L 129	O 8.5 -105
+08/28/17	@ SD	W 3-0	Jeff Samardzija (R)	Jhoulys Chacin (R)	W -105	U 7.5 -100
+08/27/17	@ ARI	L 0-11	Chris Stratton (R)	Patrick Corbin (L)	L 169	O 9.5 -102
+08/26/17	@ ARI	L 1-2	Madison Bumgarner (L)	Taijuan Walker (R)	L 110	U 9 -102
+08/25/17	@ ARI	L 3-4	Ty Blach (L)	Zack Greinke (R)	L 222	U 9.5 102
+08/23/17	MIL	W 4-2	Matt Garza (R)	Matt Moore (L)	W -116	U 9 -104
+08/22/17	MIL	L 3-4	Jimmy Nelson (R)	Jeff Samardzija (R)	L 105	U 7.5 -115
+08/21/17	MIL	W 2-0	Zach Davies (R)	Chris Stratton (R)	W 108	U 8.5 -104
+08/20/17	PHI	L 2-5	Ben Lively (R)	Madison Bumgarner (L)	L -237	U 8 100
+08/19/17	PHI	L 9-12	Jerad Eickhoff (R)	Ty Blach (L)	L -135	O 8 -113
+08/18/17	PHI	W 10-2	Zach Eflin (R)	Matt Moore (L)	W -175	O 8.5 -102
+08/17/17	PHI	W 5-4	Aaron Nola (R)	Jeff Samardzija (R)	W -119	O 7 -100
+08/16/17	@ MIA	L 1-8	Matt Cain (R)	Jose Urena (R)	L 159	U 9.5 -126
+08/15/17	@ MIA	W 9-4	Madison Bumgarner (L)	Dan Straily (R)	W 102	O 7.5 -105
+08/14/17	@ MIA	L 3-8	Ty Blach (L)	Adam Conley (L)	L 134	O 8.5 -116
+08/13/17	@ WAS	L 2-6	Matt Moore (L)	Max Scherzer (R)	L 246	P 8 -
+08/13/17	@ WAS	W 4-2	Chris Stratton (R)	A.J. Cole (R)	W 140	U 9.5 -125
+08/12/17	@ WAS	L 1-3	Jeff Samardzija (R)	Edwin Jackson (R)	L 115	U 9.5 -120
+08/09/17	CHC	W 3-1	Kyle Hendricks (R)	Madison Bumgarner (L)	W -120	U 7.5 -123
+08/08/17	CHC	W 6-3	Jose Quintana (L)	Ty Blach (L)	W 182	O 7.5 -100
+08/07/17	CHC	L 3-5	Jake Arrieta (R)	Matt Moore (L)	L 156	P 8 -
+08/06/17	ARI	W 6-3	Patrick Corbin (L)	Jeff Samardzija (R)	W -101	O 8 106
+08/05/17	ARI	W 5-4	Taijuan Walker (R)	Chris Stratton (R)	W 138	O 8.5 -108
+08/04/17	ARI	L 1-2	Anthony Banda (L)	Madison Bumgarner (L)	L -137	U 8 -104
+08/03/17	OAK	W 11-2	Kendall Graveman (R)	Ty Blach (L)	W -133	O 8.5 -111
+08/02/17	OAK	L 1-6	Daniel Gossett (R)	Matt Moore (L)	L -153	U 8.5 -104
+08/01/17	@ OAK	W 10-4	Jeff Samardzija (R)	Sean Manaea (L)	W 111	O 8 -110
+07/31/17	@ OAK	L 5-8	Matt Cain (R)	Paul Blackburn (R)	L 129	O 9.5 -105
+07/30/17	@ LAD	L 2-3	Madison Bumgarner (L)	Hyun-Jin Ryu (L)	L 145	U 8 -105
+07/29/17	@ LAD	L 1-2	Ty Blach (L)	Rich Hill (L)	L 275	U 8.5 111
+07/28/17	@ LAD	L 4-6	Matt Moore (L)	Alex Wood (L)	L 269	O 8.5 104
+07/26/17	PIT	W 2-1	Trevor Williams (R)	Jeff Samardzija (R)	W -155	U 8 -109
+07/25/17	PIT	W 11-3	Jameson Taillon (R)	Madison Bumgarner (L)	W -115	O 7.5 -110
+07/24/17	PIT	L 3-10	Gerrit Cole (R)	Matt Cain (R)	L 136	O 7.5 -127
+07/23/17	SD	L 2-5	Dinelson Lamet (R)	Ty Blach (L)	L -106	U 8.5 -100
+07/22/17	SD	W 5-4	Luis Perdomo (R)	Matt Moore (L)	W -115	O 8.5 -123
+07/21/17	SD	L 9-12	Trevor Cahill (R)	Jeff Samardzija (R)	L -165	O 7 -116
+07/20/17	SD	L 2-5	Jhoulys Chacin (R)	Madison Bumgarner (L)	L -205	P 7 -
+07/19/17	CLE	W 5-4	Carlos Carrasco (R)	Matt Cain (R)	W 202	O 8 118
+07/18/17	CLE	W 2-1	Mike Clevinger (R)	Ty Blach (L)	W 129	U 7.5 101
+07/17/17	CLE	L 3-5	Josh Tomlin (R)	Matt Moore (L)	L 116	P 8 -
+07/16/17	@ SD	L 1-7	Jeff Samardzija (R)	Trevor Cahill (R)	L -135	O 7.5 -105
+07/15/17	@ SD	L 3-5	Madison Bumgarner (L)	Jhoulys Chacin (R)	L -137	O 7.5 -101
+07/14/17	@ SD	W 5-4	Johnny Cueto (R)	Clayton Richard (L)	W -114	O 8 103
+07/09/17	MIA	L 8-10	Jose Urena (R)	Johnny Cueto (R)	L -116	O 8 -125
+07/08/17	MIA	L 4-5	Chris O'Grady (L)	Jeff Samardzija (R)	L -154	O 8 -106
+07/07/17	MIA	L 1-6	Dan Straily (R)	Matt Moore (L)	L -102	U 8.5 -123
+07/06/17	@ DET	L 2-6	Chris Stratton (R)	Anibal Sanchez (R)	L 101	U 11 -118
+07/05/17	@ DET	W 5-4	Ty Blach (L)	Daniel Norris (L)	W 182	U 11 -106
+07/04/17	@ DET	L 3-5	Matt Cain (R)	Michael Fulmer (R)	L 196	U 10 105
+07/02/17	@ PIT	W 5-3	Jeff Samardzija (R)	Trevor Williams (R)	W -165	U 8.5 -107
+07/01/17	@ PIT	W 2-1	Matt Moore (L)	Chad Kuhl (R)	W 104	U 9.5 -106
+06/30/17	@ PIT	W 13-5	Johnny Cueto (R)	Gerrit Cole (R)	W 109	O 8.5 111
+06/28/17	COL	W 5-3	Kyle Freeland (L)	Ty Blach (L)	W 109	U 9 -125
+06/27/17	COL	W 4-3	Jeff Hoffman (R)	Matt Cain (R)	W 104	U 8.5 -113
+06/26/17	COL	W 9-2	German Marquez (R)	Jeff Samardzija (R)	W -134	O 7.5 115
+06/25/17	NYM	L 2-8	Rafael Montero (R)	Matt Moore (L)	L -157	O 9 -105
+06/24/17	NYM	L 2-5	Jacob deGrom (R)	Johnny Cueto (R)	L -111	U 7.5 -101
+06/23/17	NYM	L 4-11	Seth Lugo (R)	Ty Blach (L)	L -120	O 8.5 -109
+06/22/17	@ ATL	L 11-12	Matt Cain (R)	Jaime Garcia (L)	L 153	O 9 -104
+06/21/17	@ ATL	L 3-5	Jeff Samardzija (R)	Sean Newcomb (L)	L -128	U 8.5 -113
+06/20/17	@ ATL	W 6-3	Matt Moore (L)	Julio Teheran (R)	W 101	U 9.5 -114
+06/19/17	@ ATL	L 0-9	Johnny Cueto (R)	R.A. Dickey (R)	L -140	P 9 -
+06/18/17	@ COL	L 5-7	Ty Blach (L)	Tyler Chatwood (R)	L 162	P 12 -
+06/17/17	@ COL	L 1-5	Matt Cain (R)	Kyle Freeland (L)	L 170	U 12.5 115
+06/16/17	@ COL	L 8-10	Jeff Samardzija (R)	Antonio Senzatela (R)	L 106	O 11.5 104
+06/15/17	@ COL	L 9-10	Matt Moore (L)	Jeff Hoffman (R)	L 153	O 11.5 -117
+06/14/17	KC	L 2-7	Jason Hammel (R)	Johnny Cueto (R)	L -167	O 7.5 -114
+06/13/17	KC	L 1-8	Jason Vargas (L)	Ty Blach (L)	L -108	O 7.5 104
+06/11/17	MIN	W 13-8	Nik Turley (L)	Matt Cain (R)	W -128	O 8.5 -110
+06/10/17	MIN	L 2-3	Jose Berrios (R)	Jeff Samardzija (R)	L -161	U 7.5 -125
+06/09/17	MIN	L 0-4	Ervin Santana (R)	Matt Moore (L)	L -129	U 8 -110
+06/08/17	@ MIL	W 9-5	Johnny Cueto (R)	Paolo Espino (R)	W -111	O 8.5 -127
+06/07/17	@ MIL	L 3-6	Ty Blach (L)	Jimmy Nelson (R)	L 106	P 9 -
+06/06/17	@ MIL	L 2-5	Matt Cain (R)	Chase Anderson (R)	L 106	U 9 -105
+06/05/17	@ MIL	W 7-2	Jeff Samardzija (R)	Junior Guerra (R)	W -125	O 8 -110
+06/04/17	@ PHI	L 7-9	Matt Moore (L)	Jeremy Hellickson (R)	L -107	O 9 -126
+06/03/17	@ PHI	L 3-5	Johnny Cueto (R)	Ben Lively (R)	L -137	U 8.5 -105
+06/02/17	@ PHI	W 10-0	Ty Blach (L)	Jerad Eickhoff (R)	W 115	O 9 -115
+05/31/17	WAS	L 1-3	Max Scherzer (R)	Matt Cain (R)	L 152	U 7.5 -120
+05/30/17	WAS	L 3-6	Gio Gonzalez (L)	Jeff Samardzija (R)	L -122	O 7.5 -115
+05/29/17	WAS	L 0-3	Tanner Roark (R)	Matt Moore (L)	L -106	U 8.5 -104
+05/28/17	ATL	W 7-1	R.A. Dickey (R)	Johnny Cueto (R)	W -195	P 8 -
+05/27/17	ATL	W 6-3	Mike Foltynewicz (R)	Ty Blach (L)	W -108	O 7.5 -110
+05/26/17	ATL	L 0-2	Jaime Garcia (L)	Matt Cain (R)	L -105	U 8 -101
+05/25/17	@ CHC	L 1-5	Jeff Samardzija (R)	Eddie Butler (R)	L 105	U 7.5 109
+05/24/17	@ CHC	L 4-5	Matt Moore (L)	Kyle Hendricks (R)	L 163	O 7 -107
+05/23/17	@ CHC	L 1-4	Johnny Cueto (R)	Jon Lester (L)	L 151	U 7 100
+05/22/17	@ CHC	W 6-4	Ty Blach (L)	John Lackey (R)	W 197	P 10 -
+05/21/17	@ STL	L 3-8	Matt Cain (R)	Adam Wainwright (R)	L 160	O 9 104
+05/20/17	@ STL	W 3-1	Jeff Samardzija (R)	Carlos Martinez (R)	W 126	U 8 -126
+05/19/17	@ STL	W 6-5	Matt Moore (L)	Michael Wacha (R)	W 132	O 8.5 108
+05/17/17	LAD	L 1-6	Clayton Kershaw (L)	Johnny Cueto (R)	L 165	O 6.5 -116
+05/16/17	LAD	W 2-1	Rich Hill (L)	Ty Blach (L)	W 134	U 7.5 104
+05/15/17	LAD	W 8-4	Brandon McCarthy (R)	Matt Cain (R)	W 110	O 8 -103
+05/14/17	CIN	W 8-3	Tim Adleman (R)	Jeff Samardzija (R)	W -146	O 8 103
+05/13/17	CIN	W 3-1	Lisalverto Bonilla (R)	Matt Moore (L)	W -112	U 8.5 100
+05/12/17	CIN	W 3-2	Scott Feldman (R)	Johnny Cueto (R)	W -153	U 7 -106
+05/11/17	CIN	L 2-3	Bronson Arroyo (R)	Ty Blach (L)	L -107	U 8.5 111
+05/10/17	@ NYM	W 6-5	Matt Cain (R)	Tommy Milone (L)	W 120	O 8 -122
+05/09/17	@ NYM	L 1-6	Jeff Samardzija (R)	Zack Wheeler (R)	L 106	P 7 -
+05/08/17	@ NYM	L 3-4	Matt Moore (L)	Jacob deGrom (R)	L 141	P 7 -
+05/07/17	@ CIN	L 0-4	Johnny Cueto (R)	Scott Feldman (R)	L -120	U 8.5 -120
+05/06/17	@ CIN	L 2-14	Ty Blach (L)	Amir Garrett (L)	L 126	O 9 -106
+05/05/17	@ CIN	L 3-13	Matt Cain (R)	Bronson Arroyo (R)	L 110	O 9 -113
+05/03/17	@ LAD	W 4-1	Jeff Samardzija (R)	Julio Urias (L)	W 146	U 7.5 -116
+05/02/17	@ LAD	L 5-13	Matt Moore (L)	Alex Wood (L)	L 157	O 7.5 -106
+05/01/17	@ LAD	W 4-3	Johnny Cueto (R)	Clayton Kershaw (L)	W 216	O 6 -104
+04/30/17	SD	L 2-5	Clayton Richard (L)	Ty Blach (L)	L -130	U 8 101
+04/29/17	SD	L 4-12	Jhoulys Chacin (R)	Matt Cain (R)	L -118	O 7.5 -113
+04/28/17	SD	W 4-3	Luis Perdomo (R)	Jeff Samardzija (R)	W -137	U 7.5 -108
+04/27/17	LAD	L 1-5	Julio Urias (L)	Matt Moore (L)	L 118	U 7.5 111
+04/26/17	LAD	W 4-3	Alex Wood (L)	Johnny Cueto (R)	W -101	O 6.5 -110
+04/25/17	LAD	L 1-2	Clayton Kershaw (L)	Ty Blach (L)	L 217	U 6.5 -105
+04/24/17	LAD	W 2-1	Hyun-Jin Ryu (L)	Matt Cain (R)	W 126	U 8 -120
+04/23/17	@ COL	L 0-8	Jeff Samardzija (R)	Kyle Freeland (L)	L 102	U 11.5 -107
+04/22/17	@ COL	L 3-12	Matt Moore (L)	Antonio Senzatela (R)	L -109	O 10.5 -116
+04/21/17	@ COL	L 5-6	Johnny Cueto (R)	Tyler Chatwood (R)	L -123	O 9.5 111
+04/19/17	@ KC	L 0-2	Madison Bumgarner (L)	Jason Vargas (L)	L -125	U 8 -113
+04/18/17	@ KC	W 2-1	Matt Cain (R)	Jason Hammel (R)	W 104	U 9.5 -105
+04/16/17	COL	L 3-4	Antonio Senzatela (R)	Jeff Samardzija (R)	L -130	U 7.5 -109
+04/15/17	COL	L 0-5	Tyler Chatwood (R)	Matt Moore (L)	L -129	U 7.5 106
+04/14/17	COL	W 8-2	Tyler Anderson (L)	Johnny Cueto (R)	W -140	O 6.5 -109
+04/13/17	COL	L 1-3	Jon Gray (R)	Madison Bumgarner (L)	L -168	U 6.5 -105
+04/12/17	ARI	W 6-2	Shelby Miller (R)	Matt Cain (R)	W -111	U 8.5 -103
+04/11/17	ARI	L 3-4	Robbie Ray (L)	Jeff Samardzija (R)	L -112	U 7.5 106
+04/10/17	ARI	W 4-1	Taijuan Walker (R)	Matt Moore (L)	W -128	U 8 -110
+04/09/17	@ SD	W 5-3	Johnny Cueto (R)	Clayton Richard (L)	W -156	O 7.5 112
+04/08/17	@ SD	L 1-2	Madison Bumgarner (L)	Jhoulys Chacin (R)	L -197	U 7 120
+04/07/17	@ SD	L 6-7	Matt Cain (R)	Luis Perdomo (R)	L 102	O 8.5 -119
+04/06/17	@ ARI	L 3-9	Jeff Samardzija (R)	Robbie Ray (L)	L 102	O 9 -117
+04/05/17	@ ARI	L 6-8	Matt Moore (L)	Taijuan Walker (R)	L -104	O 9.5 -110
+04/04/17	@ ARI	W 8-4	Johnny Cueto (R)	Patrick Corbin (L)	W -139	O 9 -103
+04/02/17	@ ARI	L 5-6	Madison Bumgarner (L)	Zack Greinke (R)	L -144	O 8.5 -119

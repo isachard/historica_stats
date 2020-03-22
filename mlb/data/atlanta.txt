@@ -1,0 +1,162 @@
+10/01/17	@ MIA	W 8-5	Max Fried (L)	Jose Urena (R)	W 152	O 9 -114
+09/30/17	@ MIA	L 2-10	Lucas Sims (R)	Odrisamer Despaigne (R)	L 108	O 9 -114
+09/29/17	@ MIA	L 5-6	Luiz Gohara (L)	Dan Straily (R)	L 120	O 9 105
+09/28/17	@ MIA	L 1-7	Julio Teheran (R)	Dillon Peters (L)	L 117	U 9 -121
+09/27/17	@ NYM	L 1-7	Sean Newcomb (L)	Robert Gsellman (R)	L -122	U 9 -127
+09/26/17	@ NYM	L 3-4	R.A. Dickey (R)	Rafael Montero (R)	L -118	U 8.5 -107
+09/25/17	@ NYM	L 2-3	Max Fried (L)	Seth Lugo (R)	L 121	U 9 -124
+09/25/17	@ NYM	W 9-2	Lucas Sims (R)	Chris Flexen (R)	W -134	O 9 -103
+09/24/17	PHI	L 0-2	Nick Pivetta (R)	Luiz Gohara (L)	L -123	U 9.5 105
+09/23/17	PHI	W 4-2	Henderson Alvarez (R)	Julio Teheran (R)	W -144	U 9.5 -123
+09/22/17	PHI	W 7-2	Ben Lively (R)	Sean Newcomb (L)	W -126	U 9.5 -116
+09/21/17	WAS	W 3-2	Tanner Roark (R)	R.A. Dickey (R)	W 128	U 9.5 -124
+09/20/17	WAS	L 3-7	Gio Gonzalez (L)	Lucas Sims (R)	L 143	O 9.5 102
+09/19/17	WAS	L 2-4	Max Scherzer (R)	Luiz Gohara (L)	L 188	U 8 -110
+09/17/17	NYM	L 1-5	Robert Gsellman (R)	Julio Teheran (R)	L -172	U 9 -113
+09/16/17	NYM	L 3-7	Jacob deGrom (R)	R.A. Dickey (R)	L 102	O 8.5 106
+09/15/17	NYM	W 3-2	Rafael Montero (R)	Sean Newcomb (L)	W -121	U 9 105
+09/14/17	@ WAS	L 2-5	Mike Foltynewicz (R)	Tanner Roark (R)	L 120	U 8.5 -113
+09/13/17	@ WAS	W 8-2	Luiz Gohara (L)	Max Scherzer (R)	W 279	O 8.5 -107
+09/12/17	@ WAS	W 8-0	Julio Teheran (R)	Gio Gonzalez (L)	W 154	U 8.5 -102
+09/10/17	MIA	W 10-8	Odrisamer Despaigne (R)	R.A. Dickey (R)	W -150	O 9 -110
+09/09/17	MIA	W 6-5	Adam Conley (L)	Max Fried (L)	W 103	O 9.5 -115
+09/08/17	MIA	L 1-7	Jose Urena (R)	Mike Foltynewicz (R)	L -128	U 9 -100
+09/07/17	MIA	W 6-5	Dan Straily (R)	Sean Newcomb (L)	W 111	O 9.5 -100
+09/06/17	TEX	W 5-4	Cole Hamels (L)	Julio Teheran (R)	W 101	P 9 -
+09/06/17	TEX	L 8-12	Miguel Gonzalez (R)	Luiz Gohara (L)	L 103	O 9 -116
+09/04/17	TEX	L 2-8	Andrew Cashner (R)	R.A. Dickey (R)	L -118	O 9.5 102
+09/03/17	@ CHC	W 5-1	Max Fried (L)	Mike Montgomery (L)	W 219	U 9.5 107
+09/02/17	@ CHC	L 12-14	Lucas Sims (R)	Jon Lester (L)	L 228	O 8.5 101
+09/01/17	@ CHC	L 0-2	Mike Foltynewicz (R)	John Lackey (R)	L 191	U 8 104
+08/31/17	@ CHC	L 2-6	Sean Newcomb (L)	Kyle Hendricks (R)	L 214	O 7 -124
+08/30/17	@ PHI	W 5-2	Julio Teheran (R)	Mark Leiter (R)	W -106	U 9 -113
+08/30/17	@ PHI	W 9-1	R.A. Dickey (R)	Jerad Eickhoff (R)	W -111	O 8.5 -116
+08/28/17	@ PHI	L 1-6	Lucas Sims (R)	Aaron Nola (R)	L 136	U 8.5 -114
+08/27/17	COL	L 0-3	Jon Gray (R)	Mike Foltynewicz (R)	L 116	U 9 -105
+08/26/17	COL	L 6-7	Kyle Freeland (L)	Sean Newcomb (L)	L -117	O 9 -123
+08/25/17	COL	W 5-2	Chad Bettis (R)	Julio Teheran (R)	W -119	U 9 106
+08/23/17	SEA	L 6-9	Erasmo Ramirez (R)	R.A. Dickey (R)	L -113	O 9.5 105
+08/22/17	SEA	W 4-0	Marco Gonzales (L)	Lucas Sims (R)	W 114	U 10 107
+08/21/17	SEA	L 5-6	Andrew Albers (L)	Mike Foltynewicz (R)	L 106	O 9.5 -113
+08/20/17	CIN	W 8-1	Luis Castillo (R)	Sean Newcomb (L)	W -106	U 9.5 -110
+08/19/17	CIN	L 8-11	Robert Stephenson (R)	Julio Teheran (R)	L -155	O 10 -124
+08/18/17	CIN	L 3-5	Sal Romano (R)	R.A. Dickey (R)	L -116	U 9.5 107
+08/17/17	@ COL	W 10-4	Lucas Sims (R)	Jeff Hoffman (R)	W 164	O 12 -103
+08/16/17	@ COL	L 2-17	Mike Foltynewicz (R)	Jon Gray (R)	L 171	O 10.5 -103
+08/15/17	@ COL	W 4-3	Sean Newcomb (L)	Kyle Freeland (L)	W 171	U 11 -105
+08/14/17	@ COL	L 0-3	Julio Teheran (R)	Chad Bettis (R)	L 109	U 11.5 -102
+08/13/17	@ STL	W 6-3	R.A. Dickey (R)	Michael Wacha (R)	W 176	O 8.5 101
+08/12/17	@ STL	L 5-6	Lucas Sims (R)	Carlos Martinez (R)	L 210	O 9 103
+08/11/17	@ STL	L 5-8	Mike Foltynewicz (R)	Adam Wainwright (R)	L 147	O 8.5 -106
+08/09/17	PHI	L 2-3	Jerad Eickhoff (R)	Sean Newcomb (L)	L -147	U 9 102
+08/08/17	PHI	L 2-5	Zach Eflin (R)	Julio Teheran (R)	L -171	U 9.5 -102
+08/06/17	MIA	L 1-4	Jose Urena (R)	Lucas Sims (R)	L -135	U 9.5 -105
+08/05/17	MIA	W 7-2	Dan Straily (R)	Mike Foltynewicz (R)	W -127	P 9 -
+08/04/17	MIA	W 5-3	Adam Conley (L)	R.A. Dickey (R)	W -128	U 9.5 106
+08/03/17	LAD	L 4-7	Alex Wood (L)	Sean Newcomb (L)	L 200	O 8.5 -124
+08/02/17	LAD	W 5-3	Brock Stewart (R)	Julio Teheran (R)	W 153	U 9.5 102
+08/01/17	LAD	L 2-3	Kenta Maeda (R)	Lucas Sims (R)	L 164	U 10 104
+07/31/17	@ PHI	L 6-7	Mike Foltynewicz (R)	Nick Pivetta (R)	L 101	O 8.5 -110
+07/30/17	@ PHI	L 1-2	R.A. Dickey (R)	Vince Velasquez (R)	L 124	U 9 103
+07/29/17	@ PHI	L 3-4	Sean Newcomb (L)	Jerad Eickhoff (R)	L -103	U 9 110
+07/28/17	@ PHI	L 3-10	Julio Teheran (R)	Jake Thompson (R)	L -141	O 9.5 -105
+07/26/17	@ ARI	L 3-10	Aaron Blair (R)	Patrick Corbin (L)	L 190	O 10.5 -103
+07/25/17	@ ARI	W 8-3	Mike Foltynewicz (R)	Taijuan Walker (R)	W 138	O 10.5 104
+07/24/17	@ ARI	L 2-10	R.A. Dickey (R)	Zack Greinke (R)	L 194	O 9.5 100
+07/23/17	@ LAD	L 4-5	Sean Newcomb (L)	Clayton Kershaw (L)	L 326	O 7.5 -113
+07/22/17	@ LAD	L 2-6	Julio Teheran (R)	Rich Hill (L)	L 223	U 8.5 -107
+07/21/17	@ LAD	W 12-3	Jaime Garcia (L)	Alex Wood (L)	W 237	O 8 -105
+07/20/17	@ LAD	W 6-3	Mike Foltynewicz (R)	Brandon McCarthy (R)	W 190	O 8.5 -116
+07/19/17	CHC	L 2-8	Mike Montgomery (L)	R.A. Dickey (R)	L 116	O 9.5 -125
+07/18/17	CHC	L 1-5	John Lackey (R)	Sean Newcomb (L)	L 125	U 9.5 102
+07/17/17	CHC	L 3-4	Jon Lester (L)	Julio Teheran (R)	L 160	U 9.5 -105
+07/16/17	ARI	W 7-1	Zack Godley (R)	Jaime Garcia (L)	W -107	U 9 -101
+07/15/17	ARI	W 8-5	Patrick Corbin (L)	Mike Foltynewicz (R)	W 120	O 9.5 107
+07/14/17	ARI	W 4-3	Taijuan Walker (R)	R.A. Dickey (R)	W -106	U 9.5 -102
+07/09/17	@ WAS	L 5-10	Sean Newcomb (L)	Joe Ross (R)	L 123	O 9.5 101
+07/08/17	@ WAS	W 13-0	Julio Teheran (R)	Stephen Strasburg (R)	W 210	O 8.5 -124
+07/07/17	@ WAS	L 4-5	R.A. Dickey (R)	Max Scherzer (R)	L 232	O 8 -121
+07/06/17	@ WAS	W 5-2	Mike Foltynewicz (R)	Gio Gonzalez (L)	W 156	U 9 -117
+07/05/17	HOU	L 4-10	Joe Musgrove (R)	Jaime Garcia (L)	L 101	O 10 108
+07/04/17	HOU	L 4-16	Brad Peacock (R)	Sean Newcomb (L)	L 123	O 9.5 113
+07/02/17	@ OAK	W 4-3	Julio Teheran (R)	Sean Manaea (L)	W 169	U 8.5 103
+07/01/17	@ OAK	W 4-3	R.A. Dickey (R)	Paul Blackburn (R)	W 120	U 9 -104
+06/30/17	@ OAK	W 3-1	Mike Foltynewicz (R)	Sonny Gray (R)	W 161	U 8 -100
+06/29/17	@ SD	L 0-6	Jaime Garcia (L)	Dinelson Lamet (R)	L 128	U 7.5 -106
+06/28/17	@ SD	L 4-7	Bartolo Colon (R)	Luis Perdomo (R)	L 115	O 8 -105
+06/27/17	@ SD	W 3-0	Sean Newcomb (L)	Jhoulys Chacin (R)	W 111	U 8 -110
+06/25/17	MIL	L 0-7	Zach Davies (R)	Julio Teheran (R)	L -102	U 9.5 -120
+06/24/17	MIL	W 3-1	Matt Garza (R)	R.A. Dickey (R)	W -108	U 9.5 -108
+06/23/17	MIL	W 5-4	Jimmy Nelson (R)	Mike Foltynewicz (R)	W -107	P 9 -
+06/22/17	SF	W 12-11	Matt Cain (R)	Jaime Garcia (L)	W -166	O 9 -104
+06/21/17	SF	W 5-3	Jeff Samardzija (R)	Sean Newcomb (L)	W 118	U 8.5 -113
+06/20/17	SF	L 3-6	Matt Moore (L)	Julio Teheran (R)	L -109	U 9.5 -114
+06/19/17	SF	W 9-0	Johnny Cueto (R)	R.A. Dickey (R)	W 129	P 9 -
+06/18/17	MIA	W 5-4	Jose Urena (R)	Mike Foltynewicz (R)	W -106	U 9.5 108
+06/17/17	MIA	W 8-7	Jeff Locke (L)	Jaime Garcia (L)	W -114	O 9 -104
+06/16/17	MIA	L 0-5	Dan Straily (R)	Sean Newcomb (L)	L -109	U 9 -103
+06/14/17	@ WAS	W 13-2	Julio Teheran (R)	Tanner Roark (R)	W 156	O 9.5 -107
+06/13/17	@ WAS	L 5-10	R.A. Dickey (R)	Joe Ross (R)	L 174	O 10 -103
+06/12/17	@ WAS	W 11-10	Mike Foltynewicz (R)	Stephen Strasburg (R)	W 218	O 8.5 -105
+06/11/17	NYM	L 1-2	Seth Lugo (R)	Jaime Garcia (L)	L -139	U 8.5 103
+06/10/17	NYM	L 1-8	Steven Matz (L)	Matt Wisler (R)	L 156	U 9.5 108
+06/10/17	NYM	L 1-6	Robert Gsellman (R)	Sean Newcomb (L)	L -110	U 9.5 -102
+06/09/17	NYM	W 3-2	Matt Harvey (R)	Julio Teheran (R)	W 108	U 10 -124
+06/08/17	PHI	W 3-1	Ben Lively (R)	R.A. Dickey (R)	W -120	U 9.5 -108
+06/07/17	PHI	W 14-1	Jerad Eickhoff (R)	Mike Foltynewicz (R)	W -129	O 9 104
+06/06/17	PHI	L 1-3	Aaron Nola (R)	Jaime Garcia (L)	L -101	U 8.5 104
+06/05/17	PHI	L 4-11	Nick Pivetta (R)	Bartolo Colon (R)	L -125	O 10 109
+06/04/17	@ CIN	W 13-8	Julio Teheran (R)	Amir Garrett (L)	W 106	O 9.5 -121
+06/03/17	@ CIN	W 6-5	R.A. Dickey (R)	Scott Feldman (R)	W 156	O 10 -123
+06/02/17	@ CIN	L 2-3	Mike Foltynewicz (R)	Bronson Arroyo (R)	L 109	U 10 -120
+05/31/17	@ LAA	L 1-2	Jaime Garcia (L)	Jesse Chavez (R)	L 110	U 7.5 100
+05/30/17	@ LAA	L 3-9	Bartolo Colon (R)	Parker Bridwell (R)	L 107	O 8.5 102
+05/29/17	@ LAA	W 6-3	Julio Teheran (R)	Ricky Nolasco (R)	W -101	O 8 -100
+05/28/17	@ SF	L 1-7	R.A. Dickey (R)	Johnny Cueto (R)	L 179	P 8 -
+05/27/17	@ SF	L 3-6	Mike Foltynewicz (R)	Ty Blach (L)	L 100	O 7.5 -110
+05/26/17	@ SF	W 2-0	Jaime Garcia (L)	Matt Cain (R)	W -103	U 8 -101
+05/25/17	PIT	L 4-9	Ivan Nova (R)	Bartolo Colon (R)	L -105	O 9 -102
+05/24/17	PIT	L 5-12	Trevor Williams (R)	Julio Teheran (R)	L -141	O 8.5 -117
+05/23/17	PIT	W 6-5	Tyler Glasnow (R)	R.A. Dickey (R)	W -104	O 9.5 103
+05/22/17	PIT	W 5-2	Gerrit Cole (R)	Mike Foltynewicz (R)	W 114	U 8.5 -112
+05/21/17	WAS	L 2-3	Stephen Strasburg (R)	Jaime Garcia (L)	L 170	U 8.5 108
+05/20/17	WAS	W 5-2	Max Scherzer (R)	Bartolo Colon (R)	W 199	U 9 -115
+05/19/17	WAS	W 7-4	Gio Gonzalez (L)	R.A. Dickey (R)	W 154	O 9.5 -118
+05/18/17	TOR	L 0-9	Marcus Stroman (R)	Julio Teheran (R)	L 104	O 8 102
+05/17/17	TOR	W 8-4	Joe Biagini (R)	Mike Foltynewicz (R)	W -113	O 8.5 -102
+05/16/17	@ TOR	W 9-5	Jaime Garcia (L)	Marco Estrada (R)	W 123	O 8.5 103
+05/15/17	@ TOR	W 10-6	Bartolo Colon (R)	Mike Bolsinger (R)	W 120	O 9 -113
+05/14/17	@ MIA	L 1-3	R.A. Dickey (R)	Justin Nicolino (L)	L 121	U 9 109
+05/13/17	@ MIA	W 3-1	Julio Teheran (R)	Edinson Volquez (R)	W 115	U 9 102
+05/12/17	@ MIA	W 8-4	Mike Foltynewicz (R)	Jose Urena (R)	W 113	O 9 104
+05/10/17	@ HOU	L 2-4	Jaime Garcia (L)	Joe Musgrove (R)	L 182	U 9 -105
+05/09/17	@ HOU	L 3-8	Bartolo Colon (R)	Charlie Morton (R)	L 173	O 8.5 -111
+05/07/17	STL	L 4-6	Michael Wacha (R)	R.A. Dickey (R)	L 101	O 9 -114
+05/06/17	STL	L 3-5	Mike Leake (R)	Julio Teheran (R)	L -119	U 8.5 -104
+05/05/17	STL	L 0-10	Lance Lynn (R)	Mike Foltynewicz (R)	L -113	O 8.5 102
+05/03/17	NYM	L 5-16	Jacob deGrom (R)	Bartolo Colon (R)	L 123	O 8.5 106
+05/02/17	NYM	W 9-7	Matt Harvey (R)	R.A. Dickey (R)	W 102	O 8.5 -115
+05/01/17	NYM	L 5-7	Robert Gsellman (R)	Julio Teheran (R)	L -108	O 8.5 -116
+04/30/17	@ MIL	L 3-4	Mike Foltynewicz (R)	Matt Garza (R)	L -102	U 9 100
+04/29/17	@ MIL	W 11-3	Jaime Garcia (L)	Jimmy Nelson (R)	W 105	O 9 -107
+04/28/17	@ MIL	W 10-8	Bartolo Colon (R)	Chase Anderson (R)	W 123	O 8.5 -105
+04/27/17	@ NYM	W 7-5	R.A. Dickey (R)	Matt Harvey (R)	W 147	O 7.5 -112
+04/26/17	@ NYM	W 8-2	Julio Teheran (R)	Robert Gsellman (R)	W 130	O 7 -130
+04/23/17	@ PHI	L 2-5	Mike Foltynewicz (R)	Zach Eflin (R)	L -100	U 8.5 -100
+04/22/17	@ PHI	L 3-4	Jaime Garcia (L)	Jerad Eickhoff (R)	L 107	U 7.5 -113
+04/21/17	@ PHI	L 3-4	Bartolo Colon (R)	Jeremy Hellickson (R)	L -106	U 8 -116
+04/20/17	WAS	L 2-3	Stephen Strasburg (R)	R.A. Dickey (R)	L 141	U 8 -114
+04/19/17	WAS	L 4-14	Joe Ross (R)	Julio Teheran (R)	L 102	O 8 -114
+04/18/17	WAS	L 1-3	Max Scherzer (R)	Mike Foltynewicz (R)	L 168	U 8 -116
+04/17/17	SD	W 5-4	Jered Weaver (R)	Jaime Garcia (L)	W -150	O 8.5 -103
+04/16/17	SD	W 9-2	Trevor Cahill (R)	Bartolo Colon (R)	W -121	O 8 -113
+04/15/17	SD	W 4-2	Clayton Richard (L)	R.A. Dickey (R)	W 101	U 8 104
+04/14/17	SD	W 5-2	Jhoulys Chacin (R)	Julio Teheran (R)	W -139	U 7.5 111
+04/12/17	@ MIA	W 5-4	Jaime Garcia (L)	Tom Koehler (R)	W 100	O 8 -101
+04/11/17	@ MIA	L 4-8	Bartolo Colon (R)	Dan Straily (R)	L 121	O 8.5 108
+04/09/17	@ PIT	L 5-6	Julio Teheran (R)	Gerrit Cole (R)	L 120	O 8 120
+04/08/17	@ PIT	L 4-6	R.A. Dickey (R)	Chad Kuhl (R)	L 137	O 8.5 -102
+04/07/17	@ PIT	L 4-5	Mike Foltynewicz (R)	Ivan Nova (R)	L 124	O 8 -106
+04/06/17	@ NYM	L 2-6	Jaime Garcia (L)	Matt Harvey (R)	L 136	O 7 -123
+04/05/17	@ NYM	W 3-1	Bartolo Colon (R)	Jacob deGrom (R)	W 183	U 7 110
+04/03/17	@ NYM	L 0-6	Julio Teheran (R)	Noah Syndergaard (R)	L 161	U 7 106
