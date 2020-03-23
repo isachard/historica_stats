@@ -1,0 +1,162 @@
+10/01/17	HOU	L 3-4	Collin McHugh (R)	Hector Velazquez (R)	L 115	U 9 -110
+09/30/17	HOU	W 6-3	Lance McCullers Jr. (R)	Drew Pomeranz (L)	W -103	O 8.5 -118
+09/29/17	HOU	L 2-3	Charlie Morton (R)	Doug Fister (R)	L 102	U 10 -122
+09/28/17	HOU	L 2-12	Brad Peacock (R)	Eduardo Rodriguez (L)	L -101	O 9 104
+09/27/17	TOR	W 10-7	Marco Estrada (R)	Rick Porcello (R)	W -137	O 9.5 -115
+09/26/17	TOR	L 4-9	J.A. Happ (L)	Chris Sale (L)	L -213	O 7.5 -114
+09/25/17	TOR	L 4-6	Brett Anderson (L)	Drew Pomeranz (L)	L -185	O 9 -113
+09/24/17	@ CIN	W 5-4	Doug Fister (R)	Jackson Stephens (R)	W -132	U 10 -100
+09/23/17	@ CIN	W 5-0	Eduardo Rodriguez (L)	Robert Stephenson (R)	W -132	U 9.5 -103
+09/22/17	@ CIN	W 5-4	Rick Porcello (R)	Sal Romano (R)	W -132	U 9.5 -118
+09/20/17	@ BAL	W 9-0	Chris Sale (L)	Wade Miley (L)	W -230	O 8.5 102
+09/19/17	@ BAL	W 1-0	Drew Pomeranz (L)	Kevin Gausman (R)	W 100	U 9 -106
+09/18/17	@ BAL	W 10-8	Doug Fister (R)	Dylan Bundy (R)	W 111	O 9 111
+09/17/17	@ TB	L 2-3	Eduardo Rodriguez (L)	Jake Odorizzi (R)	L -132	U 8.5 -119
+09/16/17	@ TB	W 3-1	Rick Porcello (R)	Alex Cobb (R)	W 117	U 8 -113
+09/15/17	@ TB	W 13-6	Chris Sale (L)	Matt Andriese (R)	W -209	O 7.5 121
+09/14/17	OAK	W 6-2	Daniel Gossett (R)	Drew Pomeranz (L)	W -214	U 10.5 -109
+09/13/17	OAK	L 3-7	Jharel Cotton (R)	Doug Fister (R)	L -183	U 11 -106
+09/12/17	OAK	W 11-1	Sean Manaea (L)	Eduardo Rodriguez (L)	W -173	O 10 -108
+09/10/17	TB	L 1-4	Alex Cobb (R)	Rick Porcello (R)	L -139	U 9 -114
+09/09/17	TB	W 9-0	Matt Andriese (R)	Chris Sale (L)	W -270	O 7.5 -114
+09/08/17	TB	W 9-3	Chris Archer (R)	Drew Pomeranz (L)	W -115	O 8.5 104
+09/06/17	TOR	W 6-1	Joe Biagini (R)	Doug Fister (R)	W -174	U 9.5 -118
+09/05/17	TOR	W 3-2	Marco Estrada (R)	Eduardo Rodriguez (L)	W -195	U 10 -115
+09/04/17	TOR	L 4-10	J.A. Happ (L)	Rick Porcello (R)	L -163	O 9.5 -110
+09/03/17	@ NYY	L 2-9	Chris Sale (L)	Luis Severino (R)	L -107	O 7 116
+09/02/17	@ NYY	L 1-5	Drew Pomeranz (L)	Masahiro Tanaka (R)	L 136	U 8 -118
+09/01/17	@ NYY	W 4-1	Doug Fister (R)	Sonny Gray (R)	W 161	U 9 -130
+08/31/17	@ NYY	L 2-6	Eduardo Rodriguez (L)	CC Sabathia (L)	L 131	U 9 -102
+08/30/17	@ TOR	W 7-1	Rick Porcello (R)	J.A. Happ (L)	W -128	U 8.5 -110
+08/29/17	@ TOR	W 3-0	Chris Sale (L)	Brett Anderson (L)	W -224	U 8 108
+08/28/17	@ TOR	W 6-5	Drew Pomeranz (L)	Marcus Stroman (R)	W 101	O 8.5 113
+08/27/17	BAL	L 1-2	Wade Miley (L)	Doug Fister (R)	L -153	U 10.5 -111
+08/26/17	BAL	L 0-7	Kevin Gausman (R)	Eduardo Rodriguez (L)	L -131	U 9.5 -107
+08/25/17	BAL	L 3-16	Jeremy Hellickson (R)	Rick Porcello (R)	L -169	O 9.5 -120
+08/24/17	@ CLE	L 6-13	Chris Sale (L)	Trevor Bauer (R)	L -157	O 7 106
+08/23/17	@ CLE	W 6-1	Drew Pomeranz (L)	Corey Kluber (R)	W 137	U 7.5 -117
+08/22/17	@ CLE	W 9-1	Doug Fister (R)	Carlos Carrasco (R)	W 164	O 8.5 -115
+08/21/17	@ CLE	L 4-5	Eduardo Rodriguez (L)	Mike Clevinger (R)	L 101	P 9 -
+08/20/17	NYY	W 5-1	Sonny Gray (R)	Rick Porcello (R)	W -105	U 9.5 -116
+08/19/17	NYY	L 3-4	CC Sabathia (L)	Chris Sale (L)	L -260	U 8.5 -111
+08/18/17	NYY	W 9-6	Jordan Montgomery (L)	Drew Pomeranz (L)	W -118	O 9 -115
+08/16/17	STL	W 5-4	Lance Lynn (R)	Eduardo Rodriguez (L)	W -161	U 9.5 104
+08/15/17	STL	W 10-4	Mike Leake (R)	Rick Porcello (R)	W -146	O 9.5 -125
+08/14/17	CLE	L 3-7	Trevor Bauer (R)	Doug Fister (R)	L -104	P 10 -
+08/13/17	@ NYY	W 3-2	Chris Sale (L)	Jordan Montgomery (L)	W -152	U 7.5 -115
+08/12/17	@ NYY	W 10-5	Drew Pomeranz (L)	Luis Severino (R)	W 151	O 8 104
+08/11/17	@ NYY	L 4-5	Eduardo Rodriguez (L)	Jaime Garcia (L)	L 117	O 8.5 -116
+08/09/17	@ TB	W 8-2	Rick Porcello (R)	Jake Odorizzi (R)	W -107	O 8.5 -104
+08/08/17	@ TB	W 2-0	Chris Sale (L)	Austin Pruitt (R)	W -210	U 7 -103
+08/06/17	CHW	W 6-3	Mike Pelfrey (R)	Doug Fister (R)	W -210	U 10.5 -100
+08/05/17	CHW	W 4-1	James Shields (R)	Drew Pomeranz (L)	W -305	U 9.5 -107
+08/04/17	CHW	W 3-2	Carlos Rodon (L)	Eduardo Rodriguez (L)	W -210	U 9.5 -116
+08/03/17	CHW	W 9-5	Miguel Gonzalez (R)	Rick Porcello (R)	W -281	O 9.5 -123
+08/01/17	CLE	W 12-10	Carlos Carrasco (R)	Chris Sale (L)	W -160	O 7 -120
+07/31/17	CLE	W 6-2	Mike Clevinger (R)	Doug Fister (R)	W 115	U 10 104
+07/30/17	KC	L 3-5	Jason Hammel (R)	Drew Pomeranz (L)	L -172	U 9 -117
+07/29/17	KC	W 9-8	Trevor Cahill (R)	Eduardo Rodriguez (L)	W -148	O 8.5 106
+07/28/17	KC	L 2-4	Jason Vargas (L)	Rick Porcello (R)	L -155	U 9.5 -110
+07/26/17	@ SEA	W 4-0	Chris Sale (L)	Andrew Moore (R)	W -207	U 8 -113
+07/25/17	@ SEA	L 5-6	Drew Pomeranz (L)	Felix Hernandez (R)	L -109	O 8.5 -100
+07/24/17	@ SEA	L 0-4	Eduardo Rodriguez (L)	James Paxton (L)	L 136	U 8 -107
+07/23/17	@ LAA	L 2-3	Rick Porcello (R)	Parker Bridwell (R)	L -120	U 9 -113
+07/22/17	@ LAA	L 3-7	David Price (L)	JC Ramirez (R)	L -126	O 8 -117
+07/21/17	@ LAA	W 6-2	Chris Sale (L)	Ricky Nolasco (R)	W -202	O 7.5 -105
+07/20/17	TOR	L 6-8	Francisco Liriano (L)	Doug Fister (R)	L -108	O 10.5 -125
+07/19/17	TOR	W 5-1	Aaron Sanchez (R)	Drew Pomeranz (L)	W -131	U 9.5 -105
+07/18/17	TOR	W 5-4	J.A. Happ (L)	Brian Johnson (L)	W 125	U 10 -110
+07/17/17	TOR	L 3-4	Marcus Stroman (R)	Eduardo Rodriguez (L)	L -102	U 9 105
+07/16/17	NYY	W 3-0	Masahiro Tanaka (R)	David Price (L)	W -135	U 9 -105
+07/16/17	NYY	L 0-3	CC Sabathia (L)	Rick Porcello (R)	L -136	U 9.5 -101
+07/15/17	NYY	L 1-4	Luis Severino (R)	Chris Sale (L)	L -165	U 7.5 -103
+07/14/17	NYY	W 5-4	Jordan Montgomery (L)	Drew Pomeranz (L)	W -135	O 8.5 -101
+07/09/17	@ TB	L 3-5	David Price (L)	Chris Archer (R)	L -106	O 7.5 101
+07/08/17	@ TB	L 0-1	Rick Porcello (R)	Alex Cobb (R)	L -112	U 9 -129
+07/07/17	@ TB	W 8-3	Drew Pomeranz (L)	Jake Odorizzi (R)	W -134	O 8.5 106
+07/06/17	@ TB	L 1-4	Chris Sale (L)	Jake Faria (R)	L -193	U 7 -106
+07/05/17	@ TEX	L 2-8	Doug Fister (R)	Andrew Cashner (R)	L -115	U 10.5 -100
+07/04/17	@ TEX	W 11-4	David Price (L)	Yu Darvish (R)	W -105	O 9 106
+07/03/17	@ TEX	W 7-5	Rick Porcello (R)	Martin Perez (L)	W -120	O 10.5 -119
+07/02/17	@ TOR	W 15-1	Drew Pomeranz (L)	Joe Biagini (R)	W 108	O 9 103
+07/01/17	@ TOR	W 7-1	Chris Sale (L)	Francisco Liriano (L)	W -159	U 8.5 -113
+06/30/17	@ TOR	W 7-4	Doug Fister (R)	Marco Estrada (R)	W 107	O 9 -105
+06/29/17	MIN	W 6-3	Kyle Gibson (R)	David Price (L)	W -190	U 10 -110
+06/28/17	MIN	L 1-4	Adalberto Mejia (L)	Rick Porcello (R)	L -164	U 10 104
+06/27/17	MIN	W 9-2	Hector Santiago (L)	Drew Pomeranz (L)	W -190	O 10 105
+06/26/17	MIN	W 4-1	Jose Berrios (R)	Chris Sale (L)	W -206	U 8 103
+06/25/17	LAA	L 2-4	Parker Bridwell (R)	Doug Fister (R)	L -160	U 11 -107
+06/24/17	LAA	L 3-6	JC Ramirez (R)	David Price (L)	L -165	U 9.5 -103
+06/23/17	LAA	W 9-4	Alex Meyer (R)	Rick Porcello (R)	W -164	O 9.5 -100
+06/21/17	@ KC	L 4-6	Drew Pomeranz (L)	Ian Kennedy (R)	L -135	O 9.5 101
+06/20/17	@ KC	W 8-3	Chris Sale (L)	Matt Strahm (L)	W -190	O 8.5 108
+06/19/17	@ KC	L 2-4	Hector Velazquez (R)	Jason Hammel (R)	L -104	U 9.5 -103
+06/18/17	@ HOU	W 6-5	David Price (L)	Joe Musgrove (R)	W 111	O 9 110
+06/17/17	@ HOU	L 1-7	Rick Porcello (R)	David Paulino (R)	L 104	U 9 -115
+06/16/17	@ HOU	W 2-1	Drew Pomeranz (L)	Mike Fiers (R)	W 115	U 9 -125
+06/15/17	@ PHI	L 0-1	Chris Sale (L)	Nick Pivetta (R)	L -255	U 8 -101
+06/14/17	@ PHI	W 7-3	Brian Johnson (L)	Jeremy Hellickson (R)	W -119	P 10 -
+06/13/17	PHI	W 4-3	Ben Lively (R)	David Price (L)	W -270	U 9.5 -105
+06/12/17	PHI	W 6-5	Jerad Eickhoff (R)	Rick Porcello (R)	W -230	P 11 -
+06/11/17	DET	L 3-8	Daniel Norris (L)	Drew Pomeranz (L)	L -151	O 10.5 -110
+06/10/17	DET	W 11-3	Justin Verlander (R)	Chris Sale (L)	W -183	O 9 104
+06/09/17	DET	W 5-3	Jordan Zimmermann (R)	Brian Johnson (L)	W -129	U 11 104
+06/08/17	@ NYY	L 1-9	David Price (L)	Michael Pineda (R)	L 115	O 8 -103
+06/07/17	@ NYY	L 0-8	Rick Porcello (R)	CC Sabathia (L)	L -100	U 9 -100
+06/06/17	@ NYY	W 5-4	Drew Pomeranz (L)	Masahiro Tanaka (R)	W 115	O 8.5 -103
+06/04/17	@ BAL	W 7-3	Chris Sale (L)	Chris Tillman (R)	W -182	O 9 -105
+06/03/17	@ BAL	W 5-2	David Price (L)	Dylan Bundy (R)	W -124	U 8.5 -111
+06/02/17	@ BAL	L 2-3	Rick Porcello (R)	Alec Asher (R)	L -127	U 9.5 102
+06/01/17	@ BAL	L 5-7	Eduardo Rodriguez (L)	Wade Miley (L)	L -120	O 9 107
+05/31/17	@ CHW	W 4-1	Drew Pomeranz (L)	Mike Pelfrey (R)	W -139	U 9.5 -119
+05/30/17	@ CHW	W 13-7	Chris Sale (L)	Jose Quintana (L)	W -164	O 7.5 113
+05/29/17	@ CHW	L 4-5	David Price (L)	David Holmberg (L)	L -175	U 9.5 -105
+05/28/17	SEA	L 0-5	Christian Bergman (R)	Rick Porcello (R)	L -191	U 9.5 -117
+05/27/17	SEA	W 6-0	Rob Whalen (R)	Brian Johnson (L)	W -126	U 10.5 -110
+05/26/17	SEA	W 3-0	Yovani Gallardo (R)	Eduardo Rodriguez (L)	W -163	U 9 109
+05/25/17	TEX	W 6-2	Nick Martinez (R)	Drew Pomeranz (L)	W -198	U 9 102
+05/24/17	TEX	W 9-4	Martin Perez (L)	Chris Sale (L)	W -290	O 8 -117
+05/23/17	TEX	W 11-6	Andrew Cashner (R)	Rick Porcello (R)	W -191	O 9.5 -101
+05/21/17	@ OAK	W 12-3	Eduardo Rodriguez (L)	Andrew Triggs (R)	W -118	O 8.5 -113
+05/20/17	@ OAK	L 3-8	Drew Pomeranz (L)	Sean Manaea (L)	L -118	O 9 -111
+05/19/17	@ OAK	L 2-3	Chris Sale (L)	Kendall Graveman (R)	L -186	U 7 111
+05/18/17	@ OAK	L 3-8	Hector Velazquez (R)	Sonny Gray (R)	L -107	O 8 -104
+05/17/17	@ STL	W 5-4	Rick Porcello (R)	Mike Leake (R)	W -109	O 8 -117
+05/16/17	@ STL	W 6-3	Eduardo Rodriguez (L)	Lance Lynn (R)	W -100	O 8 -102
+05/14/17	TB	L 2-11	Matt Andriese (R)	Drew Pomeranz (L)	L -167	O 8.5 -107
+05/13/17	TB	W 6-3	Blake Snell (L)	Chris Sale (L)	W -232	O 7.5 109
+05/12/17	TB	L 4-5	Alex Cobb (R)	Rick Porcello (R)	L -160	O 8.5 -118
+05/11/17	@ MIL	W 4-1	Eduardo Rodriguez (L)	Jimmy Nelson (R)	W -142	U 8.5 -114
+05/10/17	@ MIL	L 4-7	Kyle Kendrick (R)	Chase Anderson (R)	L 107	O 9.5 104
+05/09/17	@ MIL	L 7-11	Drew Pomeranz (L)	Wily Peralta (R)	L -123	O 8.5 -109
+05/07/17	@ MIN	W 17-6	Chris Sale (L)	Ervin Santana (R)	W -176	O 7 -110
+05/06/17	@ MIN	W 11-1	Rick Porcello (R)	Nick Tepesch (R)	W -138	O 9.5 111
+05/05/17	@ MIN	L 3-4	Eduardo Rodriguez (L)	Phil Hughes (R)	L -142	U 9 110
+05/04/17	BAL	L 3-8	Tyler Wilson (R)	Kyle Kendrick (R)	L -122	O 9.5 -105
+05/03/17	BAL	W 4-2	Kevin Gausman (R)	Drew Pomeranz (L)	W -142	U 9 -110
+05/02/17	BAL	W 5-2	Alec Asher (R)	Chris Sale (L)	W -225	U 9 -110
+05/01/17	BAL	L 2-5	Dylan Bundy (R)	Rick Porcello (R)	L -134	U 8.5 -105
+04/30/17	CHC	W 6-2	Kyle Hendricks (R)	Eduardo Rodriguez (L)	W -115	U 8.5 -110
+04/29/17	CHC	L 4-7	John Lackey (R)	Steven Wright (R)	L 102	O 10.5 -109
+04/28/17	CHC	W 5-4	Jake Arrieta (R)	Drew Pomeranz (L)	W -104	O 8.5 -114
+04/27/17	NYY	L 0-3	Masahiro Tanaka (R)	Chris Sale (L)	L -175	U 7 -100
+04/26/17	NYY	L 1-3	Luis Severino (R)	Rick Porcello (R)	L -115	U 7.5 106
+04/23/17	@ BAL	W 6-2	Eduardo Rodriguez (L)	Kevin Gausman (R)	W -101	P 8 -
+04/22/17	@ BAL	L 2-4	Steven Wright (R)	Jayson Aquino (L)	L 100	U 8.5 -118
+04/21/17	@ BAL	L 0-2	Drew Pomeranz (L)	Dylan Bundy (R)	L -103	U 8 -104
+04/20/17	@ TOR	W 4-1	Chris Sale (L)	Marco Estrada (R)	W -176	U 7.5 -116
+04/19/17	@ TOR	L 0-3	Rick Porcello (R)	Francisco Liriano (L)	L -111	U 8.5 -123
+04/18/17	@ TOR	W 8-7	Brian Johnson (L)	Marcus Stroman (R)	W 166	O 8.5 -121
+04/17/17	TB	W 4-3	Blake Snell (L)	Steven Wright (R)	W -129	U 10 111
+04/16/17	TB	W 7-5	Alex Cobb (R)	Drew Pomeranz (L)	W -173	O 9.5 -118
+04/15/17	TB	W 2-1	Jake Odorizzi (R)	Chris Sale (L)	W -210	U 9 -125
+04/14/17	TB	L 5-10	Chris Archer (R)	Rick Porcello (R)	L -126	O 8.5 108
+04/13/17	PIT	W 4-3	Chad Kuhl (R)	Eduardo Rodriguez (L)	W -170	U 9.5 -105
+04/12/17	BAL	L 5-12	Ubaldo Jimenez (R)	Steven Wright (R)	L -138	O 9.5 -107
+04/11/17	BAL	W 8-1	Dylan Bundy (R)	Drew Pomeranz (L)	W -120	P 9 -
+04/10/17	@ DET	L 1-2	Chris Sale (L)	Justin Verlander (R)	L -104	U 7.5 -104
+04/09/17	@ DET	W 7-5	Rick Porcello (R)	Daniel Norris (L)	W 103	O 8.5 -106
+04/08/17	@ DET	L 1-4	Eduardo Rodriguez (L)	Jordan Zimmermann (R)	L 108	U 8.5 -107
+04/07/17	@ DET	L 5-6	Steven Wright (R)	Michael Fulmer (R)	L 111	O 8.5 106
+04/05/17	PIT	W 3-0	Jameson Taillon (R)	Chris Sale (L)	W -160	U 7.5 100
+04/03/17	PIT	W 5-3	Gerrit Cole (R)	Rick Porcello (R)	W -148	U 8.5 104

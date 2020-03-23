@@ -1,0 +1,162 @@
+10/01/17	MIL	L 1-6	Aaron Wilkerson (R)	Jack Flaherty (R)	L -128	U 8.5 -101
+09/30/17	MIL	W 7-6	Junior Guerra (R)	Luke Weaver (R)	W -130	O 8.5 107
+09/29/17	MIL	L 3-5	Chase Anderson (R)	John Gant (R)	L 102	U 8.5 103
+09/28/17	CHC	L 1-2	Kyle Hendricks (R)	Lance Lynn (R)	L -139	U 8 -102
+09/27/17	CHC	L 1-5	John Lackey (R)	Michael Wacha (R)	L -121	U 8 -102
+09/26/17	CHC	W 8-7	Jake Arrieta (R)	Carlos Martinez (R)	W 105	O 8 -113
+09/25/17	CHC	L 2-10	Jon Lester (L)	Luke Weaver (R)	L -140	O 8 102
+09/24/17	@ PIT	L 1-4	John Gant (R)	Jameson Taillon (R)	L -116	U 9 -113
+09/23/17	@ PIT	L 6-11	Lance Lynn (R)	Gerrit Cole (R)	L 107	O 8 -103
+09/22/17	@ PIT	W 4-3	Michael Wacha (R)	Ivan Nova (R)	W -153	U 8.5 -105
+09/21/17	@ CIN	W 8-5	Carlos Martinez (R)	Homer Bailey (R)	W -214	O 9 -124
+09/20/17	@ CIN	W 9-2	Luke Weaver (R)	Rookie Davis (R)	W -185	O 9.5 -113
+09/19/17	@ CIN	W 8-7	Jack Flaherty (R)	Jackson Stephens (R)	W -106	O 10 -104
+09/17/17	@ CHC	L 3-4	Lance Lynn (R)	Jose Quintana (L)	L 156	U 8.5 108
+09/16/17	@ CHC	L 1-4	Michael Wacha (R)	Kyle Hendricks (R)	L 137	U 9.5 109
+09/15/17	@ CHC	L 2-8	Carlos Martinez (R)	John Lackey (R)	L 107	O 9 -120
+09/14/17	CIN	W 5-2	Amir Garrett (L)	Luke Weaver (R)	W -208	U 9 102
+09/13/17	CIN	L 0-6	Tyler Mahle (R)	Jack Flaherty (R)	L -143	U 9.5 -108
+09/12/17	CIN	W 13-4	Robert Stephenson (R)	Lance Lynn (R)	W -155	O 8.5 -109
+09/10/17	PIT	W 7-0	Ivan Nova (R)	Michael Wacha (R)	W -160	U 8.5 -114
+09/09/17	PIT	W 4-3	Chad Kuhl (R)	Carlos Martinez (R)	W -186	U 8 -115
+09/08/17	PIT	W 4-1	Trevor Williams (R)	Luke Weaver (R)	W -184	U 8 -126
+09/07/17	@ SD	L 0-3	Lance Lynn (R)	Clayton Richard (L)	L -110	U 8.5 -107
+09/06/17	@ SD	W 3-1	Jack Flaherty (R)	Dinelson Lamet (R)	W 129	U 8 -122
+09/05/17	@ SD	W 8-4	Michael Wacha (R)	Travis Wood (L)	W -150	O 8 104
+09/04/17	@ SD	W 2-0	Carlos Martinez (R)	Luis Perdomo (R)	W -140	U 8 -110
+09/03/17	@ SF	W 7-3	Luke Weaver (R)	Madison Bumgarner (L)	W -115	O 8 115
+09/02/17	@ SF	L 1-2	Lance Lynn (R)	Jeff Samardzija (R)	L -108	U 9 108
+09/01/17	@ SF	W 11-6	Jack Flaherty (R)	Johnny Cueto (R)	W -110	O 9 -114
+08/31/17	@ SF	W 5-2	Michael Wacha (R)	Matt Cain (R)	W -180	U 8.5 102
+08/30/17	@ MIL	L 5-6	Carlos Martinez (R)	Chase Anderson (R)	L -110	O 9 111
+08/29/17	@ MIL	W 10-2	Luke Weaver (R)	Matt Garza (R)	W -135	O 9 -115
+08/27/17	TB	L 2-3	Chris Archer (R)	Lance Lynn (R)	L 114	U 8.5 -121
+08/26/17	TB	W 6-4	Blake Snell (L)	Mike Leake (R)	W -133	O 9 109
+08/25/17	TB	L 3-7	Jake Odorizzi (R)	Michael Wacha (R)	L -166	O 8.5 -115
+08/24/17	SD	L 3-4	Luis Perdomo (R)	Carlos Martinez (R)	L -226	U 8 -108
+08/23/17	SD	W 6-2	Jhoulys Chacin (R)	Luke Weaver (R)	W -170	P 8 -
+08/22/17	SD	L 4-12	Clayton Richard (L)	Lance Lynn (R)	L -170	O 8.5 -111
+08/20/17	@ PIT	L 3-6	Mike Leake (R)	Ivan Nova (R)	L -114	U 9.5 -118
+08/19/17	@ PIT	L 4-6	Michael Wacha (R)	Chad Kuhl (R)	L -116	O 9 100
+08/18/17	@ PIT	W 11-10	Carlos Martinez (R)	Trevor Williams (R)	W -127	O 8.5 -100
+08/17/17	@ PIT	W 11-7	Adam Wainwright (R)	Jameson Taillon (R)	W 125	O 9 -102
+08/16/17	@ BOS	L 4-5	Lance Lynn (R)	Eduardo Rodriguez (L)	L 148	U 9.5 104
+08/15/17	@ BOS	L 4-10	Mike Leake (R)	Rick Porcello (R)	L 135	O 9.5 -125
+08/13/17	ATL	L 3-6	R.A. Dickey (R)	Michael Wacha (R)	L -192	O 8.5 101
+08/12/17	ATL	W 6-5	Lucas Sims (R)	Carlos Martinez (R)	W -230	O 9 103
+08/11/17	ATL	W 8-5	Mike Foltynewicz (R)	Adam Wainwright (R)	W -160	O 8.5 -106
+08/10/17	KC	W 8-6	Jason Hammel (R)	Lance Lynn (R)	W -142	O 9 101
+08/09/17	KC	W 8-5	Trevor Cahill (R)	Mike Leake (R)	W -141	O 8.5 102
+08/08/17	@ KC	W 10-3	Michael Wacha (R)	Jason Vargas (L)	W -128	O 8.5 -115
+08/07/17	@ KC	W 11-3	Carlos Martinez (R)	Ian Kennedy (R)	W -120	O 8.5 -107
+08/06/17	@ CIN	W 13-4	Adam Wainwright (R)	Homer Bailey (R)	W 108	O 9 -120
+08/05/17	@ CIN	W 4-1	Lance Lynn (R)	Luis Castillo (R)	W 128	U 8.5 102
+08/04/17	@ CIN	L 2-3	Mike Leake (R)	Asher Wojciechowski (R)	L 108	U 9.5 -113
+08/03/17	@ MIL	L 1-2	Michael Wacha (R)	Matt Garza (R)	L -131	U 9 -111
+08/02/17	@ MIL	W 5-4	Luke Weaver (R)	Brent Suter (L)	W 104	P 9 -
+08/01/17	@ MIL	L 2-3	Carlos Martinez (R)	Jimmy Nelson (R)	L -106	U 8.5 -113
+07/30/17	ARI	W 3-2	Taijuan Walker (R)	Lance Lynn (R)	W -119	U 8.5 101
+07/29/17	ARI	L 1-7	Zack Greinke (R)	Mike Leake (R)	L 104	P 8 -
+07/28/17	ARI	W 1-0	Robbie Ray (L)	Michael Wacha (R)	W -131	U 8 100
+07/27/17	ARI	L 0-4	Zack Godley (R)	Luke Weaver (R)	L 104	U 8.5 -100
+07/26/17	COL	W 10-5	Jeff Hoffman (R)	Carlos Martinez (R)	W -178	O 8.5 -106
+07/25/17	COL	W 3-2	Jon Gray (R)	Lance Lynn (R)	W -119	U 8.5 -113
+07/24/17	COL	W 8-2	Antonio Senzatela (R)	Mike Leake (R)	W -135	O 9 -101
+07/23/17	@ CHC	L 3-5	Michael Wacha (R)	Jose Quintana (L)	L 151	P 8 -
+07/22/17	@ CHC	L 2-3	Adam Wainwright (R)	Jon Lester (L)	L 146	U 8.5 -106
+07/21/17	@ CHC	W 11-4	Carlos Martinez (R)	Jake Arrieta (R)	W 131	O 8 -119
+07/20/17	@ NYM	L 2-3	Lance Lynn (R)	Seth Lugo (R)	L 110	U 9.5 109
+07/19/17	@ NYM	L 3-7	Mike Leake (R)	Jacob deGrom (R)	L 152	O 8 -109
+07/18/17	@ NYM	W 5-0	Michael Wacha (R)	Rafael Montero (R)	W -113	U 9.5 -119
+07/17/17	@ NYM	W 6-3	Adam Wainwright (R)	Zack Wheeler (R)	W 101	P 9 -
+07/16/17	@ PIT	L 3-4	Carlos Martinez (R)	Trevor Williams (R)	L -116	U 8.5 107
+07/15/17	@ PIT	W 4-0	Lance Lynn (R)	Jameson Taillon (R)	W 117	U 8 104
+07/14/17	@ PIT	L 2-5	Mike Leake (R)	Gerrit Cole (R)	L 121	U 8 109
+07/09/17	NYM	W 6-0	Steven Matz (L)	Lance Lynn (R)	W -132	U 9 108
+07/08/17	NYM	W 4-1	Zack Wheeler (R)	Adam Wainwright (R)	W -117	U 9.5 -107
+07/07/17	NYM	L 5-6	Jacob deGrom (R)	Carlos Martinez (R)	L -106	O 7.5 -123
+07/06/17	MIA	W 4-3	Tom Koehler (R)	Michael Wacha (R)	W -185	U 9.5 -114
+07/05/17	MIA	L 6-9	Edinson Volquez (R)	Mike Leake (R)	L -132	O 8.5 -122
+07/04/17	MIA	L 2-5	Jose Urena (R)	Lance Lynn (R)	L -129	U 9.5 -111
+07/03/17	MIA	W 14-6	Jeff Locke (L)	Adam Wainwright (R)	W -138	O 10 105
+07/02/17	WAS	L 2-7	Max Scherzer (R)	Carlos Martinez (R)	L 139	O 7 -114
+07/01/17	WAS	W 2-1	Gio Gonzalez (L)	Michael Wacha (R)	W 101	U 9 -105
+06/30/17	WAS	W 8-1	Tanner Roark (R)	Mike Leake (R)	W -118	P 9 -
+06/29/17	@ ARI	W 10-4	Lance Lynn (R)	Patrick Corbin (L)	W 116	O 10.5 -105
+06/28/17	@ ARI	W 4-3	Adam Wainwright (R)	Zack Godley (R)	W 121	U 9.5 -100
+06/27/17	@ ARI	L 5-6	Carlos Martinez (R)	Taijuan Walker (R)	L -121	O 9 -105
+06/26/17	CIN	W 8-2	Brandon Finnegan (L)	Michael Wacha (R)	W -143	O 9 -105
+06/25/17	PIT	W 8-4	Chad Kuhl (R)	Mike Leake (R)	W -148	O 8.5 -100
+06/24/17	PIT	L 3-7	Gerrit Cole (R)	Lance Lynn (R)	L -121	O 8.5 110
+06/23/17	PIT	L 3-4	Jameson Taillon (R)	Adam Wainwright (R)	L -108	U 9 -125
+06/22/17	@ PHI	L 1-5	Carlos Martinez (R)	Aaron Nola (R)	L -142	U 8.5 -121
+06/21/17	@ PHI	W 7-6	Michael Wacha (R)	Nick Pivetta (R)	W -129	O 9.5 105
+06/20/17	@ PHI	W 8-1	Mike Leake (R)	Jeremy Hellickson (R)	W -155	U 10 -109
+06/18/17	@ BAL	L 5-8	Lance Lynn (R)	Ubaldo Jimenez (R)	L -105	O 11 -108
+06/17/17	@ BAL	L 7-15	Adam Wainwright (R)	Wade Miley (L)	L 107	O 10 -113
+06/16/17	@ BAL	W 11-2	Carlos Martinez (R)	Kevin Gausman (R)	W -130	O 9 -114
+06/15/17	MIL	L 4-6	Zach Davies (R)	Michael Wacha (R)	L -142	O 9.5 109
+06/14/17	MIL	L 6-7	Matt Garza (R)	Mike Leake (R)	L -170	O 9 -108
+06/13/17	MIL	L 5-8	Jimmy Nelson (R)	Marco Gonzales (L)	L -115	O 9 112
+06/13/17	MIL	W 6-0	Brent Suter (L)	Lance Lynn (R)	W -148	U 9 -113
+06/11/17	PHI	W 6-5	Aaron Nola (R)	Adam Wainwright (R)	W -135	O 9 -115
+06/10/17	PHI	W 7-0	Nick Pivetta (R)	Carlos Martinez (R)	W -237	U 9 -134
+06/09/17	PHI	W 3-2	Jeremy Hellickson (R)	Michael Wacha (R)	W -181	U 9 -105
+06/08/17	@ CIN	L 2-5	Mike Leake (R)	Scott Feldman (R)	L -108	U 9.5 -128
+06/07/17	@ CIN	L 4-6	Lance Lynn (R)	Bronson Arroyo (R)	L -107	O 9.5 -108
+06/06/17	@ CIN	L 1-13	Adam Wainwright (R)	Tim Adleman (R)	L -128	O 9.5 -102
+06/05/17	@ CIN	L 2-4	Carlos Martinez (R)	Asher Wojciechowski (R)	L -146	U 9.5 -105
+06/04/17	@ CHC	L 6-7	Michael Wacha (R)	Kyle Hendricks (R)	L 160	O 8.5 -110
+06/03/17	@ CHC	L 3-5	Mike Leake (R)	Jon Lester (L)	L 136	U 9 -111
+06/02/17	@ CHC	L 2-3	Lance Lynn (R)	John Lackey (R)	L 167	U 9 -105
+06/01/17	LAD	W 2-0	Brandon McCarthy (R)	Adam Wainwright (R)	W -104	U 8 -106
+05/31/17	LAD	W 2-1	Hyun-Jin Ryu (L)	Carlos Martinez (R)	W -125	U 8 -101
+05/30/17	LAD	L 4-9	Kenta Maeda (R)	Michael Wacha (R)	L 110	O 8 -109
+05/29/17	LAD	L 1-5	Rich Hill (L)	Mike Leake (R)	L -103	U 8.5 105
+05/28/17	@ COL	L 4-8	Lance Lynn (R)	German Marquez (R)	L 116	O 10.5 -107
+05/27/17	@ COL	W 3-0	Adam Wainwright (R)	Kyle Freeland (L)	W -105	U 10.5 104
+05/26/17	@ COL	L 0-10	Carlos Martinez (R)	Antonio Senzatela (R)	L -113	U 10.5 118
+05/25/17	@ LAD	L 3-7	Michael Wacha (R)	Kenta Maeda (R)	L 130	O 7.5 108
+05/24/17	@ LAD	W 6-1	Mike Leake (R)	Rich Hill (L)	W 123	U 7.5 -116
+05/23/17	@ LAD	L 1-2	Lance Lynn (R)	Clayton Kershaw (L)	L 221	U 7 103
+05/21/17	SF	W 8-3	Matt Cain (R)	Adam Wainwright (R)	W -174	O 9 104
+05/20/17	SF	L 1-3	Jeff Samardzija (R)	Carlos Martinez (R)	L -137	U 8 -126
+05/19/17	SF	L 5-6	Matt Moore (L)	Michael Wacha (R)	L -143	O 8.5 108
+05/17/17	BOS	L 4-5	Rick Porcello (R)	Mike Leake (R)	L 101	O 8 -117
+05/16/17	BOS	L 3-6	Eduardo Rodriguez (L)	Lance Lynn (R)	L -108	O 8 -102
+05/14/17	CHC	W 5-0	Jake Arrieta (R)	Adam Wainwright (R)	W 106	U 8.5 100
+05/13/17	CHC	W 5-3	Jon Lester (L)	Carlos Martinez (R)	W -119	O 7.5 -107
+05/12/17	CHC	L 2-3	Eddie Butler (R)	Mike Leake (R)	L -142	U 8.5 -106
+05/10/17	@ MIA	W 7-5	Lance Lynn (R)	Tom Koehler (R)	W 105	O 9 104
+05/09/17	@ MIA	W 6-5	Adam Wainwright (R)	Dan Straily (R)	W 104	O 8.5 102
+05/08/17	@ MIA	W 9-4	Carlos Martinez (R)	Adam Conley (L)	W -113	O 8 -119
+05/07/17	@ ATL	W 6-4	Michael Wacha (R)	R.A. Dickey (R)	W -109	O 9 -114
+05/06/17	@ ATL	W 5-3	Mike Leake (R)	Julio Teheran (R)	W 110	U 8.5 -104
+05/05/17	@ ATL	W 10-0	Lance Lynn (R)	Mike Foltynewicz (R)	W 104	O 8.5 102
+05/04/17	MIL	L 4-5	Chase Anderson (R)	Adam Wainwright (R)	L -151	O 7.5 114
+05/02/17	MIL	W 2-1	Wily Peralta (R)	Carlos Martinez (R)	W -191	U 7.5 105
+05/01/17	MIL	L 5-7	Zach Davies (R)	Michael Wacha (R)	L -164	O 7.5 106
+04/30/17	CIN	L 4-5	Bronson Arroyo (R)	Mike Leake (R)	L -167	O 8.5 -104
+04/28/17	CIN	W 7-5	Tim Adleman (R)	Lance Lynn (R)	W -149	O 8 -106
+04/27/17	TOR	W 6-4	Casey Lawrence (R)	Adam Wainwright (R)	W -194	O 8.5 104
+04/27/17	TOR	W 8-4	Mat Latos (R)	Carlos Martinez (R)	W -213	O 8 -103
+04/25/17	TOR	L 5-6	Marco Estrada (R)	Michael Wacha (R)	L -145	O 7.5 122
+04/23/17	@ MIL	W 6-4	Mike Leake (R)	Jimmy Nelson (R)	W -113	O 8.5 103
+04/22/17	@ MIL	W 4-1	Lance Lynn (R)	Chase Anderson (R)	W 102	U 9 -115
+04/21/17	@ MIL	W 6-3	Adam Wainwright (R)	Wily Peralta (R)	W -105	O 8.5 -116
+04/20/17	@ MIL	L 5-7	Carlos Martinez (R)	Zach Davies (R)	L -128	O 8 -126
+04/19/17	PIT	W 2-1	Gerrit Cole (R)	Michael Wacha (R)	W -134	U 8 -120
+04/18/17	PIT	W 2-1	Chad Kuhl (R)	Mike Leake (R)	W -138	U 8 -119
+04/17/17	PIT	W 2-1	Ivan Nova (R)	Lance Lynn (R)	W -115	U 7.5 109
+04/16/17	@ NYY	L 3-9	Adam Wainwright (R)	Michael Pineda (R)	L 126	O 8 -140
+04/15/17	@ NYY	L 2-3	Carlos Martinez (R)	CC Sabathia (L)	L -120	U 8.5 -100
+04/14/17	@ NYY	L 3-4	Michael Wacha (R)	Masahiro Tanaka (R)	L 118	U 7.5 -102
+04/12/17	@ WAS	W 6-1	Mike Leake (R)	Max Scherzer (R)	W 170	U 7.5 107
+04/11/17	@ WAS	L 3-8	Lance Lynn (R)	Gio Gonzalez (L)	L 122	O 8.5 -114
+04/10/17	@ WAS	L 6-14	Adam Wainwright (R)	Tanner Roark (R)	L 113	O 8.5 -101
+04/09/17	CIN	L 0-8	Scott Feldman (R)	Carlos Martinez (R)	L -180	P 8 -
+04/08/17	CIN	W 10-4	Bronson Arroyo (R)	Michael Wacha (R)	W -199	O 8.5 -104
+04/07/17	CIN	L 0-2	Amir Garrett (L)	Mike Leake (R)	L -166	U 8 -109
+04/06/17	CHC	L 4-6	John Lackey (R)	Lance Lynn (R)	L 113	O 7.5 -111
+04/04/17	CHC	L 1-2	Jake Arrieta (R)	Adam Wainwright (R)	L 130	U 7 -102
+04/02/17	CHC	W 4-3	Jon Lester (L)	Carlos Martinez (R)	W 115	P 7 -

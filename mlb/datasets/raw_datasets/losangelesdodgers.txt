@@ -1,0 +1,162 @@
+10/01/17	@ COL	W 6-3	Ross Stripling (R)	Kyle Freeland (L)	W -135	U 11.5 -123
+09/30/17	@ COL	W 5-3	Clayton Kershaw (L)	German Marquez (R)	W -214	U 9 103
+09/29/17	@ COL	L 1-9	Hyun-Jin Ryu (L)	Chad Bettis (R)	L -145	U 11.5 -114
+09/27/17	SD	W 10-0	Clayton Richard (L)	Rich Hill (L)	W -230	O 7.5 -110
+09/26/17	SD	W 9-2	Dinelson Lamet (R)	Alex Wood (L)	W -228	O 8 111
+09/25/17	SD	W 9-3	Travis Wood (L)	Yu Darvish (R)	W -265	O 8 -113
+09/24/17	SF	W 3-1	Chris Stratton (R)	Clayton Kershaw (L)	W -340	U 7.5 100
+09/23/17	SF	L 1-2	Madison Bumgarner (L)	Hyun-Jin Ryu (L)	L -138	U 7.5 -117
+09/22/17	SF	W 4-2	Jeff Samardzija (R)	Rich Hill (L)	W -225	U 7.5 -113
+09/21/17	@ PHI	W 5-4	Kenta Maeda (R)	Mark Leiter (R)	W -214	P 9 -
+09/20/17	@ PHI	L 5-7	Alex Wood (L)	Jake Thompson (R)	L -259	O 9.5 -102
+09/19/17	@ PHI	L 2-6	Yu Darvish (R)	Aaron Nola (R)	L -156	O 7.5 -110
+09/18/17	@ PHI	L 3-4	Clayton Kershaw (L)	Nick Pivetta (R)	L -325	U 7.5 106
+09/17/17	@ WAS	L 1-7	Hyun-Jin Ryu (L)	Stephen Strasburg (R)	L 157	O 7.5 -105
+09/16/17	@ WAS	W 3-2	Rich Hill (L)	A.J. Cole (R)	W -152	U 9 109
+09/15/17	@ WAS	W 7-0	Alex Wood (L)	Edwin Jackson (R)	W -145	U 9.5 -116
+09/13/17	@ SF	W 4-1	Yu Darvish (R)	Matt Moore (L)	W -233	U 8.5 101
+09/12/17	@ SF	W 5-3	Clayton Kershaw (L)	Johnny Cueto (R)	W -260	O 7 -108
+09/11/17	@ SF	L 6-8	Kenta Maeda (R)	Chris Stratton (R)	L -200	O 8.5 -104
+09/10/17	COL	L 1-8	Tyler Chatwood (R)	Rich Hill (L)	L -235	O 8.5 -118
+09/09/17	COL	L 5-6	Chad Bettis (R)	Alex Wood (L)	L -229	O 8.5 -103
+09/08/17	COL	L 4-5	German Marquez (R)	Yu Darvish (R)	L -222	O 7.5 109
+09/07/17	COL	L 1-9	Jon Gray (R)	Clayton Kershaw (L)	L -300	O 6.5 100
+09/06/17	ARI	L 1-3	Taijuan Walker (R)	Kenta Maeda (R)	L -186	U 8 108
+09/05/17	ARI	L 1-3	Zack Greinke (R)	Hyun-Jin Ryu (L)	L -145	U 7.5 -100
+09/04/17	ARI	L 0-13	Robbie Ray (L)	Rich Hill (L)	L -167	O 8.5 111
+09/03/17	@ SD	L 4-6	Alex Wood (L)	Jhoulys Chacin (R)	L -200	O 8 -104
+09/02/17	@ SD	L 2-7	Yu Darvish (R)	Jordan Lyles (R)	L -324	O 8.5 -107
+09/02/17	@ SD	L 5-6	Brock Stewart (R)	Clayton Richard (L)	L -118	O 9 -102
+09/01/17	@ SD	W 1-0	Clayton Kershaw (L)	Dinelson Lamet (R)	W -295	U 7 -103
+08/31/17	@ ARI	L 1-8	Kenta Maeda (R)	Zack Greinke (R)	L -110	O 8.5 -120
+08/30/17	@ ARI	L 4-6	Hyun-Jin Ryu (L)	Robbie Ray (L)	L -125	O 9.5 115
+08/29/17	@ ARI	L 6-7	Rich Hill (L)	Zack Godley (R)	L -111	O 9 102
+08/27/17	MIL	L 2-3	Jimmy Nelson (R)	Yu Darvish (R)	L -202	U 8 -116
+08/26/17	MIL	L 0-3	Zach Davies (R)	Ross Stripling (R)	L -173	U 8.5 109
+08/25/17	MIL	W 3-1	Chase Anderson (R)	Kenta Maeda (R)	W -177	U 8 -110
+08/24/17	@ PIT	W 5-2	Hyun-Jin Ryu (L)	Chad Kuhl (R)	W -129	U 8.5 -102
+08/23/17	@ PIT	L 0-1	Rich Hill (L)	Trevor Williams (R)	L -157	U 8.5 -114
+08/22/17	@ PIT	W 8-5	Brock Stewart (R)	Jameson Taillon (R)	W -118	O 9 -107
+08/21/17	@ PIT	W 6-5	Alex Wood (L)	Gerrit Cole (R)	W -124	O 8 -108
+08/20/17	@ DET	L 1-6	Kenta Maeda (R)	Justin Verlander (R)	L -142	U 9 -113
+08/19/17	@ DET	W 3-0	Hyun-Jin Ryu (L)	Michael Fulmer (R)	W -140	U 10.5 -118
+08/18/17	@ DET	W 8-5	Rich Hill (L)	Jordan Zimmermann (R)	W -213	O 10 -121
+08/16/17	CHW	W 5-4	Carlos Rodon (L)	Yu Darvish (R)	W -290	O 7.5 118
+08/15/17	CHW	W 6-1	Miguel Gonzalez (R)	Alex Wood (L)	W -350	U 8.5 -115
+08/13/17	SD	W 6-4	Luis Perdomo (R)	Kenta Maeda (R)	W -274	O 8.5 -107
+08/12/17	SD	W 6-3	Jhoulys Chacin (R)	Hyun-Jin Ryu (L)	W -236	O 8.5 -108
+08/11/17	SD	L 3-4	Clayton Richard (L)	Rich Hill (L)	L -270	U 8.5 -102
+08/10/17	@ ARI	W 8-6	Yu Darvish (R)	Anthony Banda (L)	W -169	O 9 -126
+08/09/17	@ ARI	W 3-2	Alex Wood (L)	Zack Greinke (R)	W -102	U 9 103
+08/08/17	@ ARI	L 3-6	Kenta Maeda (R)	Zack Godley (R)	L -120	U 9.5 -100
+08/06/17	@ NYM	W 8-0	Hyun-Jin Ryu (L)	Steven Matz (L)	W -156	U 8.5 -103
+08/05/17	@ NYM	W 7-4	Rich Hill (L)	Seth Lugo (R)	W -208	O 9 -114
+08/04/17	@ NYM	W 6-0	Yu Darvish (R)	Jacob deGrom (R)	W -117	U 7.5 -108
+08/03/17	@ ATL	W 7-4	Alex Wood (L)	Sean Newcomb (L)	W -219	O 8.5 -124
+08/02/17	@ ATL	L 3-5	Brock Stewart (R)	Julio Teheran (R)	L -166	U 9.5 102
+08/01/17	@ ATL	W 3-2	Kenta Maeda (R)	Lucas Sims (R)	W -178	U 10 104
+07/30/17	SF	W 3-2	Madison Bumgarner (L)	Hyun-Jin Ryu (L)	W -157	U 8 -105
+07/29/17	SF	W 2-1	Ty Blach (L)	Rich Hill (L)	W -305	U 8.5 111
+07/28/17	SF	W 6-4	Matt Moore (L)	Alex Wood (L)	W -298	O 8.5 104
+07/26/17	MIN	W 6-5	Ervin Santana (R)	Brock Stewart (R)	W -227	O 9 113
+07/25/17	MIN	W 6-2	Jose Berrios (R)	Kenta Maeda (R)	W -195	P 8 -
+07/24/17	MIN	W 6-4	Bartolo Colon (R)	Hyun-Jin Ryu (L)	W -261	O 9 -102
+07/23/17	ATL	W 5-4	Sean Newcomb (L)	Clayton Kershaw (L)	W -375	O 7.5 -113
+07/22/17	ATL	W 6-2	Julio Teheran (R)	Rich Hill (L)	W -245	U 8.5 -107
+07/21/17	ATL	L 3-12	Jaime Garcia (L)	Alex Wood (L)	L -261	O 8 -105
+07/20/17	ATL	L 3-6	Mike Foltynewicz (R)	Brandon McCarthy (R)	L -208	O 8.5 -116
+07/19/17	@ CHW	W 9-1	Kenta Maeda (R)	Carlos Rodon (L)	W -187	O 9.5 107
+07/18/17	@ CHW	W 1-0	Clayton Kershaw (L)	Miguel Gonzalez (R)	W -325	U 9 -105
+07/16/17	@ MIA	W 3-2	Rich Hill (L)	Chris O'Grady (L)	W -168	U 9 -127
+07/15/17	@ MIA	W 7-1	Alex Wood (L)	Jose Urena (R)	W -194	U 8.5 -113
+07/14/17	@ MIA	W 6-4	Brandon McCarthy (R)	Dan Straily (R)	W -113	O 8.5 -103
+07/09/17	KC	W 5-2	Danny Duffy (L)	Clayton Kershaw (L)	W -300	U 7.5 -108
+07/08/17	KC	W 5-4	Ian Kennedy (R)	Brandon McCarthy (R)	W -173	P 9 -
+07/07/17	KC	W 4-1	Jason Hammel (R)	Kenta Maeda (R)	W -190	U 8.5 -103
+07/06/17	ARI	W 5-4	Robbie Ray (L)	Rich Hill (L)	W -143	O 7.5 -114
+07/05/17	ARI	W 1-0	Zack Godley (R)	Alex Wood (L)	W -240	U 7.5 -105
+07/04/17	ARI	W 4-3	Patrick Corbin (L)	Clayton Kershaw (L)	W -315	U 7.5 -113
+07/02/17	@ SD	L 3-5	Kenta Maeda (R)	Jhoulys Chacin (R)	L -216	P 8 -
+07/01/17	@ SD	W 8-0	Rich Hill (L)	Dillon Overton (L)	W -216	U 8.5 -106
+06/30/17	@ SD	W 10-4	Alex Wood (L)	Clayton Richard (L)	W -202	O 7.5 -100
+06/29/17	@ LAA	W 6-2	Clayton Kershaw (L)	JC Ramirez (R)	W -240	O 7.5 104
+06/28/17	@ LAA	L 2-3	Hyun-Jin Ryu (L)	Alex Meyer (R)	L -129	U 8 102
+06/27/17	LAA	W 4-0	Jesse Chavez (R)	Kenta Maeda (R)	W -200	U 8 -106
+06/26/17	LAA	L 0-4	Ricky Nolasco (R)	Rich Hill (L)	L -219	U 9 100
+06/25/17	COL	W 12-6	Tyler Anderson (L)	Brandon McCarthy (R)	W -154	O 8.5 -111
+06/24/17	COL	W 4-0	Tyler Chatwood (R)	Clayton Kershaw (L)	W -254	U 7 102
+06/23/17	COL	W 6-1	Kyle Freeland (L)	Alex Wood (L)	W -221	U 8 -116
+06/22/17	NYM	W 6-3	Steven Matz (L)	Hyun-Jin Ryu (L)	W -173	O 8.5 -101
+06/21/17	NYM	W 8-2	Tyler Pill (R)	Rich Hill (L)	W -228	O 9 -107
+06/20/17	NYM	W 12-0	Robert Gsellman (R)	Brandon McCarthy (R)	W -211	O 9 102
+06/19/17	NYM	W 10-6	Zack Wheeler (R)	Clayton Kershaw (L)	W -285	O 7 -121
+06/18/17	@ CIN	W 8-7	Kenta Maeda (R)	Bronson Arroyo (R)	W -170	O 10.5 -126
+06/17/17	@ CIN	W 10-2	Hyun-Jin Ryu (L)	Asher Wojciechowski (R)	W -144	O 10.5 -119
+06/16/17	@ CIN	W 3-1	Alex Wood (L)	Tim Adleman (R)	W -164	U 9.5 -105
+06/15/17	@ CLE	L 5-12	Rich Hill (L)	Josh Tomlin (R)	L -110	O 9.5 111
+06/14/17	@ CLE	W 6-4	Brandon McCarthy (R)	Corey Kluber (R)	W 123	O 8.5 -125
+06/13/17	@ CLE	W 7-5	Clayton Kershaw (L)	Trevor Bauer (R)	W -180	O 7.5 -115
+06/11/17	CIN	W 9-7	Tim Adleman (R)	Hyun-Jin Ryu (L)	W -170	O 8.5 -105
+06/10/17	CIN	W 5-4	Asher Wojciechowski (R)	Alex Wood (L)	W -220	O 8 108
+06/09/17	CIN	W 7-2	Amir Garrett (L)	Rich Hill (L)	W -205	O 8.5 105
+06/07/17	WAS	W 2-1	Stephen Strasburg (R)	Clayton Kershaw (L)	W -166	U 6.5 -111
+06/06/17	WAS	L 1-2	Max Scherzer (R)	Brandon McCarthy (R)	L -101	U 7.5 -136
+06/05/17	WAS	L 2-4	Gio Gonzalez (L)	Hyun-Jin Ryu (L)	L -128	U 8 109
+06/04/17	@ MIL	L 0-3	Kenta Maeda (R)	Zach Davies (R)	L -140	U 9 113
+06/03/17	@ MIL	W 10-8	Rich Hill (L)	Matt Garza (R)	W -158	O 9 -114
+06/02/17	@ MIL	W 2-1	Clayton Kershaw (L)	Jimmy Nelson (R)	W -202	U 7.5 -102
+06/01/17	@ STL	L 0-2	Brandon McCarthy (R)	Adam Wainwright (R)	L -104	U 8 -106
+05/31/17	@ STL	L 1-2	Hyun-Jin Ryu (L)	Carlos Martinez (R)	L 115	U 8 -101
+05/30/17	@ STL	W 9-4	Kenta Maeda (R)	Michael Wacha (R)	W -119	O 8 -109
+05/29/17	@ STL	W 5-1	Rich Hill (L)	Mike Leake (R)	W -105	U 8.5 105
+05/28/17	CHC	W 9-4	Jon Lester (L)	Clayton Kershaw (L)	W -155	O 6.5 -113
+05/27/17	CHC	W 5-0	John Lackey (R)	Brandon McCarthy (R)	W -116	U 7.5 -105
+05/26/17	CHC	W 4-0	Jake Arrieta (R)	Alex Wood (L)	W -129	U 7 -117
+05/25/17	STL	W 7-3	Michael Wacha (R)	Kenta Maeda (R)	W -141	O 7.5 108
+05/24/17	STL	L 1-6	Mike Leake (R)	Rich Hill (L)	L -133	U 7.5 -116
+05/23/17	STL	W 2-1	Lance Lynn (R)	Clayton Kershaw (L)	W -243	U 7 103
+05/21/17	MIA	W 6-3	Vance Worley (R)	Brandon McCarthy (R)	W -185	P 9 -
+05/20/17	MIA	L 6-10	Dan Straily (R)	Julio Urias (L)	L -167	O 8 -119
+05/19/17	MIA	W 7-2	Justin Nicolino (L)	Alex Wood (L)	W -228	O 8 -100
+05/18/17	MIA	W 7-2	Edinson Volquez (R)	Hyun-Jin Ryu (L)	W -195	O 8 -121
+05/17/17	@ SF	W 6-1	Clayton Kershaw (L)	Johnny Cueto (R)	W -180	O 6.5 -116
+05/16/17	@ SF	L 1-2	Rich Hill (L)	Ty Blach (L)	L -145	U 7.5 104
+05/15/17	@ SF	L 4-8	Brandon McCarthy (R)	Matt Cain (R)	L -119	O 8 -103
+05/14/17	@ COL	L 6-9	Julio Urias (L)	Antonio Senzatela (R)	L -123	O 11 -107
+05/13/17	@ COL	W 4-0	Alex Wood (L)	Tyler Anderson (L)	W -125	U 10 -110
+05/12/17	@ COL	W 6-2	Clayton Kershaw (L)	Tyler Chatwood (R)	W -198	U 9.5 108
+05/11/17	@ COL	L 7-10	Hyun-Jin Ryu (L)	Jeff Hoffman (R)	L -129	O 11 111
+05/10/17	PIT	W 5-2	Chad Kuhl (R)	Kenta Maeda (R)	W -216	U 7.5 -114
+05/09/17	PIT	W 4-3	Ivan Nova (R)	Julio Urias (L)	W -187	U 7.5 -124
+05/08/17	PIT	W 12-1	Trevor Williams (R)	Alex Wood (L)	W -225	O 8 -107
+05/06/17	@ SD	W 10-2	Clayton Kershaw (L)	Clayton Richard (L)	W -230	O 6.5 -123
+05/05/17	@ SD	W 8-2	Kenta Maeda (R)	Jhoulys Chacin (R)	W -172	O 7.5 -115
+05/03/17	SF	L 1-4	Jeff Samardzija (R)	Julio Urias (L)	L -159	U 7.5 -116
+05/02/17	SF	W 13-5	Matt Moore (L)	Alex Wood (L)	W -171	O 7.5 -106
+05/01/17	SF	L 3-4	Johnny Cueto (R)	Clayton Kershaw (L)	L -237	O 6 -104
+04/30/17	PHI	W 5-3	Nick Pivetta (R)	Hyun-Jin Ryu (L)	W -203	U 8.5 -112
+04/29/17	PHI	W 6-5	Zach Eflin (R)	Brandon McCarthy (R)	W -225	O 8 -113
+04/28/17	PHI	W 5-3	Jerad Eickhoff (R)	Kenta Maeda (R)	W -180	O 7.5 -123
+04/27/17	@ SF	W 5-1	Julio Urias (L)	Matt Moore (L)	W -128	U 7.5 111
+04/26/17	@ SF	L 3-4	Alex Wood (L)	Johnny Cueto (R)	L -107	O 6.5 -110
+04/25/17	@ SF	W 2-1	Clayton Kershaw (L)	Ty Blach (L)	W -238	U 6.5 -105
+04/24/17	@ SF	L 1-2	Hyun-Jin Ryu (L)	Matt Cain (R)	L -137	U 8 -120
+04/23/17	@ ARI	W 6-2	Brandon McCarthy (R)	Shelby Miller (R)	W -150	U 9 114
+04/22/17	@ ARI	L 5-11	Kenta Maeda (R)	Robbie Ray (L)	L -114	O 9 -123
+04/21/17	@ ARI	L 5-13	Alex Wood (L)	Taijuan Walker (R)	L -139	O 9.5 -101
+04/19/17	COL	W 4-2	Tyler Anderson (L)	Clayton Kershaw (L)	W -238	U 6.5 -123
+04/18/17	COL	L 3-4	Kyle Freeland (L)	Hyun-Jin Ryu (L)	L -168	U 7.5 -111
+04/17/17	ARI	L 2-4	Robbie Ray (L)	Brandon McCarthy (R)	L -159	U 7.5 -121
+04/16/17	ARI	L 1-3	Taijuan Walker (R)	Rich Hill (L)	L -190	U 7.5 108
+04/15/17	ARI	W 8-4	Patrick Corbin (L)	Kenta Maeda (R)	W -174	O 7.5 -102
+04/14/17	ARI	W 7-1	Zack Greinke (R)	Clayton Kershaw (L)	W -240	O 6 -117
+04/13/17	@ CHC	L 0-4	Hyun-Jin Ryu (L)	Brett Anderson (L)	L 111	U 7 -105
+04/12/17	@ CHC	W 2-0	Brandon McCarthy (R)	John Lackey (R)	W 115	U 7 -109
+04/10/17	@ CHC	L 2-3	Alex Wood (L)	Jon Lester (L)	L 140	U 7.5 -116
+04/09/17	@ COL	W 10-6	Kenta Maeda (R)	Tyler Anderson (L)	W -119	O 10 100
+04/08/17	@ COL	L 2-4	Clayton Kershaw (L)	Jon Gray (R)	L -203	U 9 -114
+04/07/17	@ COL	L 1-2	Hyun-Jin Ryu (L)	Kyle Freeland (L)	L -147	U 12.5 -111
+04/06/17	SD	W 10-2	Jered Weaver (R)	Brandon McCarthy (R)	W -249	O 8.5 -113
+04/05/17	SD	W 3-1	Trevor Cahill (R)	Rich Hill (L)	W -245	U 7.5 -104
+04/04/17	SD	L 0-4	Clayton Richard (L)	Kenta Maeda (R)	L -223	U 7.5 -108
+04/03/17	SD	W 14-3	Jhoulys Chacin (R)	Clayton Kershaw (L)	W -341	O 6.5 -128

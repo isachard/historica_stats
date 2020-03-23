@@ -1,0 +1,162 @@
+10/01/17	@ MIN	L 1-5	Anibal Sanchez (R)	Bartolo Colon (R)	L 147	U 9 104
+09/30/17	@ MIN	W 3-2	Buck Farmer (R)	Aaron Slegers (R)	W 147	U 9 115
+09/29/17	@ MIN	L 3-6	Matthew Boyd (L)	Kyle Gibson (R)	L 158	O 8 -113
+09/28/17	@ KC	W 4-1	Daniel Norris (L)	Danny Duffy (L)	W 179	U 8.5 -103
+09/27/17	@ KC	L 4-7	Jordan Zimmermann (R)	Jason Hammel (R)	L 155	O 9 104
+09/26/17	@ KC	L 1-2	Anibal Sanchez (R)	Jason Vargas (L)	L 152	U 9 108
+09/24/17	MIN	L 4-10	Jose Berrios (R)	Buck Farmer (R)	L 172	O 10 -119
+09/23/17	MIN	L 4-10	Ervin Santana (R)	Matthew Boyd (L)	L 147	O 9.5 100
+09/22/17	MIN	L 3-7	Kyle Gibson (R)	Daniel Norris (L)	L 120	P 10 -
+09/21/17	MIN	L 1-12	Adalberto Mejia (L)	Jordan Zimmermann (R)	L 120	O 10.5 -105
+09/20/17	OAK	L 2-3	Daniel Mengden (R)	Anibal Sanchez (R)	L -108	U 10.5 -103
+09/19/17	OAK	L 8-9	Daniel Gossett (R)	Chad Bell (L)	L 113	O 10.5 108
+09/18/17	OAK	L 3-8	Raul Alcantara (R)	Buck Farmer (R)	L 104	O 10 -105
+09/17/17	CHW	W 12-0	Dylan Covey (R)	Matthew Boyd (L)	W -124	O 10.5 109
+09/16/17	CHW	L 4-10	Reynaldo Lopez (R)	Myles Jaye (R)	L -102	O 10.5 104
+09/15/17	CHW	W 3-2	Carson Fulmer (R)	Anibal Sanchez (R)	W -114	U 10.5 102
+09/14/17	CHW	L 7-17	James Shields (R)	Chad Bell (L)	L -116	O 10.5 108
+09/13/17	@ CLE	L 3-5	Buck Farmer (R)	Mike Clevinger (R)	L 271	U 9.5 -102
+09/12/17	@ CLE	L 0-2	Matthew Boyd (L)	Corey Kluber (R)	L 372	U 8 101
+09/11/17	@ CLE	L 0-11	Myles Jaye (R)	Carlos Carrasco (R)	L 314	O 8.5 -106
+09/10/17	@ TOR	L 2-8	Anibal Sanchez (R)	J.A. Happ (L)	L 139	O 9 113
+09/09/17	@ TOR	L 4-5	Chad Bell (L)	Brett Anderson (L)	L 119	U 9.5 -113
+09/08/17	@ TOR	W 5-4	Buck Farmer (R)	Marcus Stroman (R)	W 188	O 8.5 -100
+09/06/17	KC	L 2-13	Jason Hammel (R)	Matthew Boyd (L)	L 120	O 9.5 111
+09/05/17	KC	W 13-2	Jason Vargas (L)	Anibal Sanchez (R)	W 104	O 9.5 -100
+09/04/17	KC	L 6-7	Jakob Junis (R)	Artie Lewicki (R)	L 138	O 9 -135
+09/03/17	CLE	L 1-11	Josh Tomlin (R)	Chad Bell (L)	L 176	O 9.5 -119
+09/02/17	CLE	L 2-5	Corey Kluber (R)	Jordan Zimmermann (R)	L 261	U 8 -110
+09/01/17	CLE	L 0-10	Mike Clevinger (R)	Buck Farmer (R)	L 142	O 8.5 -111
+09/01/17	CLE	L 2-3	Carlos Carrasco (R)	Matthew Boyd (L)	L 210	U 8.5 -116
+08/30/17	@ COL	W 6-2	Justin Verlander (R)	Chad Bettis (R)	W 126	U 12.5 -122
+08/29/17	@ COL	L 3-7	Michael Fulmer (R)	German Marquez (R)	L 183	U 11 113
+08/28/17	@ COL	W 4-3	Jordan Zimmermann (R)	Antonio Senzatela (R)	W 201	U 12.5 109
+08/27/17	@ CHW	L 1-7	Matthew Boyd (L)	Lucas Giolito (R)	L -104	U 10.5 -129
+08/26/17	@ CHW	W 6-3	Buck Farmer (R)	Carlos Rodon (L)	W -108	U 9.5 -124
+08/25/17	@ CHW	L 2-3	Justin Verlander (R)	Miguel Gonzalez (R)	L -168	U 8.5 -112
+08/24/17	NYY	W 10-6	Jaime Garcia (L)	Michael Fulmer (R)	W -109	O 9.5 105
+08/23/17	NYY	L 2-10	Luis Severino (R)	Jordan Zimmermann (R)	L 228	O 9 103
+08/22/17	NYY	L 4-13	Masahiro Tanaka (R)	Matthew Boyd (L)	L 166	O 9.5 -117
+08/20/17	LAD	W 6-1	Kenta Maeda (R)	Justin Verlander (R)	W 131	U 9 -113
+08/19/17	LAD	L 0-3	Hyun-Jin Ryu (L)	Michael Fulmer (R)	L 129	U 10.5 -118
+08/18/17	LAD	L 5-8	Rich Hill (L)	Jordan Zimmermann (R)	L 195	O 10 -121
+08/16/17	@ TEX	L 6-12	Anibal Sanchez (R)	Cole Hamels (L)	L 164	O 11 -113
+08/15/17	@ TEX	L 4-10	Justin Verlander (R)	A.J. Griffin (R)	L -101	O 10.5 -115
+08/14/17	@ TEX	L 2-6	Michael Fulmer (R)	Martin Perez (L)	L -100	U 11 -114
+08/13/17	MIN	L 4-6	Ervin Santana (R)	Matthew Boyd (L)	L 113	O 9.5 -114
+08/12/17	MIN	W 12-11	Jose Berrios (R)	Jordan Zimmermann (R)	W 110	O 9.5 -111
+08/11/17	MIN	L 4-9	Kyle Gibson (R)	Anibal Sanchez (R)	L 101	O 10.5 -105
+08/10/17	PIT	L 5-7	Gerrit Cole (R)	Drew VerHagen (R)	L 148	O 9.5 -127
+08/09/17	PIT	W 10-0	Ivan Nova (R)	Justin Verlander (R)	W -111	O 9 103
+08/08/17	@ PIT	L 3-6	Matthew Boyd (L)	Chad Kuhl (R)	L 153	O 8.5 -120
+08/07/17	@ PIT	L 0-3	Jordan Zimmermann (R)	Trevor Williams (R)	L 161	U 8.5 -100
+08/06/17	@ BAL	L 3-12	Anibal Sanchez (R)	Ubaldo Jimenez (R)	L 141	O 10 -103
+08/05/17	@ BAL	L 2-5	Drew VerHagen (R)	Wade Miley (L)	L 142	U 11 -114
+08/04/17	@ BAL	W 5-2	Justin Verlander (R)	Kevin Gausman (R)	W 138	U 8.5 -110
+08/03/17	@ BAL	W 7-5	Matthew Boyd (L)	Chris Tillman (R)	W 126	O 10 -106
+08/02/17	@ NYY	W 2-0	Jordan Zimmermann (R)	Masahiro Tanaka (R)	W 228	U 10 -119
+08/01/17	@ NYY	W 4-3	Anibal Sanchez (R)	CC Sabathia (L)	W 156	U 10 109
+07/31/17	@ NYY	L 3-7	Michael Fulmer (R)	Luis Severino (R)	L 200	O 8 -113
+07/30/17	HOU	W 13-1	Lance McCullers Jr. (R)	Justin Verlander (R)	W 110	O 9.5 116
+07/29/17	HOU	W 5-3	Collin McHugh (R)	Matthew Boyd (L)	W 104	U 10.5 -100
+07/28/17	HOU	L 5-6	Dallas Keuchel (L)	Jordan Zimmermann (R)	L 141	O 10 109
+07/26/17	KC	L 2-16	Ian Kennedy (R)	Anibal Sanchez (R)	L -110	O 10 117
+07/25/17	KC	L 1-3	Danny Duffy (L)	Michael Fulmer (R)	L -122	U 9 -101
+07/24/17	KC	L 3-5	Jason Hammel (R)	Justin Verlander (R)	L -136	U 9.5 -129
+07/23/17	@ MIN	W 9-6	Matthew Boyd (L)	Adalberto Mejia (L)	W 101	O 10.5 -103
+07/22/17	@ MIN	L 5-6	Jordan Zimmermann (R)	Kyle Gibson (R)	L 111	O 10.5 -117
+07/21/17	@ MIN	W 6-3	Anibal Sanchez (R)	Ervin Santana (R)	W 120	U 10 -108
+07/20/17	@ KC	L 4-16	Michael Fulmer (R)	Danny Duffy (L)	L -104	O 9.5 -105
+07/19/17	@ KC	L 3-4	Justin Verlander (R)	Jason Hammel (R)	L -106	U 10 -125
+07/18/17	@ KC	W 9-3	Matthew Boyd (L)	Travis Wood (L)	W -107	O 10.5 -100
+07/17/17	@ KC	W 10-2	Jordan Zimmermann (R)	Jason Vargas (L)	W 110	O 11 102
+07/16/17	TOR	W 6-5	Marco Estrada (R)	Anibal Sanchez (R)	W -118	O 10 -109
+07/15/17	TOR	W 11-1	Francisco Liriano (L)	Michael Fulmer (R)	W -141	O 9.5 -113
+07/14/17	TOR	L 2-7	Aaron Sanchez (R)	Justin Verlander (R)	L -118	U 9.5 -105
+07/09/17	@ CLE	W 5-3	Michael Fulmer (R)	Corey Kluber (R)	W 197	P 8 -
+07/08/17	@ CLE	L 0-4	Justin Verlander (R)	Mike Clevinger (R)	L 134	U 9.5 -115
+07/07/17	@ CLE	L 2-11	Jordan Zimmermann (R)	Carlos Carrasco (R)	L 218	O 9.5 -107
+07/06/17	SF	W 6-2	Chris Stratton (R)	Anibal Sanchez (R)	W -109	U 11 -118
+07/05/17	SF	L 4-5	Ty Blach (L)	Daniel Norris (L)	L -199	U 11 -106
+07/04/17	SF	W 5-3	Matt Cain (R)	Michael Fulmer (R)	W -214	U 10 105
+07/02/17	CLE	L 8-11	Mike Clevinger (R)	Justin Verlander (R)	L 114	O 9.5 -106
+07/01/17	CLE	L 1-4	Carlos Carrasco (R)	Jordan Zimmermann (R)	L 159	U 9.5 -102
+07/01/17	CLE	W 7-4	Josh Tomlin (R)	Anibal Sanchez (R)	W 111	P 11 -
+06/29/17	KC	W 7-3	Jakob Junis (R)	Michael Fulmer (R)	W -168	O 9.5 -120
+06/28/17	KC	L 2-8	Ian Kennedy (R)	Daniel Norris (L)	L -135	O 9.5 -113
+06/27/17	KC	W 5-3	Matt Strahm (L)	Justin Verlander (R)	W -148	U 9.5 -113
+06/25/17	@ SD	W 7-5	Jordan Zimmermann (R)	Clayton Richard (L)	W -118	O 9 -114
+06/24/17	@ SD	L 3-7	Anibal Sanchez (R)	Dinelson Lamet (R)	L 106	O 8.5 -108
+06/23/17	@ SD	L 0-1	Michael Fulmer (R)	Luis Perdomo (R)	L -122	U 8 -100
+06/22/17	@ SEA	L 6-9	Daniel Norris (L)	Andrew Moore (R)	L 129	O 9.5 104
+06/21/17	@ SEA	L 5-7	Justin Verlander (R)	James Paxton (L)	L 120	O 8.5 -101
+06/20/17	@ SEA	L 4-5	Jordan Zimmermann (R)	Ariel Miranda (L)	L 115	P 9 -
+06/19/17	@ SEA	L 2-6	Anibal Sanchez (R)	Sam Gaviglio (R)	L 126	U 9.5 111
+06/18/17	TB	L 1-9	Jake Faria (R)	Buck Farmer (R)	L -105	P 10 -
+06/17/17	TB	L 2-3	Chris Archer (R)	Michael Fulmer (R)	L 101	U 9.5 -105
+06/16/17	TB	W 13-4	Erasmo Ramirez (R)	Daniel Norris (L)	W -125	O 10 104
+06/15/17	TB	W 5-3	Alex Cobb (R)	Justin Verlander (R)	W -156	U 9.5 -104
+06/14/17	ARI	L 1-2	Taijuan Walker (R)	Jordan Zimmermann (R)	L -120	U 10 -105
+06/13/17	ARI	L 6-7	Zack Greinke (R)	Buck Farmer (R)	L 101	O 9 -111
+06/11/17	@ BOS	W 8-3	Daniel Norris (L)	Drew Pomeranz (L)	W 139	O 10.5 -110
+06/10/17	@ BOS	L 3-11	Justin Verlander (R)	Chris Sale (L)	L 168	O 9 104
+06/09/17	@ BOS	L 3-5	Jordan Zimmermann (R)	Brian Johnson (L)	L 119	U 11 104
+06/08/17	LAA	L 4-11	JC Ramirez (R)	Michael Fulmer (R)	L -190	O 8.5 -113
+06/07/17	LAA	W 4-0	Alex Meyer (R)	Buck Farmer (R)	W -133	U 10 -124
+06/06/17	LAA	L 3-5	Jesse Chavez (R)	Daniel Norris (L)	L -140	U 9.5 -105
+06/04/17	CHW	W 7-4	David Holmberg (L)	Justin Verlander (R)	W -195	O 9.5 -123
+06/03/17	CHW	W 10-1	Miguel Gonzalez (R)	Jordan Zimmermann (R)	W -132	O 10 -106
+06/02/17	CHW	W 15-5	Derek Holland (L)	Michael Fulmer (R)	W -191	O 9 -123
+05/31/17	@ KC	W 6-5	Matthew Boyd (L)	Ian Kennedy (R)	W 104	O 9 -116
+05/30/17	@ KC	L 0-1	Justin Verlander (R)	Eric Skoglund (L)	L -131	U 9 -105
+05/29/17	@ KC	W 10-7	Daniel Norris (L)	Jason Hammel (R)	W -108	O 9 -115
+05/28/17	@ CHW	L 3-7	Jordan Zimmermann (R)	Miguel Gonzalez (R)	L -116	O 9.5 -114
+05/27/17	@ CHW	W 4-3	Buck Farmer (R)	Derek Holland (L)	W -110	U 9 106
+05/27/17	@ CHW	L 0-3	Michael Fulmer (R)	Tyler Danish (R)	L -150	U 9 102
+05/26/17	@ CHW	L 2-8	Matthew Boyd (L)	Mike Pelfrey (R)	L -106	O 9.5 -104
+05/25/17	@ HOU	L 6-7	Justin Verlander (R)	Mike Fiers (R)	L 102	O 9.5 103
+05/24/17	@ HOU	W 6-3	Daniel Norris (L)	Charlie Morton (R)	W 150	P 9 -
+05/23/17	@ HOU	L 2-6	Jordan Zimmermann (R)	Lance McCullers Jr. (R)	L 201	U 9 -113
+05/22/17	@ HOU	L 0-1	Michael Fulmer (R)	Brad Peacock (R)	L 130	U 8.5 102
+05/21/17	TEX	L 2-5	Yu Darvish (R)	Matthew Boyd (L)	L 116	U 8.5 106
+05/20/17	TEX	W 9-3	A.J. Griffin (R)	Justin Verlander (R)	W -148	O 8.5 104
+05/19/17	TEX	L 3-5	Nick Martinez (R)	Daniel Norris (L)	L -148	U 9 -114
+05/18/17	BAL	W 6-5	Dylan Bundy (R)	Jordan Zimmermann (R)	W 116	O 10 -114
+05/17/17	BAL	W 5-4	Ubaldo Jimenez (R)	Michael Fulmer (R)	W -142	U 9.5 -100
+05/16/17	BAL	L 11-13	Wade Miley (L)	Matthew Boyd (L)	L -111	O 9.5 -119
+05/14/17	@ LAA	L 1-4	Justin Verlander (R)	Alex Meyer (R)	L -113	U 8 104
+05/13/17	@ LAA	W 4-3	Daniel Norris (L)	Ricky Nolasco (R)	W 128	U 8.5 -100
+05/12/17	@ LAA	L 0-7	Jordan Zimmermann (R)	Matt Shoemaker (R)	L 128	U 8.5 106
+05/11/17	@ LAA	W 7-1	Michael Fulmer (R)	JC Ramirez (R)	W 115	O 7.5 -101
+05/10/17	@ ARI	L 1-7	Matthew Boyd (L)	Zack Godley (R)	L 126	U 10.5 -110
+05/09/17	@ ARI	W 7-3	Justin Verlander (R)	Robbie Ray (L)	W 100	O 8.5 104
+05/07/17	@ OAK	L 6-8	Daniel Norris (L)	Sonny Gray (R)	L 119	O 8.5 108
+05/06/17	@ OAK	L 5-6	Jordan Zimmermann (R)	Jesse Hahn (R)	L 113	O 8.5 -106
+05/05/17	@ OAK	W 7-2	Michael Fulmer (R)	Andrew Triggs (R)	W 114	O 7.5 107
+05/03/17	CLE	L 2-3	Carlos Carrasco (R)	Matthew Boyd (L)	L 152	U 7.5 108
+05/02/17	CLE	W 5-2	Corey Kluber (R)	Justin Verlander (R)	W 115	U 7.5 -115
+05/01/17	CLE	W 7-1	Trevor Bauer (R)	Daniel Norris (L)	W 124	U 8.5 -103
+04/30/17	CHW	W 7-3	Miguel Gonzalez (R)	Jordan Zimmermann (R)	W -120	O 8.5 104
+04/29/17	CHW	L 4-6	Derek Holland (L)	Michael Fulmer (R)	L -155	O 7.5 -106
+04/28/17	CHW	L 3-7	Mike Pelfrey (R)	Matthew Boyd (L)	L -121	O 9 104
+04/27/17	SEA	L 1-2	Hisashi Iwakuma (R)	Justin Verlander (R)	L -143	U 9 -107
+04/26/17	SEA	L 0-8	James Paxton (L)	Daniel Norris (L)	L 116	U 8.5 -121
+04/25/17	SEA	W 19-9	Felix Hernandez (R)	Jordan Zimmermann (R)	W 119	O 9 102
+04/23/17	@ MIN	W 13-4	Michael Fulmer (R)	Kyle Gibson (R)	W 102	O 8.5 102
+04/22/17	@ MIN	W 5-4	Matthew Boyd (L)	Adalberto Mejia (L)	W 106	P 9 -
+04/21/17	@ MIN	L 3-6	Justin Verlander (R)	Hector Santiago (L)	L -135	O 8.5 108
+04/20/17	@ TB	L 1-8	Daniel Norris (L)	Erasmo Ramirez (R)	L 115	O 8 -115
+04/19/17	@ TB	L 7-8	Jordan Zimmermann (R)	Chris Archer (R)	L 171	O 7.5 -113
+04/18/17	@ TB	L 1-5	Michael Fulmer (R)	Matt Andriese (R)	L 104	U 8 -112
+04/16/17	@ CLE	W 4-1	Matthew Boyd (L)	Carlos Carrasco (R)	W 199	U 9 108
+04/15/17	@ CLE	L 6-13	Justin Verlander (R)	Corey Kluber (R)	L 146	O 8 -108
+04/14/17	@ CLE	W 7-6	Daniel Norris (L)	Trevor Bauer (R)	W 141	O 8.5 -103
+04/13/17	MIN	L 5-11	Phil Hughes (R)	Jordan Zimmermann (R)	L -126	O 8.5 104
+04/12/17	MIN	W 5-3	Kyle Gibson (R)	Michael Fulmer (R)	W -132	U 8.5 -107
+04/11/17	MIN	W 2-1	Hector Santiago (L)	Matthew Boyd (L)	W -143	U 9.5 -114
+04/10/17	BOS	W 2-1	Chris Sale (L)	Justin Verlander (R)	W -104	U 7.5 -104
+04/09/17	BOS	L 5-7	Rick Porcello (R)	Daniel Norris (L)	L -111	O 8.5 -106
+04/08/17	BOS	W 4-1	Eduardo Rodriguez (L)	Jordan Zimmermann (R)	W -117	U 8.5 -107
+04/07/17	BOS	W 6-5	Steven Wright (R)	Michael Fulmer (R)	W -120	O 8.5 106
+04/06/17	@ CHW	L 2-11	Matthew Boyd (L)	James Shields (R)	L -115	O 9 104
+04/04/17	@ CHW	W 6-3	Justin Verlander (R)	Jose Quintana (L)	W -125	O 7.5 102

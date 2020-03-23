@@ -1,0 +1,162 @@
+10/01/17	BAL	W 6-0	Kevin Gausman (R)	Blake Snell (L)	W -119	U 8 -105
+09/30/17	BAL	W 4-3	Miguel Castro (R)	Chris Archer (R)	W -193	U 8.5 -114
+09/29/17	BAL	W 7-0	Wade Miley (L)	Jake Odorizzi (R)	W -116	U 9 -113
+09/28/17	@ NYY	W 9-6	Jake Faria (R)	Sonny Gray (R)	W 172	O 8.5 -110
+09/27/17	@ NYY	L 1-6	Matt Andriese (R)	Luis Severino (R)	L 236	U 8.5 -101
+09/26/17	@ NYY	L 1-6	Blake Snell (L)	Jordan Montgomery (L)	L 156	U 8.5 102
+09/24/17	@ BAL	L 4-9	Chris Archer (R)	Chris Tillman (R)	L -123	O 9.5 107
+09/23/17	@ BAL	W 9-6	Jake Odorizzi (R)	Jeremy Hellickson (R)	W -115	O 10 -130
+09/22/17	@ BAL	W 8-3	Alex Cobb (R)	Ubaldo Jimenez (R)	W -130	O 9.5 107
+09/21/17	@ BAL	L 1-3	Matt Andriese (R)	Gabriel Ynoa (R)	L -115	U 10 113
+09/20/17	CHC	W 8-1	Jon Lester (L)	Blake Snell (L)	W 107	O 8 -106
+09/19/17	CHC	L 1-2	Mike Montgomery (L)	Chris Archer (R)	L -136	U 8 102
+09/17/17	BOS	W 3-2	Eduardo Rodriguez (L)	Jake Odorizzi (R)	W 122	U 8.5 -119
+09/16/17	BOS	L 1-3	Rick Porcello (R)	Alex Cobb (R)	L -127	U 8 -113
+09/15/17	BOS	L 6-13	Chris Sale (L)	Matt Andriese (R)	L 191	O 7.5 121
+09/13/17	NYY	L 2-3	Jaime Garcia (L)	Chris Archer (R)	L -128	U 7.5 -107
+09/12/17	NYY	W 2-1	Sonny Gray (R)	Blake Snell (L)	W 123	U 8 -110
+09/11/17	NYY	L 1-5	CC Sabathia (L)	Jake Odorizzi (R)	L 127	U 8.5 104
+09/10/17	@ BOS	W 4-1	Alex Cobb (R)	Rick Porcello (R)	W 128	U 9 -114
+09/09/17	@ BOS	L 0-9	Matt Andriese (R)	Chris Sale (L)	L 245	O 7.5 -114
+09/08/17	@ BOS	L 3-9	Chris Archer (R)	Drew Pomeranz (L)	L 106	O 8.5 104
+09/06/17	MIN	L 6-10	Aaron Slegers (R)	Blake Snell (L)	L -176	O 8.5 -107
+09/05/17	MIN	W 2-1	Bartolo Colon (R)	Jake Odorizzi (R)	W -140	U 9 -110
+09/04/17	MIN	W 11-4	Jose Berrios (R)	Alex Cobb (R)	W -128	O 8 -109
+09/03/17	@ CHW	L 2-6	Matt Andriese (R)	Lucas Giolito (R)	L -152	U 9 128
+09/02/17	@ CHW	L 4-5	Chris Archer (R)	Carlos Rodon (L)	L -199	O 8 107
+09/01/17	@ CHW	W 3-1	Blake Snell (L)	Reynaldo Lopez (R)	W -200	U 9 -113
+08/30/17	@ KC	W 5-3	Jake Odorizzi (R)	Jason Vargas (L)	W 118	U 9.5 -120
+08/29/17	@ KC	L 2-6	Alex Cobb (R)	Jakob Junis (R)	L -110	U 9 -109
+08/28/17	@ KC	W 12-0	Austin Pruitt (R)	Ian Kennedy (R)	W -113	O 10 109
+08/27/17	@ STL	W 3-2	Chris Archer (R)	Lance Lynn (R)	W -123	U 8.5 -121
+08/26/17	@ STL	L 4-6	Blake Snell (L)	Mike Leake (R)	L 123	O 9 109
+08/25/17	@ STL	W 7-3	Jake Odorizzi (R)	Michael Wacha (R)	W 153	O 8.5 -115
+08/24/17	TOR	W 2-0	Tom Koehler (R)	Alex Cobb (R)	W -153	U 9 -114
+08/23/17	TOR	L 6-7	Marcus Stroman (R)	Austin Pruitt (R)	L -116	O 8 -107
+08/22/17	TOR	W 6-5	Chris Rowley (R)	Chris Archer (R)	W -202	O 8 -110
+08/20/17	SEA	W 3-0	Yovani Gallardo (R)	Blake Snell (L)	W -163	U 9.5 -108
+08/19/17	SEA	L 6-7	Ariel Miranda (L)	Jake Odorizzi (R)	L -114	O 9.5 102
+08/18/17	SEA	L 1-7	Erasmo Ramirez (R)	Austin Pruitt (R)	L -130	U 9 -110
+08/17/17	@ TOR	L 3-5	Chris Archer (R)	Chris Rowley (R)	L -167	U 9 -119
+08/16/17	@ TOR	L 2-3	Jake Faria (R)	Marcus Stroman (R)	L 116	U 8.5 -108
+08/15/17	@ TOR	W 6-4	Blake Snell (L)	Marco Estrada (R)	W 101	O 9.5 -104
+08/14/17	@ TOR	L 1-2	Jake Odorizzi (R)	Nick Tepesch (R)	L -102	U 10 -107
+08/13/17	CLE	L 3-4	Corey Kluber (R)	Austin Pruitt (R)	L 153	U 7.5 -124
+08/12/17	CLE	L 0-3	Mike Clevinger (R)	Chris Archer (R)	L -153	U 7.5 106
+08/11/17	CLE	L 0-5	Carlos Carrasco (R)	Jake Faria (R)	L 113	U 8 -120
+08/10/17	CLE	W 4-1	Danny Salazar (R)	Blake Snell (L)	W 117	U 8 102
+08/09/17	BOS	L 2-8	Rick Porcello (R)	Jake Odorizzi (R)	L -101	O 8.5 -104
+08/08/17	BOS	L 0-2	Chris Sale (L)	Austin Pruitt (R)	L 192	U 7 -103
+08/06/17	MIL	W 2-1	Jimmy Nelson (R)	Chris Archer (R)	W -172	U 7.5 -116
+08/05/17	MIL	L 0-3	Zach Davies (R)	Alex Cobb (R)	L -139	U 9 -107
+08/04/17	MIL	L 0-2	Brandon Woodruff (R)	Jake Faria (R)	L -151	U 9 104
+08/03/17	@ HOU	W 5-3	Blake Snell (L)	Collin McHugh (R)	W 117	U 9.5 -123
+08/02/17	@ HOU	W 3-0	Austin Pruitt (R)	Dallas Keuchel (L)	W 183	U 8.5 -120
+08/01/17	@ HOU	W 6-4	Chris Archer (R)	Mike Fiers (R)	W -114	O 8.5 -100
+07/31/17	@ HOU	L 7-14	Alex Cobb (R)	Charlie Morton (R)	L 130	O 9 105
+07/30/17	@ NYY	W 5-3	Jake Faria (R)	Jordan Montgomery (L)	W 143	U 9 105
+07/29/17	@ NYY	L 4-5	Blake Snell (L)	Caleb Smith (L)	L 145	P 9 -
+07/28/17	@ NYY	L 1-6	Austin Pruitt (R)	Masahiro Tanaka (R)	L 174	U 9 102
+07/27/17	@ NYY	L 5-6	Chris Archer (R)	CC Sabathia (L)	L 120	O 9 104
+07/26/17	BAL	W 5-1	Ubaldo Jimenez (R)	Alex Cobb (R)	W -146	U 9 103
+07/25/17	BAL	W 5-4	Wade Miley (L)	Jake Faria (R)	W -114	O 8.5 -110
+07/24/17	BAL	L 0-5	Kevin Gausman (R)	Blake Snell (L)	L -111	U 9 -107
+07/23/17	TEX	L 5-6	Tyson Ross (R)	Jake Odorizzi (R)	L -120	O 9 -123
+07/22/17	TEX	L 3-4	Andrew Cashner (R)	Chris Archer (R)	L -180	U 8.5 -108
+07/21/17	TEX	L 3-4	Yu Darvish (R)	Alex Cobb (R)	L 117	U 8.5 -110
+07/19/17	@ OAK	L 2-7	Jake Faria (R)	Sonny Gray (R)	L 104	O 8 -127
+07/18/17	@ OAK	W 4-3	Blake Snell (L)	Chris Smith (R)	W -104	U 9 -105
+07/17/17	@ OAK	W 3-2	Jake Odorizzi (R)	Daniel Gossett (R)	W -109	U 9.5 -123
+07/16/17	@ LAA	L 3-4	Chris Archer (R)	Parker Bridwell (R)	L -134	U 9 -114
+07/15/17	@ LAA	W 6-3	Alex Cobb (R)	JC Ramirez (R)	W 119	P 9 -
+07/14/17	@ LAA	W 2-1	Jake Faria (R)	Ricky Nolasco (R)	W 103	U 8.5 111
+07/09/17	BOS	W 5-3	David Price (L)	Chris Archer (R)	W -102	O 7.5 101
+07/08/17	BOS	W 1-0	Rick Porcello (R)	Alex Cobb (R)	W 104	U 9 -129
+07/07/17	BOS	L 3-8	Drew Pomeranz (L)	Jake Odorizzi (R)	L 124	O 8.5 106
+07/06/17	BOS	W 4-1	Chris Sale (L)	Jake Faria (R)	W 177	U 7 -106
+07/05/17	@ CHC	L 3-7	Blake Snell (L)	John Lackey (R)	L 156	O 9.5 100
+07/04/17	@ CHC	W 6-5	Chris Archer (R)	Jon Lester (L)	W 128	O 7.5 108
+07/02/17	@ BAL	L 1-7	Alex Cobb (R)	Kevin Gausman (R)	L 115	U 10.5 111
+07/01/17	@ BAL	W 10-3	Jake Odorizzi (R)	Dylan Bundy (R)	W 115	O 11 107
+06/30/17	@ BAL	W 6-4	Jake Faria (R)	Chris Tillman (R)	W -127	U 11 -100
+06/29/17	@ PIT	L 0-4	Chris Archer (R)	Jameson Taillon (R)	L -114	U 8 -110
+06/28/17	@ PIT	L 2-6	Blake Snell (L)	Ivan Nova (R)	L 104	U 8.5 102
+06/27/17	@ PIT	W 4-2	Alex Cobb (R)	Trevor Williams (R)	W -102	U 9 -106
+06/25/17	BAL	L 5-8	Chris Tillman (R)	Jake Odorizzi (R)	L -155	O 9.5 -106
+06/24/17	BAL	L 3-8	Dylan Bundy (R)	Jake Faria (R)	L -160	O 9 -105
+06/23/17	BAL	W 15-5	Ubaldo Jimenez (R)	Chris Archer (R)	W -230	O 8.5 -117
+06/21/17	CIN	W 8-3	Tim Adleman (R)	Erasmo Ramirez (R)	W -114	O 9 -112
+06/20/17	CIN	W 6-5	Amir Garrett (L)	Alex Cobb (R)	W -143	O 9 -113
+06/19/17	CIN	L 3-7	Scott Feldman (R)	Jake Odorizzi (R)	L -146	O 9 -110
+06/18/17	@ DET	W 9-1	Jake Faria (R)	Buck Farmer (R)	W -103	P 10 -
+06/17/17	@ DET	W 3-2	Chris Archer (R)	Michael Fulmer (R)	W -109	U 9.5 -105
+06/16/17	@ DET	L 4-13	Erasmo Ramirez (R)	Daniel Norris (L)	L 115	O 10 104
+06/15/17	@ DET	L 3-5	Alex Cobb (R)	Justin Verlander (R)	L 144	U 9.5 -104
+06/14/17	@ TOR	L 6-7	Jake Odorizzi (R)	Francisco Liriano (L)	L 133	O 8.5 -109
+06/13/17	@ TOR	W 8-1	Jake Faria (R)	Marco Estrada (R)	W 135	O 8.5 -113
+06/11/17	OAK	W 5-4	Jesse Hahn (R)	Chris Archer (R)	W -205	O 7.5 -115
+06/10/17	OAK	L 2-7	Sean Manaea (L)	Matt Andriese (R)	L -108	O 8 102
+06/10/17	OAK	W 6-5	Sonny Gray (R)	Erasmo Ramirez (R)	W -108	O 8.5 -106
+06/09/17	OAK	W 13-4	Andrew Triggs (R)	Alex Cobb (R)	W -128	O 9 104
+06/08/17	CHW	W 7-5	Derek Holland (L)	Jake Odorizzi (R)	W -174	O 8 -109
+06/07/17	CHW	W 3-1	Mike Pelfrey (R)	Jake Faria (R)	W -171	U 8.5 -110
+06/06/17	CHW	L 2-4	Jose Quintana (L)	Chris Archer (R)	L -169	U 7.5 -123
+06/04/17	@ SEA	L 1-7	Erasmo Ramirez (R)	Ariel Miranda (L)	L 121	U 8.5 104
+06/03/17	@ SEA	L 2-9	Alex Cobb (R)	Sam Gaviglio (R)	L -101	O 9 -108
+06/02/17	@ SEA	L 4-12	Jake Odorizzi (R)	Christian Bergman (R)	L -117	O 8.5 -128
+05/31/17	@ TEX	W 7-5	Chris Archer (R)	Austin Bibens-Dirkx (R)	W -137	O 9.5 -109
+05/30/17	@ TEX	L 5-9	Matt Andriese (R)	Nick Martinez (R)	L -108	O 10 -105
+05/29/17	@ TEX	W 10-8	Erasmo Ramirez (R)	Martin Perez (L)	W 125	O 9.5 -100
+05/28/17	@ MIN	W 8-6	Alex Cobb (R)	Kyle Gibson (R)	W -103	O 9.5 110
+05/27/17	@ MIN	L 3-5	Jake Odorizzi (R)	Adalberto Mejia (L)	L -119	U 9 -107
+05/26/17	@ MIN	W 5-2	Chris Archer (R)	Hector Santiago (L)	W -137	U 8.5 103
+05/25/17	LAA	W 4-0	Daniel Wright (R)	Matt Andriese (R)	W -154	U 9 -107
+05/24/17	LAA	W 5-2	Ricky Nolasco (R)	Erasmo Ramirez (R)	W -128	U 8.5 -118
+05/23/17	LAA	L 0-4	Matt Shoemaker (R)	Alex Cobb (R)	L -110	U 8.5 -115
+05/22/17	LAA	L 2-3	JC Ramirez (R)	Jake Odorizzi (R)	L -115	U 8.5 -113
+05/21/17	NYY	L 2-3	CC Sabathia (L)	Chris Archer (R)	L -137	U 8 -104
+05/20/17	NYY	W 9-5	Masahiro Tanaka (R)	Matt Andriese (R)	W 104	O 8 -113
+05/19/17	NYY	W 5-4	Luis Severino (R)	Erasmo Ramirez (R)	W 116	O 8 -114
+05/17/17	@ CLE	W 7-4	Alex Cobb (R)	Josh Tomlin (R)	W 152	O 9.5 -119
+05/16/17	@ CLE	W 6-4	Jake Odorizzi (R)	Danny Salazar (R)	W 143	O 9.5 117
+05/15/17	@ CLE	L 7-8	Chris Archer (R)	Carlos Carrasco (R)	L 156	O 7.5 111
+05/14/17	@ BOS	W 11-2	Matt Andriese (R)	Drew Pomeranz (L)	W 154	O 8.5 -107
+05/13/17	@ BOS	L 3-6	Blake Snell (L)	Chris Sale (L)	L 212	O 7.5 109
+05/12/17	@ BOS	W 5-4	Alex Cobb (R)	Rick Porcello (R)	W 147	O 8.5 -118
+05/11/17	KC	L 0-6	Jason Vargas (L)	Jake Odorizzi (R)	L -120	U 7.5 -110
+05/10/17	KC	W 12-1	Jason Hammel (R)	Chris Archer (R)	W -176	O 7.5 -111
+05/09/17	KC	L 6-7	Chris Young (R)	Matt Andriese (R)	L -163	O 8 -107
+05/08/17	KC	L 3-7	Nate Karns (R)	Blake Snell (L)	L -135	O 7.5 -114
+05/07/17	TOR	L 1-2	Joe Biagini (R)	Alex Cobb (R)	L -120	U 8 104
+05/06/17	TOR	W 6-1	Marco Estrada (R)	Jake Odorizzi (R)	W -131	U 8 -113
+05/05/17	TOR	L 4-8	Francisco Liriano (L)	Chris Archer (R)	L -154	O 7.5 102
+05/04/17	MIA	W 5-1	Dan Straily (R)	Matt Andriese (R)	W -119	U 8.5 102
+05/03/17	MIA	L 6-10	Adam Conley (L)	Blake Snell (L)	L -124	O 8.5 100
+05/02/17	@ MIA	W 3-1	Alex Cobb (R)	Edinson Volquez (R)	W 106	U 8 -104
+05/01/17	@ MIA	W 4-2	Jake Odorizzi (R)	Wei-Yin Chen (L)	W 126	U 8 -108
+04/30/17	@ TOR	L 1-3	Chris Archer (R)	Aaron Sanchez (R)	L -110	U 7.5 -112
+04/29/17	@ TOR	L 1-4	Matt Andriese (R)	Francisco Liriano (L)	L 106	U 8 -111
+04/28/17	@ TOR	W 7-4	Blake Snell (L)	Marcus Stroman (R)	W 117	O 8.5 -100
+04/26/17	@ BAL	L 4-5	Alex Cobb (R)	Dylan Bundy (R)	L 136	O 8 -127
+04/25/17	@ BAL	W 2-0	Austin Pruitt (R)	Wade Miley (L)	W 136	U 8 -108
+04/24/17	@ BAL	L 3-6	Chris Archer (R)	Ubaldo Jimenez (R)	L -122	O 7.5 -109
+04/23/17	HOU	L 4-6	Joe Musgrove (R)	Matt Andriese (R)	L 109	O 8.5 108
+04/22/17	HOU	W 6-3	Charlie Morton (R)	Blake Snell (L)	W 105	O 8.5 102
+04/21/17	HOU	L 3-6	Mike Fiers (R)	Alex Cobb (R)	L 104	O 8.5 104
+04/20/17	DET	W 8-1	Daniel Norris (L)	Erasmo Ramirez (R)	W -125	O 8 -115
+04/19/17	DET	W 8-7	Jordan Zimmermann (R)	Chris Archer (R)	W -186	O 7.5 -113
+04/18/17	DET	W 5-1	Michael Fulmer (R)	Matt Andriese (R)	W -113	U 8 -112
+04/17/17	@ BOS	L 3-4	Blake Snell (L)	Steven Wright (R)	L 119	U 10 111
+04/16/17	@ BOS	L 5-7	Alex Cobb (R)	Drew Pomeranz (L)	L 159	O 9.5 -118
+04/15/17	@ BOS	L 1-2	Jake Odorizzi (R)	Chris Sale (L)	L 192	U 9 -125
+04/14/17	@ BOS	W 10-5	Chris Archer (R)	Rick Porcello (R)	W 116	O 8.5 108
+04/13/17	@ NYY	L 2-3	Matt Andriese (R)	Luis Severino (R)	L 126	U 8 -102
+04/12/17	@ NYY	L 4-8	Blake Snell (L)	Jordan Montgomery (L)	L 115	O 8.5 -104
+04/10/17	@ NYY	L 1-8	Alex Cobb (R)	Michael Pineda (R)	L 119	O 8 -117
+04/09/17	TOR	W 7-2	Marco Estrada (R)	Jake Odorizzi (R)	W 105	O 8 -105
+04/08/17	TOR	W 3-2	Aaron Sanchez (R)	Chris Archer (R)	W -115	U 7.5 102
+04/07/17	TOR	W 10-8	Francisco Liriano (L)	Matt Andriese (R)	W 106	O 8 111
+04/06/17	TOR	L 2-5	Marcus Stroman (R)	Blake Snell (L)	L 131	U 8 -107
+04/05/17	NYY	W 4-1	Michael Pineda (R)	Alex Cobb (R)	W 117	U 7.5 -120
+04/04/17	NYY	L 0-5	CC Sabathia (L)	Jake Odorizzi (R)	L -104	U 7.5 102
+04/02/17	NYY	W 7-3	Masahiro Tanaka (R)	Chris Archer (R)	W 105	O 7 -110

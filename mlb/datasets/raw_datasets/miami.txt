@@ -1,0 +1,162 @@
+10/01/17	ATL	L 5-8	Max Fried (L)	Jose Urena (R)	L -165	O 9 -114
+09/30/17	ATL	W 10-2	Lucas Sims (R)	Odrisamer Despaigne (R)	W -117	O 9 -114
+09/29/17	ATL	W 6-5	Luiz Gohara (L)	Dan Straily (R)	W -130	O 9 105
+09/28/17	ATL	W 7-1	Julio Teheran (R)	Dillon Peters (L)	W -127	U 9 -121
+09/27/17	@ COL	L 9-15	Adam Conley (L)	Jon Gray (R)	L 182	O 11.5 113
+09/26/17	@ COL	L 0-6	Jose Urena (R)	Tyler Anderson (L)	L 147	U 11 -117
+09/25/17	@ COL	W 5-4	Odrisamer Despaigne (R)	Tyler Chatwood (R)	W 153	U 12 -108
+09/24/17	@ ARI	L 2-3	Dan Straily (R)	Patrick Corbin (L)	L 164	U 10.5 106
+09/23/17	@ ARI	W 12-6	Dillon Peters (L)	Taijuan Walker (R)	W 136	O 11 -123
+09/22/17	@ ARI	L 11-13	Adam Conley (L)	Zack Greinke (R)	L 204	O 10 -102
+09/20/17	NYM	W 9-2	Rafael Montero (R)	Jose Urena (R)	W -170	O 9 -115
+09/19/17	NYM	W 5-4	Seth Lugo (R)	Odrisamer Despaigne (R)	W -124	U 9.5 -113
+09/18/17	NYM	W 13-1	Matt Harvey (R)	Dan Straily (R)	W -163	O 9 -110
+09/17/17	MIL	L 3-10	Brandon Woodruff (R)	Dillon Peters (L)	L 130	O 9 -118
+09/16/17	MIL	W 7-4	Zach Davies (R)	Adam Conley (L)	W 128	O 10 -104
+09/15/17	MIL	L 2-10	Jeremy Jeffress (R)	Jose Urena (R)	L 115	O 10 -108
+09/14/17	@ PHI	L 0-10	Vance Worley (R)	Jake Thompson (R)	L 120	P 10 -
+09/13/17	@ PHI	L 1-8	Dan Straily (R)	Aaron Nola (R)	L 136	P 9 -
+09/12/17	@ PHI	L 8-9	Dillon Peters (L)	Nick Pivetta (R)	L -115	O 9.5 104
+09/10/17	@ ATL	L 8-10	Odrisamer Despaigne (R)	R.A. Dickey (R)	L 138	O 9 -110
+09/09/17	@ ATL	L 5-6	Adam Conley (L)	Max Fried (L)	L -111	O 9.5 -115
+09/08/17	@ ATL	W 7-1	Jose Urena (R)	Mike Foltynewicz (R)	W 118	U 9 -100
+09/07/17	@ ATL	L 5-6	Dan Straily (R)	Sean Newcomb (L)	L -120	O 9.5 -100
+09/06/17	WAS	L 1-8	Gio Gonzalez (L)	Dillon Peters (L)	L 104	P 9 -
+09/05/17	WAS	L 1-2	Stephen Strasburg (R)	Odrisamer Despaigne (R)	L 156	U 8.5 -116
+09/04/17	WAS	L 2-7	A.J. Cole (R)	Adam Conley (L)	L -119	P 9 -
+09/03/17	PHI	L 1-3	Jake Thompson (R)	Jose Urena (R)	L -192	U 9.5 -106
+09/02/17	PHI	W 10-9	Aaron Nola (R)	Dan Straily (R)	W -142	O 7.5 -101
+09/01/17	PHI	L 1-2	Nick Pivetta (R)	Dillon Peters (L)	L -168	U 9 -121
+08/31/17	PHI	L 2-3	Ben Lively (R)	Odrisamer Despaigne (R)	L -190	U 9 -106
+08/30/17	@ WAS	L 0-4	Adam Conley (L)	Stephen Strasburg (R)	L 195	U 8.5 -104
+08/29/17	@ WAS	L 3-8	Vance Worley (R)	Edwin Jackson (R)	L 136	O 9 -119
+08/28/17	@ WAS	L 2-11	Jose Urena (R)	Max Scherzer (R)	L 201	O 7.5 -124
+08/27/17	SD	W 6-2	Clayton Richard (L)	Dan Straily (R)	W -154	U 8.5 -110
+08/26/17	SD	W 2-1	Dinelson Lamet (R)	Odrisamer Despaigne (R)	W -105	U 9 -116
+08/25/17	SD	W 8-6	Travis Wood (L)	Adam Conley (L)	W -152	O 9.5 114
+08/24/17	@ PHI	W 9-8	Vance Worley (R)	Jake Thompson (R)	W -142	O 10 -121
+08/23/17	@ PHI	L 0-8	Justin Nicolino (L)	Mark Leiter (R)	L -116	U 10 102
+08/22/17	@ PHI	W 7-4	Jose Urena (R)	Nick Pivetta (R)	W -110	O 10 -108
+08/22/17	@ PHI	W 12-8	Dan Straily (R)	Aaron Nola (R)	W 106	O 9 -109
+08/20/17	@ NYM	W 6-4	Adam Conley (L)	Jacob deGrom (R)	W 165	O 8.5 -104
+08/19/17	@ NYM	L 1-8	Vance Worley (R)	Rafael Montero (R)	L 103	U 9.5 -102
+08/18/17	@ NYM	W 3-1	Justin Nicolino (L)	Chris Flexen (R)	W -104	U 10 -120
+08/16/17	SF	W 8-1	Matt Cain (R)	Jose Urena (R)	W -173	U 9.5 -126
+08/15/17	SF	L 4-9	Madison Bumgarner (L)	Dan Straily (R)	L -110	O 7.5 -105
+08/14/17	SF	W 8-3	Ty Blach (L)	Adam Conley (L)	W -145	O 8.5 -116
+08/13/17	COL	W 5-3	German Marquez (R)	Vance Worley (R)	W -106	U 8.5 -109
+08/12/17	COL	W 4-3	Jeff Hoffman (R)	Justin Nicolino (L)	W 101	U 9 -105
+08/11/17	COL	W 6-3	Jon Gray (R)	Jose Urena (R)	W 107	O 8.5 106
+08/10/17	@ WAS	L 2-3	Dan Straily (R)	Tanner Roark (R)	L 141	U 9 -103
+08/09/17	@ WAS	L 1-10	Adam Conley (L)	Gio Gonzalez (L)	L 157	O 9 -104
+08/08/17	@ WAS	W 7-3	Vance Worley (R)	A.J. Cole (R)	W 127	O 9.5 102
+08/07/17	@ WAS	L 2-3	Chris O'Grady (L)	Max Scherzer (R)	L 275	U 8.5 -102
+08/06/17	@ ATL	W 4-1	Jose Urena (R)	Lucas Sims (R)	W 125	U 9.5 -105
+08/05/17	@ ATL	L 2-7	Dan Straily (R)	Mike Foltynewicz (R)	L 117	P 9 -
+08/04/17	@ ATL	L 3-5	Adam Conley (L)	R.A. Dickey (R)	L 118	U 9.5 106
+08/02/17	WAS	W 7-0	A.J. Cole (R)	Vance Worley (R)	W -113	U 9.5 -110
+08/01/17	WAS	W 7-6	Max Scherzer (R)	Chris O'Grady (L)	W 192	O 8 104
+07/31/17	WAS	L 0-1	Gio Gonzalez (L)	Jose Urena (R)	L 116	U 9 -115
+07/30/17	CIN	L 4-6	Luis Castillo (R)	Dan Straily (R)	L 107	O 8.5 107
+07/29/17	CIN	W 7-3	Tim Adleman (R)	Adam Conley (L)	W -139	O 9 -111
+07/28/17	CIN	W 7-4	Sal Romano (R)	Vance Worley (R)	W -118	O 9.5 107
+07/27/17	CIN	W 4-1	Robert Stephenson (R)	Chris O'Grady (L)	W -135	U 9.5 104
+07/26/17	@ TEX	W 22-10	Jose Urena (R)	Yu Darvish (R)	W 199	O 10 -129
+07/25/17	@ TEX	L 4-10	Dan Straily (R)	Cole Hamels (L)	L 140	O 11 -104
+07/24/17	@ TEX	W 4-0	Adam Conley (L)	Martin Perez (L)	W 130	U 11.5 -105
+07/23/17	@ CIN	L 3-6	Tom Koehler (R)	Sal Romano (R)	L 126	U 11 -110
+07/22/17	@ CIN	W 5-4	Chris O'Grady (L)	Robert Stephenson (R)	W 103	U 11.5 -108
+07/21/17	@ CIN	W 3-1	Jose Urena (R)	Homer Bailey (R)	W 119	U 10.5 117
+07/19/17	PHI	L 3-10	Nick Pivetta (R)	Dan Straily (R)	L -185	O 8.5 101
+07/18/17	PHI	L 2-5	Vince Velasquez (R)	Adam Conley (L)	L -129	U 9 -119
+07/17/17	PHI	W 6-5	Jerad Eickhoff (R)	Tom Koehler (R)	W -145	O 8.5 -104
+07/16/17	LAD	L 2-3	Rich Hill (L)	Chris O'Grady (L)	L 155	U 9 -127
+07/15/17	LAD	L 1-7	Alex Wood (L)	Jose Urena (R)	L 178	U 8.5 -113
+07/14/17	LAD	L 4-6	Brandon McCarthy (R)	Dan Straily (R)	L 104	O 8.5 -103
+07/09/17	@ SF	W 10-8	Jose Urena (R)	Johnny Cueto (R)	W 107	O 8 -125
+07/08/17	@ SF	W 5-4	Chris O'Grady (L)	Jeff Samardzija (R)	W 142	O 8 -106
+07/07/17	@ SF	W 6-1	Dan Straily (R)	Matt Moore (L)	W -106	U 8.5 -123
+07/06/17	@ STL	L 3-4	Tom Koehler (R)	Michael Wacha (R)	L 170	U 9.5 -114
+07/05/17	@ STL	W 9-6	Edinson Volquez (R)	Mike Leake (R)	W 122	O 8.5 -122
+07/04/17	@ STL	W 5-2	Jose Urena (R)	Lance Lynn (R)	W 119	U 9.5 -111
+07/03/17	@ STL	L 6-14	Jeff Locke (L)	Adam Wainwright (R)	L 127	O 10 105
+07/02/17	@ MIL	W 10-3	Dan Straily (R)	Junior Guerra (R)	W -139	O 10 -118
+07/01/17	@ MIL	L 4-8	Tom Koehler (R)	Zach Davies (R)	L 115	O 10.5 -120
+06/30/17	@ MIL	L 2-3	Edinson Volquez (R)	Matt Garza (R)	L -111	U 9.5 114
+06/29/17	NYM	L 3-6	Seth Lugo (R)	Jose Urena (R)	L -141	P 9 -
+06/28/17	NYM	L 0-8	Steven Matz (L)	Jeff Locke (L)	L -115	U 9 -111
+06/27/17	NYM	W 6-3	Robert Gsellman (R)	Dan Straily (R)	W -161	P 9 -
+06/25/17	CHC	W 4-2	Mike Montgomery (L)	Edinson Volquez (R)	W 126	U 9 -116
+06/24/17	CHC	L 3-5	Jon Lester (L)	Justin Nicolino (L)	L 145	U 8.5 -104
+06/23/17	CHC	W 2-0	John Lackey (R)	Jose Urena (R)	W 104	U 9.5 -123
+06/22/17	CHC	L 1-11	Jake Arrieta (R)	Jeff Locke (L)	L 131	O 9 113
+06/21/17	WAS	W 2-1	Max Scherzer (R)	Dan Straily (R)	W 130	U 7.5 -105
+06/20/17	WAS	L 3-12	Gio Gonzalez (L)	Edinson Volquez (R)	L 111	O 9 103
+06/19/17	WAS	W 8-7	Tanner Roark (R)	Justin Nicolino (L)	W -105	O 9.5 -109
+06/18/17	@ ATL	L 4-5	Jose Urena (R)	Mike Foltynewicz (R)	L -102	U 9.5 108
+06/17/17	@ ATL	L 7-8	Jeff Locke (L)	Jaime Garcia (L)	L 105	O 9 -104
+06/16/17	@ ATL	W 5-0	Dan Straily (R)	Sean Newcomb (L)	W 101	U 9 -103
+06/14/17	OAK	W 11-6	Daniel Gossett (R)	Edinson Volquez (R)	W -159	O 8.5 -123
+06/13/17	OAK	W 8-1	Jharel Cotton (R)	Jose Urena (R)	W -125	P 9 -
+06/11/17	@ PIT	L 1-3	Jeff Locke (L)	Ivan Nova (R)	L 155	U 9 112
+06/10/17	@ PIT	L 6-7	Dan Straily (R)	Trevor Williams (R)	L -115	O 9.5 -115
+06/09/17	@ PIT	W 12-7	Vance Worley (R)	Tyler Glasnow (R)	W 117	O 10 106
+06/08/17	@ PIT	W 7-1	Edinson Volquez (R)	Gerrit Cole (R)	W 126	U 8.5 106
+06/07/17	@ CHC	W 6-5	Jose Urena (R)	John Lackey (R)	W 178	O 9 -116
+06/06/17	@ CHC	L 2-10	Jeff Locke (L)	Jake Arrieta (R)	L 183	O 7.5 -100
+06/05/17	@ CHC	L 1-3	Dan Straily (R)	Eddie Butler (R)	L 105	U 8 -105
+06/04/17	ARI	W 6-5	Braden Shipley (R)	Vance Worley (R)	W -137	O 9 -105
+06/03/17	ARI	W 3-0	Randall Delgado (R)	Edinson Volquez (R)	W -140	U 8.5 -111
+06/02/17	ARI	W 7-5	Patrick Corbin (L)	Jose Urena (R)	W -115	O 8.5 -105
+06/01/17	ARI	L 2-3	Zack Greinke (R)	Jeff Locke (L)	L 107	U 8 -106
+05/31/17	PHI	W 10-2	Aaron Nola (R)	Dan Straily (R)	W -115	O 7.5 104
+05/30/17	PHI	W 7-2	Vince Velasquez (R)	Justin Nicolino (L)	W -120	O 8.5 -109
+05/29/17	PHI	W 4-1	Jeremy Hellickson (R)	Edinson Volquez (R)	W -159	U 9 115
+05/28/17	LAA	W 9-2	Matt Shoemaker (R)	Jose Urena (R)	W 102	O 8.5 -126
+05/27/17	LAA	L 2-5	JC Ramirez (R)	Vance Worley (R)	L 104	U 9 -121
+05/26/17	LAA	W 8-5	Jesse Chavez (R)	Dan Straily (R)	W -128	O 8 -117
+05/24/17	@ OAK	L 1-4	Edinson Volquez (R)	Sonny Gray (R)	L 129	U 9 -115
+05/23/17	@ OAK	W 11-9	Jose Urena (R)	Jesse Hahn (R)	W 113	O 9 102
+05/21/17	@ LAD	L 3-6	Vance Worley (R)	Brandon McCarthy (R)	L 170	P 9 -
+05/20/17	@ LAD	W 10-6	Dan Straily (R)	Julio Urias (L)	W 154	O 8 -119
+05/19/17	@ LAD	L 2-7	Justin Nicolino (L)	Alex Wood (L)	L 208	O 8 -100
+05/18/17	@ LAD	L 2-7	Edinson Volquez (R)	Hyun-Jin Ryu (L)	L 179	O 8 -121
+05/17/17	HOU	L 0-3	Lance McCullers Jr. (R)	Jose Urena (R)	L 138	U 8 -113
+05/16/17	HOU	L 2-12	Dallas Keuchel (L)	Tom Koehler (R)	L 149	O 7.5 -113
+05/15/17	HOU	L 2-7	Joe Musgrove (R)	Dan Straily (R)	L -105	O 8.5 -115
+05/14/17	ATL	W 3-1	R.A. Dickey (R)	Justin Nicolino (L)	W -131	U 9 109
+05/13/17	ATL	L 1-3	Julio Teheran (R)	Edinson Volquez (R)	L -125	U 9 102
+05/12/17	ATL	L 4-8	Mike Foltynewicz (R)	Jose Urena (R)	L -122	O 9 104
+05/10/17	STL	L 5-7	Lance Lynn (R)	Tom Koehler (R)	L -114	O 9 104
+05/09/17	STL	L 5-6	Adam Wainwright (R)	Dan Straily (R)	L -113	O 8.5 102
+05/08/17	STL	L 4-9	Carlos Martinez (R)	Adam Conley (L)	L 104	O 8 -119
+05/07/17	@ NYM	W 7-0	Jose Urena (R)	Adam Wilk (L)	W 113	U 8.5 -101
+05/06/17	@ NYM	L 3-11	Odrisamer Despaigne (R)	Robert Gsellman (R)	L 138	O 8.5 -105
+05/05/17	@ NYM	L 7-8	Tom Koehler (R)	Rafael Montero (R)	L -104	O 9 -106
+05/04/17	@ TB	L 1-5	Dan Straily (R)	Matt Andriese (R)	L 110	U 8.5 102
+05/03/17	@ TB	W 10-6	Adam Conley (L)	Blake Snell (L)	W 115	O 8.5 100
+05/02/17	TB	L 1-3	Alex Cobb (R)	Edinson Volquez (R)	L -115	U 8 -104
+05/01/17	TB	L 2-4	Jake Odorizzi (R)	Wei-Yin Chen (L)	L -137	U 8 -108
+04/30/17	PIT	W 10-3	Chad Kuhl (R)	Tom Koehler (R)	W -121	O 8.5 102
+04/29/17	PIT	L 0-4	Ivan Nova (R)	Dan Straily (R)	L -134	U 7.5 -108
+04/28/17	PIT	L 2-12	Jameson Taillon (R)	Adam Conley (L)	L -113	O 8 -113
+04/27/17	@ PHI	L 2-3	Edinson Volquez (R)	Jeremy Hellickson (R)	L -104	U 8.5 108
+04/26/17	@ PHI	L 4-7	Wei-Yin Chen (L)	Vince Velasquez (R)	L -108	O 8 116
+04/23/17	@ SD	W 7-3	Tom Koehler (R)	Luis Perdomo (R)	W -118	O 8.5 -122
+04/22/17	@ SD	W 6-3	Dan Straily (R)	Jered Weaver (R)	W -123	O 8 -125
+04/21/17	@ SD	L 3-5	Adam Conley (L)	Trevor Cahill (R)	L 101	P 8 -
+04/19/17	@ SEA	L 5-10	Edinson Volquez (R)	Felix Hernandez (R)	L 126	O 8 -108
+04/18/17	@ SEA	W 5-0	Wei-Yin Chen (L)	Yovani Gallardo (R)	W -110	U 8.5 -114
+04/17/17	@ SEA	L 1-6	Tom Koehler (R)	Ariel Miranda (L)	L 121	U 8.5 -106
+04/16/17	NYM	W 4-2	Matt Harvey (R)	Dan Straily (R)	W -102	U 8.5 -112
+04/15/17	NYM	W 5-4	Jacob deGrom (R)	Adam Conley (L)	W 111	O 7.5 102
+04/14/17	NYM	W 3-2	Noah Syndergaard (R)	Edinson Volquez (R)	W 143	U 7.5 -117
+04/13/17	NYM	L 8-9	Robert Gsellman (R)	Wei-Yin Chen (L)	L -129	O 8 105
+04/12/17	ATL	L 4-5	Jaime Garcia (L)	Tom Koehler (R)	L -108	O 8 -101
+04/11/17	ATL	W 8-4	Bartolo Colon (R)	Dan Straily (R)	W -131	O 8.5 108
+04/09/17	@ NYM	L 2-5	Edinson Volquez (R)	Noah Syndergaard (R)	L 167	P 7 -
+04/08/17	@ NYM	W 8-1	Adam Conley (L)	Robert Gsellman (R)	W 108	O 8 -111
+04/07/17	@ NYM	W 7-2	Wei-Yin Chen (L)	Zack Wheeler (R)	W -113	O 7.5 112
+04/06/17	@ WAS	W 4-3	Tom Koehler (R)	Gio Gonzalez (L)	W 151	U 9 -104
+04/05/17	@ WAS	L 4-6	Dan Straily (R)	Tanner Roark (R)	L 146	O 8.5 -117
+04/03/17	@ WAS	L 2-4	Edinson Volquez (R)	Stephen Strasburg (R)	L 183	U 8 106
