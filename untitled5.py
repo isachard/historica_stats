@@ -7,7 +7,7 @@ Created on Sun Mar 22 14:19:02 2020
 """
 
 import pandas as pd
-df = pd.read_csv("mlb/data/test.txt")
+df = pd.read_csv("mlb/datasets/miami.csv")
 df.columns = ['Date', 'Team', 'Result', 'Score', 'PitcherF','PitcherL', 
               'Pitcher H', 'Opponent PitcherF',' Opponent PitcherL', 
               'Opponent Pitcher H', 'Result Run Line','Run Line Value',

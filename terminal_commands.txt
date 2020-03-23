@@ -3,7 +3,8 @@ This are some commands that I used to formatfor data cleaning the dataset of eac
 #The s,%,$,g part of the command line is the sed command to execute. The s stands for substitute, the , characters are delimiters (other characters can be used; /, : and @ are popular).
 
 $sed -E "s/[[:space:]]+/,/g" file > output_file
-$sed -i 's/@ /@/g' file > output_file
+$sed -i 's/@ /@/g' file
+$ls -1 | wc -l // You alwasy want to check the amount of teams ina specific folder, for example on mlb -> 30 teams plus one dataset with the every league in one file.
 
 # Caution  GNU sed won't have -E. From the BSD sed man page: "The -E, -a and -i options are non-standard FreeBSD extensions and may not be available on other operating systems."
-# You can also use awk with a flag to know if the replacement was already done but sed works already 
+# You can also use awk with a flag to know if the replacement was already done but sed works already
