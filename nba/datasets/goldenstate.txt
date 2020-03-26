@@ -1,0 +1,82 @@
+04/10/18	@ Utah	L 79-119	Regular Season	L 8	U 211
+04/08/18	@ Phoenix	W 117-100	Regular Season	W -12.5	U 217.5
+04/07/18	New Orleans	L 120-126	Regular Season	L -6	O 226.5
+04/05/18	@ Indiana	L 106-126	Regular Season	L -2.5	O 211
+04/03/18	@ Oklahoma City	W 111-107	Regular Season	W 4	U 221.5
+04/01/18	Phoenix	W 117-107	Regular Season	L -14	O 215
+03/31/18	@ Sacramento	W 112-96	Regular Season	W -8.5	U 209.5
+03/29/18	Milwaukee	L 107-116	Regular Season	L -4	O 213
+03/27/18	Indiana	L 81-92	Regular Season	L 8	U 200
+03/25/18	Utah	L 91-110	Regular Season	L 8.5	O 198.5
+03/23/18	Atlanta	W 106-94	Regular Season	W -10.5	U 220.5
+03/19/18	@ San Antonio	L 75-89	Regular Season	L 8	U 201
+03/17/18	@ Phoenix	W 124-109	Regular Season	W -5	O 215
+03/16/18	Sacramento	L 93-98	Regular Season	L -8.5	U 206
+03/14/18	L.A. Lakers	W 117-106	Regular Season	W -6	U 224
+03/11/18	@ Minnesota	L 103-109	Regular Season	L -3.5	U 225
+03/09/18	@ Portland	L 108-125	Regular Season	L 1	O 218
+03/08/18	San Antonio	W 110-107	Regular Season	L -11	U 222
+03/06/18	Brooklyn	W 114-101	Regular Season	L -14.5	U 231.5
+03/02/18	@ Atlanta	W 114-109	Regular Season	L -13	U 227
+02/28/18	@ Washington	W 109-101	Regular Season	L -8.5	U 227.5
+02/26/18	@ New York	W 125-111	Regular Season	W -12	O 229
+02/24/18	Oklahoma City	W 112-80	Regular Season	W -10	U 233.5
+02/22/18	L.A. Clippers	W 134-127	Regular Season	L -11	O 234.5
+02/14/18	@ Portland	L 117-123	Regular Season	L -6	O 228
+02/12/18	Phoenix	W 129-83	Regular Season	W -15.5	U 231
+02/10/18	San Antonio	W 122-105	Regular Season	W -10.5	O 218.5
+02/08/18	Dallas	W 121-103	Regular Season	W -14	O 221.5
+02/06/18	Oklahoma City	L 105-125	Regular Season	L -10	U 231
+02/03/18	@ Denver	L 108-115	Regular Season	L -5	U 231.5
+02/02/18	@ Sacramento	W 119-104	Regular Season	W -13.5	U 224
+01/30/18	@ Utah	L 99-129	Regular Season	L -7.5	O 216
+01/27/18	Boston	W 109-105	Regular Season	L -11	U 219
+01/25/18	Minnesota	W 126-113	Regular Season	W -12.5	O 229
+01/23/18	New York	W 123-112	Regular Season	L -16	O 227
+01/20/18	@ Houston	L 108-116	Regular Season	L -2.5	U 237.5
+01/17/18	@ Chicago	W 119-112	Regular Season	L -8.5	U 232
+01/15/18	@ Cleveland	W 118-108	Regular Season	W -5.5	U 233.5
+01/13/18	@ Toronto	W 127-125	Regular Season	L -5	O 227
+01/12/18	@ Milwaukee	W 108-94	Regular Season	W -4.5	U 221.5
+01/10/18	L.A. Clippers	L 106-125	Regular Season	L -12	O 219
+01/08/18	Denver	W 124-114	Regular Season	P -10	O 227.5
+01/06/18	@ L.A. Clippers	W 121-105	Regular Season	W -8	O 225.5
+01/04/18	@ Houston	W 124-114	Regular Season	W -4	O 231
+01/03/18	@ Dallas	W 125-122	Regular Season	L -8	O 220.5
+12/30/17	Memphis	W 141-128	Regular Season	L -14	O 205.5
+12/29/17	Charlotte	L 100-111	Regular Season	L -10	U 211.5
+12/27/17	Utah	W 126-101	Regular Season	W -11	O 204
+12/25/17	Cleveland	W 99-92	Regular Season	W -5	U 215.5
+12/23/17	Denver	L 81-96	Regular Season	L -8.5	U 217
+12/22/17	L.A. Lakers	W 113-106	Regular Season	L -11.5	O 216
+12/20/17	Memphis	W 97-84	Regular Season	W -9.5	U 204
+12/18/17	@ L.A. Lakers	W 116-114 (OT)	Regular Season	L -5.5	O 218.5
+12/14/17	Dallas	W 112-97	Regular Season	W -10	U 210.5
+12/11/17	Portland	W 111-104	Regular Season	L -8.5	U 217
+12/08/17	@ Detroit	W 102-98	Regular Season	L -5.5	U 211.5
+12/06/17	@ Charlotte	W 101-87	Regular Season	W -3	U 215
+12/04/17	@ New Orleans	W 125-115	Regular Season	W -9	O 228
+12/03/17	@ Miami	W 123-95	Regular Season	W -10.5	U 221.5
+12/01/17	@ Orlando	W 133-112	Regular Season	W -10.5	O 229
+11/29/17	@ L.A. Lakers	W 127-123 (OT)	Regular Season	L -13	O 228.5
+11/27/17	Sacramento	L 106-110	Regular Season	L -13	O 205
+11/25/17	New Orleans	W 110-95	Regular Season	W -10.5	U 228
+11/24/17	Chicago	W 143-94	Regular Season	W -16	O 211.5
+11/22/17	@ Oklahoma City	L 91-108	Regular Season	L -5.5	U 221.5
+11/19/17	@ Brooklyn	W 118-111	Regular Season	L -11.5	U 229.5
+11/18/17	@ Philadelphia	W 124-116	Regular Season	L -9	O 233.5
+11/16/17	@ Boston	L 88-92	Regular Season	L -7	U 218.5
+11/13/17	Orlando	W 110-100	Regular Season	L -12	U 223.5
+11/11/17	Philadelphia	W 135-114	Regular Season	W -13.5	O 231.5
+11/08/17	Minnesota	W 125-101	Regular Season	W -8.5	U 227
+11/06/17	Miami	W 97-80	Regular Season	W -14.5	U 223.5
+11/04/17	@ Denver	W 127-108	Regular Season	W -9	O 233
+11/02/17	@ San Antonio	W 112-92	Regular Season	W -8	U 218
+10/30/17	@ L.A. Clippers	W 141-113	Regular Season	W -5.5	O 222
+10/29/17	Detroit	L 107-115	Regular Season	L -14	O 221
+10/27/17	Washington	W 120-117	Regular Season	L -12	O 230.5
+10/25/17	Toronto	W 117-112	Regular Season	L -12.5	U 229.5
+10/23/17	@ Dallas	W 133-103	Regular Season	W -13	O 216.5
+10/21/17	@ Memphis	L 101-111	Regular Season	L -8.5	U 213
+10/20/17	@ New Orleans	W 128-120	Regular Season	L -9	O 221
+10/17/17	Houston	L 121-122	Regular Season	L -9.5	O 230.5
