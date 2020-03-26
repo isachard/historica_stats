@@ -1,0 +1,82 @@
+Apr 11	awayTeamLogo MIL	W 130-95	W -6	O 221
+Apr 10	awayTeamLogo @ ATL	W 121-113	L -10	O 220.5
+Apr 8	awayTeamLogo DAL	W 109-97	L -13	U 215.5
+Apr 6	awayTeamLogo CLE	W 132-130	L -3.5	O 225.5
+Apr 4	awayTeamLogo @ DET	W 115-108	W -2.5	O 215
+Apr 3	awayTeamLogo BK	W 121-95	W -8.5	U 224
+Apr 1	awayTeamLogo @ CHA	W 119-102	W -2.5	U 221.5
+Mar 30	awayTeamLogo @ ATL	W 101-91	W -7.5	U 223
+Mar 28	awayTeamLogo NY	W 118-101	W -13.5	U 223.5
+Mar 26	awayTeamLogo DEN	W 123-104	W -5	P 227
+Mar 24	awayTeamLogo MIN	W 120-108	W -8	O 224
+Mar 22	awayTeamLogo @ ORL	W 118-98	W -8	O 212.5
+Mar 21	awayTeamLogo MEM	W 119-105	W -12.5	O 208.5
+Mar 19	awayTeamLogo CHA	W 108-94	W -8.5	U 221
+Mar 16	awayTeamLogo BK	W 120-116	L -8.5	O 217
+Mar 15	awayTeamLogo @ NY	W 118-110	L -10	O 218
+Mar 13	awayTeamLogo IND	L 98-101	L -6.5	U 211.5
+Mar 11	awayTeamLogo @ BK	W 120-97	W -5.5	U 219
+Mar 8	awayTeamLogo @ MIA	L 99-108	L 1	U 210.5
+Mar 6	awayTeamLogo @ CHA	W 128-114	W -1.5	O 214.5
+Mar 4	awayTeamLogo @ MIL	L 110-118	L -1.5	O 209
+Mar 2	awayTeamLogo CHA	W 110-99	W -3.5	U 215.5
+Mar 1	awayTeamLogo @ CLE	W 108-97	W 2.5	U 222
+Feb 27	awayTeamLogo @ MIA	L 101-102	P 1	U 205
+Feb 25	awayTeamLogo @ WAS	L 94-109	L 1.5	U 214.5
+Feb 24	awayTeamLogo ORL	W 116-105	W -9.5	O 216.5
+Feb 22	awayTeamLogo @ CHI	W 116-115	L -7.5	O 213.5
+Feb 14	awayTeamLogo MIA	W 104-102	L -4	O 202
+Feb 12	awayTeamLogo NY	W 108-92	W -11.5	U 210
+Feb 10	awayTeamLogo LAC	W 112-98	W -5	U 218.5
+Feb 9	awayTeamLogo NO	W 100-82	W -5.5	U 222
+Feb 6	awayTeamLogo WAS	W 115-102	W -6.5	O 213.5
+Feb 3	awayTeamLogo @ IND	L 92-100	L 1	U 210.5
+Feb 2	awayTeamLogo MIA	W 103-97	W -4	U 203
+Jan 31	awayTeamLogo @ BK	L 108-116	L -7.5	O 213
+Jan 29	awayTeamLogo @ MIL	L 95-107	L 6.5	U 208
+Jan 28	awayTeamLogo @ OKC	L 112-122	L 3.5	O 215
+Jan 26	awayTeamLogo @ SA	W 97-78	W 4	U 199
+Jan 24	awayTeamLogo CHI	W 115-101	W -5.5	U 217
+Jan 22	awayTeamLogo @ MEM	L 101-105	L -3	O 203
+Jan 20	awayTeamLogo MIL	W 116-94	W -7.5	O 209
+Jan 18	awayTeamLogo @ BOS	W 89-80	W 3	U 203
+Jan 15	awayTeamLogo TOR	W 117-111	W 1.5	O 220
+Jan 11	awayTeamLogo BOS NEUTRAL	L 103-114	L 2	O 212
+Jan 5	awayTeamLogo DET	W 114-78	W -5.5	U 210.5
+Jan 3	awayTeamLogo SA	W 112-106	W -3.5	O 207.5
+Dec 31	awayTeamLogo @ PHO	W 123-110	W -3	O 220
+Dec 30	awayTeamLogo @ DEN	W 107-102	W 7	U 214
+Dec 28	awayTeamLogo @ POR	L 110-114	L -1.5	O 207
+Dec 25	awayTeamLogo @ NY	W 105-98	W 1	U 211.5
+Dec 23	awayTeamLogo @ TOR	L 86-102	L 8	U 219
+Dec 21	awayTeamLogo TOR	L 109-114	L 4	O 217.5
+Dec 19	awayTeamLogo SAC	L 95-101	L -8	U 206.5
+Dec 18	awayTeamLogo @ CHI	L 115-117	L -2	O 209.5
+Dec 15	awayTeamLogo OKC	L 117-119 (OT)	L -1	O 213.5
+Dec 12	awayTeamLogo @ MIN	W 118-112 (OT)	W 5	O 215
+Dec 10	awayTeamLogo @ NO	L 124-131	P 7	O 218
+Dec 9	awayTeamLogo @ CLE	L 98-105	L 6.5	U 221.5
+Dec 7	awayTeamLogo LAL	L 104-107	L -8.5	U 221
+Dec 4	awayTeamLogo PHO	L 101-115	L -10	U 227.5
+Dec 2	awayTeamLogo DET	W 108-103	W -4.5	U 213
+Nov 30	awayTeamLogo @ BOS	L 97-108	L 8	U 210.5
+Nov 29	awayTeamLogo WAS	W 118-113	L -7	O 211.5
+Nov 27	awayTeamLogo CLE	L 91-113	L -2.5	U 224
+Nov 25	awayTeamLogo ORL	W 130-111	W -5.5	O 221
+Nov 22	awayTeamLogo POR	W 101-81	W -4	U 211
+Nov 20	awayTeamLogo UTA	W 107-86	W -6	U 211
+Nov 18	awayTeamLogo GS	L 116-124	W 9	O 233.5
+Nov 15	awayTeamLogo @ LAL	W 115-109	W -3.5	O 220.5
+Nov 13	awayTeamLogo @ LAC	W 109-105	W 2	U 222.5
+Nov 11	awayTeamLogo @ GS	L 114-135	L 13.5	O 231.5
+Nov 9	awayTeamLogo @ SAC	L 108-109	L -6.5	O 208
+Nov 7	awayTeamLogo @ UTA	W 104-97	W 6.5	U 203.5
+Nov 3	awayTeamLogo IND	W 121-110	W -5	O 216.5
+Nov 1	awayTeamLogo ATL	W 119-109	W -7.5	O 209
+Oct 30	awayTeamLogo @ HOU	W 115-107	W 7	O 215
+Oct 28	awayTeamLogo @ DAL	W 112-110	W -1	O 205
+Oct 25	awayTeamLogo HOU	L 104-105	W 3	U 221
+Oct 23	awayTeamLogo @ DET	W 97-86	W 3.5	U 214
+Oct 21	awayTeamLogo @ TOR	L 94-128	L 9	O 218.5
+Oct 20	awayTeamLogo BOS	L 92-102	L -3	U 216.5
+Oct 18	awayTeamLogo @ WAS	L 115-120	W 6.5	O 218
