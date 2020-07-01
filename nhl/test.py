@@ -88,5 +88,5 @@ a.distribution_over()
 print("\nHow many games in 2017 regular season:?\n")
 
 
-# print(a._over())
-# print(a._under())
+print(a._over())
+print(a._under())

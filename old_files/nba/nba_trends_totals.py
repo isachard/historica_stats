@@ -62,3 +62,6 @@ startUnders()
 
 print(dictionaryOvers.values())
 # print(dictionaryUnders)
+
+for k,v in dictionaryOvers.items():
+    print(k,v)
