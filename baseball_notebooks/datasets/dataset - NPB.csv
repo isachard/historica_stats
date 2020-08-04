@@ -1,0 +1,89 @@
+date,home_team,away_team,score_home,score_away,total_line
+6/19/20,Fukuoka S. Hawks,Chiba Lotte Marines,2,1,8.5
+6/19/20,Orix Buffaloes,Rakuten Gold. Eagles,1,9,7.5
+6/19/20,Seibu Lions,Nippon Ham Fighters,3,0,8.5
+6/19/20,Yakult Swallows,Chunichi Dragons,7,9,8.5
+6/19/20,Yokohama Baystars,Hiroshima Carps,1,5,7.5
+6/19/20,Yomiuri Giants,Hanshin Tigers,3,2,7.5
+6/20/20,Fukuoka S. Hawks,Chiba Lotte Marines,2,3,8.5
+6/20/20,Orix Buffaloes,Rakuten Gold. Eagles,1,2,8
+6/20/20,Seibu Lions,Nippon Ham Fighters,1,2,9.5
+6/20/20,Yakult Swallows,Chunichi Dragons,6,2,9.5
+6/20/20,Yokohama Baystars,Hiroshima Carps,5,10,8.5
+6/20/20,Yomiuri Giants,Hanshin Tigers,11,1,8
+6/21/20,Fukuoka S. Hawks,Chiba Lotte Marines,1,5,8.5
+6/21/20,Seibu Lions,Nippon Ham Fighters,2,12,9.5
+6/21/20,Yokohama Baystars,Hiroshima Carps,2,1,8.5
+6/21/20,Orix Buffaloes,Rakuten Gold. Eagles,4,0,7.5
+6/21/20,Yakult Swallows,Chunichi Dragons,0,3,9.5
+6/21/20,Yomiuri Giants,Hanshin Tigers,7,1,8.5
+6/23/20,Chiba Lotte Marines,Orix Buffaloes,6,5,7.5
+6/23/20,Rakuten Gold. Eagles,Nippon Ham Fighters,4,0,7.5
+6/23/20,Seibu Lions,Fukuoka S. Hawks,11,3,8.5
+6/23/20,Yakult Swallows,Hanshin Tigers,1,4,8.5
+6/23/20,Yokohama Baystars,Chunichi Dragons,3,0,8
+6/23/20,Yomiuri Giants,Hiroshima Carps,3,2,8
+6/24/20,Chiba Lotte Marines,Orix Buffaloes,6,4,7.5
+6/24/20,Rakuten Gold. Eagles,Nippon Ham Fighters,5,2,8.5
+6/24/20,Seibu Lions,Fukuoka S. Hawks,6,9,9.5
+6/24/20,Yakult Swallows,Hanshin Tigers,6,1,9
+6/24/20,Yokohama Baystars,Chunichi Dragons,3,2,8.5
+6/24/20,Yomiuri Giants,Hiroshima Carps,1,5,8.5
+6/25/20,Chiba Lotte Marines,Orix Buffaloes,5,0,8
+6/25/20,Rakuten Gold. Eagles,Nippon Ham Fighters,5,8,7.5
+6/25/20,Seibu Lions,Fukuoka S. Hawks,2,4,9.5
+6/25/20,Yakult Swallows,Hanshin Tigers,3,1,9.5
+6/25/20,Yokohama Baystars,Chunichi Dragons,10,2,8.5
+6/25/20,Yomiuri Giants,Hiroshima Carps,5,5,8.5
+6/26/20,Chiba Lotte Marines,Orix Buffaloes,2,1,7.5
+6/26/20,Chunichi Dragons,Hiroshima Carps,6,1,7.5
+6/26/20,Rakuten Gold. Eagles,Nippon Ham Fighters,18,4,7.5
+6/26/20,Seibu Lions,Fukuoka S. Hawks,8,7,9.5
+6/26/20,Yakult Swallows,Yomiuri Giants,9,6,9.5
+6/26/20,Chiba Lotte Marines,Orix Buffaloes,6,5,6.5
+6/26/20,Chunichi Dragons,Hiroshima Carps,1,4,6.5
+6/26/20,Rakuten Gold. Eagles,Nippon Ham Fighters,7,1,7
+6/26/20,Seibu Lions,Fukuoka S. Hawks,7,4,8.5
+6/26/20,Yakult Swallows,Yomiuri Giants,5,6,8.5
+6/26/20,Yokohama Baystars,Hanshin Tigers,6,0,7.5
+6/27/20,Yokohama Baystars,Hanshin Tigers,6,8,8.5
+6/28/20,Yokohama Baystars,Hanshin Tigers,9,1,9
+6/28/20,Chiba Lotte Marines,Orix Buffaloes,6,5,7
+6/28/20,Chunichi Dragons,Hiroshima Carps,3,10,7
+6/28/20,Rakuten Gold. Eagles,Nippon Ham Fighters,4,6,9
+6/28/20,Seibu Lions,Fukuoka S. Hawks,4,3,10.5
+6/28/20,Yakult Swallows,Yomiuri Giants,0,12,9.5
+6/30/20,Chunichi Dragons,Hanshin Tigers,5,0,7.5
+6/30/20,Nippon Ham Fighters,Fukuoka S. Hawks,1,1,7.5
+6/30/20,Rakuten Gold. Eagles,Chiba Lotte Marines,15,4,8.5
+6/30/20,Seibu Lions,Orix Buffaloes,3,2,9.5
+6/30/20,Yomiuri Giants,Yokohama Baystars,5,2,7.5
+7/1/20,Chunichi Dragons,Hanshin Tigers,6,3,7.5
+7/1/20,Nippon Ham Fighters,Fukuoka S. Hawks,0,4,7.5
+7/1/20,Rakuten Gold. Eagles,Chiba Lotte Marines,5,3,8.5
+7/1/20,Seibu Lions,Orix Buffaloes,0,6,9.5
+7/1/20,Yakult Swallows,Hiroshima Carps,4,3,9
+7/1/20,Yomiuri Giants,Yokohama Baystars,3,5,8.5
+7/2/20,Chunichi Dragons,Hanshin Tigers,4,2,7.5
+7/2/20,Nippon Ham Fighters,Fukuoka S. Hawks,9,8,7.5
+7/2/20,Rakuten Gold. Eagles,Chiba Lotte Marines,5,8,8.5
+7/2/20,Seibu Lions,Orix Buffaloes,9,5,9
+7/2/20,Yakult Swallows,Hiroshima Carps,9,5,9.5
+7/2/20,Yomiuri Giants,Yokohama Baystars,5,3,8.5
+7/3/20,Nippon Ham Fighters,Fukuoka S. Hawks,1,4,7
+7/3/20,Rakuten Gold. Eagles,Chiba Lotte Marines,3,1,7.5
+7/3/20,Seibu Lions,Orix Buffaloes,4,4,8.5
+7/3/20,Yakult Swallows,Yokohama Baystars,4,5,8.5
+7/3/20,Yomiuri Giants,Chunichi Dragons,5,0,7.5
+7/4/20,Yomiuri Giants,Chunichi Dragons,7,3,8.5
+7/4/20,Rakuten Gold. Eagles,Chiba Lotte Marines,3,1,8
+7/4/20,Nippon Ham Fighters,Fukuoka S. Hawks,3,8,7.5
+7/4/20,Hiroshima Carps,Hanshin Tigers,3,9,7.5
+7/4/20,Seibu Lions,Orix Buffaloes,3,4,8.5
+7/4/20,Yakult Swallows,Yokohama Baystars,10,8,10
+7/5/20,Seibu Lions,Orix Buffaloes,5,8,8.5
+7/5/20,Yakult Swallows,Yokohama Baystars,1,8,9.5
+7/5/20,Yomiuri Giants,Chunichi Dragons,4,6,8.5
+7/5/20,Hiroshima Carps,Hanshin Tigers,3,8,8
+7/5/20,Nippon Ham Fighters,Fukuoka S. Hawks,5,3,8.5
+7/5/20,Rakuten Gold. Eagles,Chiba Lotte Marines,8,1,8.5

@@ -1,0 +1,264 @@
+,home_team,away_team,score_home,score_away,total_line
+5/5/20,Kia Tigers,Kiwoom Heroes,2,11,7.5
+5/5/20,KT Wiz Suwon,Lotte Giants,2,7,8.5
+5/5/20,LG Twins,Doosan Bears,8,2,8.5
+5/5/20,Samsung Lions,NC Dinos,0,4,8.5
+5/5/20,SK Wyverns,Hanwha Eagles,0,3,8
+5/6/20,Kia Tigers,Kiwoom Heroes,2,3,8
+5/6/20,KT Wiz Suwon,Lotte Giants,4,9,9.5
+5/6/20,LG Twins,Doosan Bears,2,5,9.5
+5/6/20,Samsung Lions,NC Dinos,3,4,8
+5/6/20,SK Wyverns,Hanwha Eagles,5,2,9
+5/7/20,Kia Tigers,Kiwoom Heroes,8,5,9
+5/7/20,KT Wiz Suwon,Lotte Giants,3,7,9
+5/7/20,LG Twins,Doosan Bears,3,9,9
+5/7/20,Samsung Lions,NC Dinos,2,8,8.5
+5/7/20,SK Wyverns,Hanwha Eagles,4,8,9
+5/8/20,Doosan Bears,KT Wiz Suwon,3,12,9
+5/8/20,Kiwoom Heroes,Hanwha Eagles,5,3,9.5
+5/8/20,Lotte Giants,SK Wyverns,9,8,9.5
+5/8/20,NC Dinos,LG Twins,13,5,8.5
+5/8/20,Samsung Lions,Kia Tigers,5,0,8.5
+5/9/20,Kiwoom Heroes,Hanwha Eagles,5,3,9.5
+5/9/20,Samsung Lions,Kia Tigers,14,2,9.5
+5/10/20,Doosan Bears,KT Wiz Suwon,13,12,9.5
+5/10/20,Kiwoom Heroes,Hanwha Eagles,6,3,7.5
+5/10/20,Lotte Giants,SK Wyverns,4,0,9
+5/10/20,NC Dinos,LG Twins,8,10,9.5
+5/10/20,Samsung Lions,Kia Tigers,3,12,8.5
+5/12/20,Hanwha Eagles,Kia Tigers,1,2,8.5
+5/12/20,Kiwoom Heroes,Samsung Lions,3,2,8.5
+5/12/20,LG Twins,SK Wyverns,9,5,8.5
+5/12/20,Lotte Giants,Doosan Bears,6,11,10.5
+5/12/20,NC Dinos,KT Wiz Suwon,7,6,8.5
+5/13/20,Hanwha Eagles,Kia Tigers,3,4,9.5
+5/13/20,Kiwoom Heroes,Samsung Lions,0,5,9
+5/13/20,LG Twins,SK Wyverns,14,2,9.5
+5/13/20,Lotte Giants,Doosan Bears,10,9,10.5
+5/13/20,NC Dinos,KT Wiz Suwon,5,4,9.5
+5/14/20,Hanwha Eagles,Kia Tigers,4,1,8.5
+5/14/20,Kiwoom Heroes,Samsung Lions,5,8,8.5
+5/14/20,LG Twins,SK Wyverns,3,2,9.5
+5/14/20,Lotte Giants,Doosan Bears,4,7,10.5
+5/14/20,NC Dinos,KT Wiz Suwon,1,0,10
+5/15/20,Hanwha Eagles,Lotte Giants,2,1,8.5
+5/15/20,Kia Tigers,Doosan Bears,4,13,10.5
+5/15/20,KT Wiz Suwon,Samsung Lions,14,6,9.5
+5/15/20,SK Wyverns,NC Dinos,2,6,9
+5/15/20,LG Twins,Kiwoom Heroes,3,1,8.5
+5/15/20,Hanwha Eagles,Lotte Giants,1,5,9
+5/16/20,SK Wyverns,NC Dinos,1,2,9.5
+5/16/20,LG Twins,Kiwoom Heroes,5,3,11.5
+5/16/20,KT Wiz Suwon,Samsung Lions,10,4,11
+5/16/20,Kia Tigers,Doosan Bears,13,4,9.5
+5/17/20,SK Wyverns,NC Dinos,5,11,9.5
+5/17/20,LG Twins,Kiwoom Heroes,4,9,8.5
+5/17/20,KT Wiz Suwon,Samsung Lions,9,2,8.5
+5/17/20,Kia Tigers,Doosan Bears,4,6,9.5
+5/17/20,Hanwha Eagles,Lotte Giants,5,4,10
+5/19/20,Doosan Bears,NC Dinos,4,5,9.5
+5/19/20,Kia Tigers,Lotte Giants,9,2,10.5
+5/19/20,Kiwoom Heroes,SK Wyverns,11,6,8.5
+5/19/20,KT Wiz Suwon,Hanwha Eagles,13,11,9.5
+5/19/20,Samsung Lions,LG Twins,6,10,9.5
+5/20/20,Doosan Bears,NC Dinos,2,1,8.5
+5/20/20,Kia Tigers,Lotte Giants,6,0,8.5
+5/20/20,Kiwoom Heroes,SK Wyverns,3,5,10.5
+5/20/20,KT Wiz Suwon,Hanwha Eagles,8,1,10
+5/20/20,Samsung Lions,LG Twins,3,1,9.5
+5/21/20,Doosan Bears,NC Dinos,6,12,10.5
+5/21/20,Kia Tigers,Lotte Giants,6,1,11
+5/21/20,Kiwoom Heroes,SK Wyverns,8,7,10
+5/21/20,KT Wiz Suwon,Hanwha Eagles,4,9,10.5
+5/21/20,Samsung Lions,LG Twins,0,2,11.5
+5/22/20,SK Wyverns,Kia Tigers,1,2,10
+5/22/20,Samsung Lions,Doosan Bears,7,12,11
+5/22/20,NC Dinos,Hanwha Eagles,3,5,9
+5/22/20,Lotte Giants,Kiwoom Heroes,9,7,9.5
+5/22/20,LG Twins,KT Wiz Suwon,6,5,9
+5/23/20,LG Twins,KT Wiz Suwon,2,6,10.5
+5/23/20,SK Wyverns,Kia Tigers,3,8,8.5
+5/23/20,Samsung Lions,Doosan Bears,6,10,11.5
+5/23/20,NC Dinos,Hanwha Eagles,3,0,9.5
+5/23/20,Lotte Giants,Kiwoom Heroes,4,12,10.5
+5/24/20,SK Wyverns,Kia Tigers,4,3,9.5
+5/24/20,Samsung Lions,Doosan Bears,13,0,11.5
+5/24/20,NC Dinos,Hanwha Eagles,10,5,9.5
+5/24/20,Lotte Giants,Kiwoom Heroes,2,0,11
+5/24/20,LG Twins,KT Wiz Suwon,9,7,10
+5/26/20,Doosan Bears,SK Wyverns,6,4,9.5
+5/26/20,Hanwha Eagles,LG Twins,0,3,8.5
+5/26/20,KT Wiz Suwon,Kia Tigers,1,4,9.5
+5/26/20,Lotte Giants,Samsung Lions,1,0,9.5
+5/26/20,NC Dinos,Kiwoom Heroes,7,2,9.5
+5/27/20,Doosan Bears,SK Wyverns,4,2,10.5
+5/27/20,Hanwha Eagles,LG Twins,4,15,10.5
+5/27/20,KT Wiz Suwon,Kia Tigers,5,0,9.5
+5/27/20,Lotte Giants,Samsung Lions,1,11,10.5
+5/27/20,NC Dinos,Kiwoom Heroes,10,3,10.5
+5/28/20,Doosan Bears,SK Wyverns,1,6,11.5
+5/28/20,Hanwha Eagles,LG Twins,0,3,8.5
+5/28/20,KT Wiz Suwon,Kia Tigers,6,5,9.5
+5/28/20,Lotte Giants,Samsung Lions,1,3,10.5
+5/28/20,NC Dinos,Kiwoom Heroes,9,6,11.5
+5/29/20,Doosan Bears,Lotte Giants,4,2,10.5
+5/29/20,Kia Tigers,LG Twins,2,6,9.5
+5/29/20,Kiwoom Heroes,KT Wiz Suwon,5,1,10
+5/29/20,Samsung Lions,NC Dinos,5,4,10
+5/29/20,SK Wyverns,Hanwha Eagles,8,6,9
+5/30/20,Kia Tigers,LG Twins,10,6,10
+5/30/20,SK Wyverns,Hanwha Eagles,9,3,9.5
+5/30/20,Samsung Lions,NC Dinos,9,1,9.5
+5/30/20,Kiwoom Heroes,KT Wiz Suwon,14,3,9.5
+5/30/20,Doosan Bears,Lotte Giants,5,4,10.5
+5/31/20,SK Wyverns,Hanwha Eagles,6,4,9
+5/31/20,Samsung Lions,NC Dinos,7,18,9.5
+5/31/20,Kiwoom Heroes,KT Wiz Suwon,8,12,10
+5/31/20,Kia Tigers,LG Twins,5,13,8.5
+5/31/20,Doosan Bears,Lotte Giants,3,8,8.5
+6/1/20,Hanwha Eagles,Kiwoom Heroes,3,15,10
+6/1/20,Kia Tigers,Lotte Giants,7,2,9.5
+6/1/20,KT Wiz Suwon,Doosan Bears,8,11,10.5
+6/1/20,LG Twins,Samsung Lions,0,2,10
+6/1/20,NC Dinos,SK Wyverns,2,8,10
+6/2/20,Hanwha Eagles,Kiwoom Heroes,2,6,10
+6/2/20,Kia Tigers,Lotte Giants,11,2,8.5
+6/2/20,KT Wiz Suwon,Doosan Bears,7,2,12.5
+6/2/20,LG Twins,Samsung Lions,6,12,9
+6/2/20,NC Dinos,SK Wyverns,8,6,10.5
+6/3/20,Hanwha Eagles,Kiwoom Heroes,3,7,9.5
+6/3/20,Kia Tigers,Lotte Giants,7,3,9.5
+6/3/20,KT Wiz Suwon,Doosan Bears,8,14,11.5
+6/3/20,LG Twins,Samsung Lions,11,0,10.5
+6/3/20,NC Dinos,SK Wyverns,10,0,9.5
+6/4/20,Doosan Bears,Kia Tigers,5,1,11
+6/4/20,Hanwha Eagles,NC Dinos,2,13,10.5
+6/4/20,Kiwoom Heroes,LG Twins,6,3,10.5
+6/4/20,Lotte Giants,KT Wiz Suwon,6,4,12
+6/4/20,SK Wyverns,Samsung Lions,4,1,10.5
+6/5/20,Doosan Bears,Kia Tigers,4,3,9
+6/5/20,Hanwha Eagles,NC Dinos,2,14,8.5
+6/5/20,Kiwoom Heroes,LG Twins,5,4,10.5
+6/5/20,Lotte Giants,KT Wiz Suwon,1,0,9.5
+6/5/20,SK Wyverns,Samsung Lions,6,4,9
+6/6/20,Doosan Bears,Kia Tigers,3,2,10.5
+6/6/20,Hanwha Eagles,NC Dinos,2,8,11.5
+6/6/20,Kiwoom Heroes,LG Twins,1,8,11
+6/6/20,Lotte Giants,KT Wiz Suwon,5,2,10.5
+6/6/20,SK Wyverns,Samsung Lions,0,3,9.5
+6/9/20,KT Wiz Suwon,Kia Tigers,2,3,10.5
+6/9/20,LG Twins,SK Wyverns,3,5,10
+6/9/20,Lotte Giants,Hanwha Eagles,9,3,8.5
+6/9/20,NC Dinos,Doosan Bears,12,8,12.5
+6/9/20,Samsung Lions,Kiwoom Heroes,3,5,10.5
+6/10/20,KT Wiz Suwon,Kia Tigers,0,10,10.5
+6/10/20,Lotte Giants,Hanwha Eagles,12,2,10
+6/10/20,NC Dinos,Doosan Bears,1,9,10.5
+6/10/20,Samsung Lions,Kiwoom Heroes,4,1,10.5
+6/11/20,KT Wiz Suwon,Kia Tigers,13,8,11
+6/11/20,LG Twins,SK Wyverns,4,3,9.5
+6/11/20,Lotte Giants,Hanwha Eagles,5,0,11
+6/11/20,NC Dinos,Doosan Bears,7,5,11.5
+6/11/20,Samsung Lions,Kiwoom Heroes,6,3,11
+6/11/20,LG Twins,SK Wyverns,3,1,9.5
+6/12/20,SK Wyverns,Kia Tigers,3,6,8.5
+6/12/20,NC Dinos,Kiwoom Heroes,2,3,10.5
+6/12/20,LG Twins,Lotte Giants,3,2,8.5
+6/12/20,Hanwha Eagles,Doosan Bears,2,5,10.5
+6/12/20,Samsung Lions,KT Wiz Suwon,5,3,9.5
+6/13/20,LG Twins,Lotte Giants,6,7,9.5
+6/13/20,NC Dinos,Kiwoom Heroes,5,18,11
+6/13/20,SK Wyverns,Kia Tigers,1,2,9.5
+6/13/20,Samsung Lions,KT Wiz Suwon,4,7,10.5
+6/13/20,Hanwha Eagles,Doosan Bears,7,6,10.5
+6/14/20,SK Wyverns,Kia Tigers,4,3,9.5
+6/14/20,Samsung Lions,KT Wiz Suwon,12,0,10.5
+6/14/20,NC Dinos,Kiwoom Heroes,9,5,12.5
+6/14/20,LG Twins,Lotte Giants,10,6,9
+6/14/20,Hanwha Eagles,Doosan Bears,3,2,10.5
+6/16/20,Doosan Bears,Samsung Lions,3,4,9.5
+6/16/20,Hanwha Eagles,LG Twins,5,9,9.5
+6/16/20,Kia Tigers,NC Dinos,7,4,9
+6/16/20,Kiwoom Heroes,Lotte Giants,5,7,9.5
+6/16/20,SK Wyverns,KT Wiz Suwon,5,6,10.5
+6/17/20,Doosan Bears,Samsung Lions,3,6,9.5
+6/17/20,Hanwha Eagles,LG Twins,1,7,10.5
+6/17/20,Kia Tigers,NC Dinos,7,6,10
+6/17/20,Kiwoom Heroes,Lotte Giants,4,3,10
+6/17/20,SK Wyverns,KT Wiz Suwon,4,6,10.5
+6/18/20,Doosan Bears,Samsung Lions,7,3,10.5
+6/18/20,Hanwha Eagles,LG Twins,7,9,9.5
+6/18/20,Kiwoom Heroes,Lotte Giants,3,2,9
+6/18/20,SK Wyverns,KT Wiz Suwon,3,5,9.5
+6/19/20,Kia Tigers,Samsung Lions,5,4,8.5
+6/19/20,Kiwoom Heroes,SK Wyverns,2,1,9.5
+6/19/20,KT Wiz Suwon,Lotte Giants,9,8,10
+6/19/20,LG Twins,Doosan Bears,10,18,10
+6/19/20,NC Dinos,Hanwha Eagles,3,1,9.5
+6/20/20,Kia Tigers,Samsung Lions,6,3,8.5
+6/20/20,Kiwoom Heroes,SK Wyverns,9,3,10
+6/20/20,KT Wiz Suwon,Lotte Giants,0,8,10.5
+6/20/20,LG Twins,Doosan Bears,2,8,10.5
+6/20/20,NC Dinos,Hanwha Eagles,3,4,9.5
+6/21/20,Kia Tigers,Samsung Lions,5,12,8.5
+6/21/20,Kiwoom Heroes,SK Wyverns,7,2,8.5
+6/21/20,KT Wiz Suwon,Lotte Giants,3,2,10.5
+6/21/20,LG Twins,Doosan Bears,1,3,9.5
+6/21/20,NC Dinos,Hanwha Eagles,9,7,11
+6/23/20,KT Wiz Suwon,NC Dinos,3,4,9.5
+6/23/20,LG Twins,Kiwoom Heroes,3,8,10.5
+6/23/20,Lotte Giants,Kia Tigers,4,3,9.5
+6/23/20,Samsung Lions,Hanwha Eagles,11,4,10.5
+6/23/20,SK Wyverns,Doosan Bears,2,9,9.5
+6/24/20,Samsung Lions,Hanwha Eagles,3,2,10.5
+6/25/20,SK Wyverns,Doosan Bears,6,14,10.5
+6/25/20,LG Twins,Kiwoom Heroes,2,5,9.5
+6/25/20,KT Wiz Suwon,NC Dinos,1,3,10.5
+6/25/20,SK Wyverns,Doosan Bears,7,0,9
+6/25/20,Samsung Lions,Hanwha Eagles,2,9,9.5
+6/25/20,LG Twins,Kiwoom Heroes,5,8,9
+6/25/20,KT Wiz Suwon,NC Dinos,19,6,9.5
+6/26/20,Doosan Bears,NC Dinos,3,9,11
+6/26/20,Hanwha Eagles,KT Wiz Suwon,7,4,9.5
+6/26/20,Kiwoom Heroes,Kia Tigers,6,8,9.5
+6/26/20,Lotte Giants,Samsung Lions,4,6,8.5
+6/26/20,SK Wyverns,LG Twins,7,0,9.5
+6/27/20,Doosan Bears,NC Dinos,12,3,10.5
+6/27/20,Hanwha Eagles,KT Wiz Suwon,2,7,9.5
+6/27/20,Kiwoom Heroes,Kia Tigers,2,0,8.5
+6/27/20,Lotte Giants,Samsung Lions,1,6,9.5
+6/27/20,SK Wyverns,LG Twins,0,3,9.5
+6/28/20,Doosan Bears,NC Dinos,0,5,9
+6/28/20,Hanwha Eagles,KT Wiz Suwon,4,8,9.5
+6/28/20,Kiwoom Heroes,Kia Tigers,1,0,8.5
+6/28/20,Lotte Giants,Samsung Lions,7,3,10.5
+6/28/20,SK Wyverns,LG Twins,0,4,10
+6/30/20,Kiwoom Heroes,Doosan Bears,11,2,10.5
+6/30/20,LG Twins,KT Wiz Suwon,4,3,9.5
+6/30/20,NC Dinos,Lotte Giants,8,10,10.5
+6/30/20,Samsung Lions,SK Wyverns,4,1,9.5
+7/1/20,Kia Tigers,Hanwha Eagles,4,3,9.5
+7/1/20,Kiwoom Heroes,Doosan Bears,5,14,10.5
+7/1/20,LG Twins,KT Wiz Suwon,5,11,9.5
+7/1/20,NC Dinos,Lotte Giants,6,2,9.5
+7/1/20,Samsung Lions,SK Wyverns,7,1,8.5
+7/2/20,Kia Tigers,Hanwha Eagles,7,1,8.5
+7/2/20,Kiwoom Heroes,Doosan Bears,10,7,11.5
+7/2/20,LG Twins,KT Wiz Suwon,3,4,9.5
+7/2/20,NC Dinos,Lotte Giants,9,7,9.5
+7/2/20,Samsung Lions,SK Wyverns,6,2,9.5
+7/3/20,Doosan Bears,Hanwha Eagles,2,1,9.5
+7/3/20,KT Wiz Suwon,Kiwoom Heroes,3,2,8.5
+7/3/20,Lotte Giants,SK Wyverns,4,7,8.5
+7/3/20,NC Dinos,Kia Tigers,2,8,10.5
+7/3/20,Samsung Lions,LG Twins,9,7,9.5
+7/4/20,Doosan Bears,Hanwha Eagles,2,6,9.5
+7/4/20,KT Wiz Suwon,Kiwoom Heroes,6,10,9.5
+7/4/20,Lotte Giants,SK Wyverns,10,4,10
+7/4/20,NC Dinos,Kia Tigers,9,2,9
+7/4/20,Samsung Lions,LG Twins,7,6,10.5
+7/5/20,Doosan Bears,Hanwha Eagles,7,4,10.5
+7/5/20,KT Wiz Suwon,Kiwoom Heroes,10,5,11
+7/5/20,Lotte Giants,SK Wyverns,3,6,9.5
+7/5/20,NC Dinos,Kia Tigers,7,6,9
+7/5/20,Samsung Lions,LG Twins,3,7,9.5
